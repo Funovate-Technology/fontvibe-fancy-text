@@ -37,7 +37,7 @@
     "./package.json": "./package.json"
   },
   "bin": {
-    "unicode-text-styles": "./cli.js"
+    "unicode-text-styles": "cli.js"
   },
   "files": [
     "index.js",
