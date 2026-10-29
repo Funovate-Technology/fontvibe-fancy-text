@@ -13,7 +13,6 @@
     "ja": "太字",
     "zh": "粗体"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "map",
@@ -231,7 +230,6 @@
     "ja": "斜体",
     "zh": "斜体"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "map",
@@ -429,7 +427,6 @@
     "ja": "太字",
     "zh": "粗体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -627,7 +624,6 @@
     "ja": "筆記体",
     "zh": "花体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -825,7 +821,6 @@
     "ja": "丸文字",
     "zh": "圆圈字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "number_runs",
@@ -942,7 +937,6 @@
     "ja": "丸文字",
     "zh": "圆圈字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "number_runs",
@@ -1059,7 +1053,6 @@
     "ja": "丸文字",
     "zh": "圆圈字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "number_runs",
@@ -1176,7 +1169,6 @@
     "ja": "数字",
     "zh": "数字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "number_runs",
@@ -1301,7 +1293,6 @@
     "ja": "数字",
     "zh": "数字"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -1407,7 +1398,6 @@
     "ja": "数字",
     "zh": "数字"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -1521,7 +1511,6 @@
     "ja": "数字",
     "zh": "数字"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "roman",
@@ -1612,7 +1601,6 @@
     "ja": "数字",
     "zh": "数字"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "roman",
@@ -1703,7 +1691,6 @@
     "ja": "下線",
     "zh": "下划线"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -1892,7 +1879,6 @@
     "ja": "ブラックレター",
     "zh": "哥特体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -2090,7 +2076,6 @@
     "ja": "ブラックレター",
     "zh": "哥特体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -2288,7 +2273,6 @@
     "ja": "アウトライン",
     "zh": "空心"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -2506,7 +2490,6 @@
     "ja": "等幅",
     "zh": "等宽"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "map",
@@ -2724,7 +2707,6 @@
     "ja": "サンセリフ",
     "zh": "无衬线"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -2942,7 +2924,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -3028,7 +3009,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -3114,7 +3094,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -3200,7 +3179,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -3286,7 +3264,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "join",
@@ -3372,7 +3349,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -3458,7 +3434,6 @@
     "ja": "グリッチ",
     "zh": "故障风"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "zalgo",
@@ -3681,7 +3656,6 @@
     "ja": "グリッチ",
     "zh": "故障风"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "zalgo",
@@ -3904,7 +3878,6 @@
     "ja": "グリッチ",
     "zh": "故障风"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "zalgo",
@@ -4127,7 +4100,6 @@
     "ja": "グリッチ",
     "zh": "故障风"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -4273,7 +4245,6 @@
     "ja": "太字",
     "zh": "粗体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -4491,7 +4462,6 @@
     "ja": "ギリシャ文字風",
     "zh": "希腊字母风"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -4689,7 +4659,6 @@
     "ja": "グリッチ",
     "zh": "故障风"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -4835,7 +4804,6 @@
     "ja": "グリッチ",
     "zh": "故障风"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -4981,7 +4949,6 @@
     "ja": "斜体",
     "zh": "斜体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -5179,7 +5146,6 @@
     "ja": "変換",
     "zh": "转换"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "lower"
@@ -5390,7 +5356,6 @@
     "ja": "変換",
     "zh": "转换"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "lower"
@@ -5612,7 +5577,6 @@
     "ja": "変換",
     "zh": "转换"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -6058,7 +6022,6 @@
     "ja": "変換",
     "zh": "转换"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -6340,7 +6303,6 @@
     "ja": "太字",
     "zh": "粗体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -6538,7 +6500,6 @@
     "ja": "丸文字",
     "zh": "圆圈字"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "number_runs",
@@ -6769,7 +6730,6 @@
     "ja": "丸文字",
     "zh": "圆圈字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -6987,7 +6947,6 @@
     "ja": "四角囲み",
     "zh": "方框字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -7185,7 +7144,6 @@
     "ja": "四角囲み",
     "zh": "方框字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -7383,7 +7341,6 @@
     "ja": "丸文字",
     "zh": "圆圈字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "number_runs",
@@ -7612,7 +7569,6 @@
     "ja": "全角",
     "zh": "全角"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -7896,7 +7852,6 @@
     "ja": "スモールキャップ",
     "zh": "小型大写"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -8068,7 +8023,6 @@
     "ja": "取り消し線",
     "zh": "删除线"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -8257,7 +8211,6 @@
     "ja": "下線",
     "zh": "下划线"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -8446,7 +8399,6 @@
     "ja": "取り消し線",
     "zh": "删除线"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -8635,7 +8587,6 @@
     "ja": "反転",
     "zh": "反转"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "lower"
@@ -8851,7 +8802,6 @@
     "ja": "全角",
     "zh": "全角"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "join",
@@ -8937,7 +8887,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "case",
@@ -9028,7 +8977,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "upper"
@@ -9146,7 +9094,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "lower"
@@ -9264,7 +9211,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "case",
@@ -9355,7 +9301,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "case",
@@ -9446,7 +9391,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "case",
@@ -9537,7 +9481,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "case",
@@ -9628,7 +9571,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "case",
@@ -9719,7 +9661,6 @@
     "ja": "大文字・小文字",
     "zh": "大小写"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "case",
@@ -9810,7 +9751,6 @@
     "ja": "極小文字",
     "zh": "迷你字"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -10010,7 +9950,6 @@
     "ja": "極小文字",
     "zh": "迷你字"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -10186,7 +10125,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10273,7 +10211,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10360,7 +10297,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10447,7 +10383,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10534,7 +10469,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10621,7 +10555,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10708,7 +10641,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10795,7 +10727,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10882,7 +10813,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -10969,7 +10899,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -11056,7 +10985,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -11142,7 +11070,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -11228,7 +11155,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -11314,7 +11240,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -11503,7 +11428,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -11649,7 +11573,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -11795,7 +11718,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -11941,7 +11863,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "append",
@@ -12087,7 +12008,6 @@
     "ja": "筆記体",
     "zh": "花体"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -12285,7 +12205,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -12371,7 +12290,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -12457,7 +12375,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -12543,7 +12460,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -12629,7 +12545,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -12715,7 +12630,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -12801,7 +12715,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -12887,7 +12800,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "join",
@@ -12973,7 +12885,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "join",
@@ -13059,7 +12970,6 @@
     "ja": "反転",
     "zh": "反转"
    },
-   "fontvibe_compat": "high",
    "steps": [
     {
      "op": "reverse"
@@ -13150,7 +13060,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -13237,7 +13146,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -13324,7 +13232,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -13411,7 +13318,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -13498,7 +13404,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -13585,7 +13490,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "wrap",
@@ -13672,7 +13576,6 @@
     "ja": "装飾",
     "zh": "装饰"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "wrap",
@@ -13759,7 +13662,6 @@
     "ja": "筆記体",
     "zh": "花体"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_script",
     "deco_flourish"
@@ -13907,7 +13809,6 @@
     "ja": "筆記体",
     "zh": "花体"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_script_plain",
     "deco_sparkle"
@@ -14055,7 +13956,6 @@
     "ja": "アウトライン",
     "zh": "空心"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_double_struck",
     "deco_corner"
@@ -14213,7 +14113,6 @@
     "ja": "ブラックレター",
     "zh": "哥特体"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_fraktur",
     "deco_star_frame"
@@ -14361,7 +14260,6 @@
     "ja": "丸文字",
     "zh": "圆圈字"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "circled",
     "deco_dot_between"
@@ -14531,7 +14429,6 @@
     "ja": "取り消し線",
     "zh": "删除线"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_bold",
     "strikethrough"
@@ -14791,7 +14688,6 @@
     "ja": "アウトライン",
     "zh": "空心"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_double_struck",
     "deco_double_bracket"
@@ -14949,7 +14845,6 @@
     "ja": "アウトライン",
     "zh": "空心"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_double_struck",
     "wide_spaced"
@@ -15106,7 +15001,6 @@
     "ja": "斜体",
     "zh": "斜体"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_italic",
     "deco_sparkle"
@@ -15254,7 +15148,6 @@
     "ja": "斜体",
     "zh": "斜体"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "math_sans_italic",
     "deco_flourish"
@@ -15402,7 +15295,6 @@
     "ja": "反転",
     "zh": "反转"
    },
-   "fontvibe_compat": "high",
    "chain": [
     "backwards",
     "wide_spaced"
@@ -15495,7 +15387,6 @@
     "ja": "反転",
     "zh": "反转"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "upside_down",
     "wide_spaced"
@@ -15641,7 +15532,6 @@
     "ja": "ルーン文字",
     "zh": "北欧符文"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -15818,7 +15708,6 @@
     "ja": "ルーン文字",
     "zh": "北欧符文"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "runic",
     "wide_spaced"
@@ -15944,7 +15833,6 @@
     "ja": "ルーン文字",
     "zh": "北欧符文"
    },
-   "fontvibe_compat": "low",
    "chain": [
     "runic",
     "deco_dot_between"
@@ -16070,7 +15958,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -16288,7 +16175,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -16486,7 +16372,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -16684,7 +16569,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -16882,7 +16766,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -17100,7 +16983,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "medium",
    "steps": [
     {
      "op": "map",
@@ -17278,7 +17160,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "map",
@@ -17496,7 +17377,6 @@
     "ja": "擬似文字",
     "zh": "仿字形"
    },
-   "fontvibe_compat": "low",
    "steps": [
     {
      "op": "upper"

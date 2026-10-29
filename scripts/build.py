@@ -218,7 +218,6 @@ def main():
         "categories": len(cats),
         "by_category": dict(sorted(cats.items())),
         "by_kind": dict(sorted(Counter(s["kind"] for s in doc["styles"]).items())),
-        "fontvibe_compat": dict(sorted(Counter(s["fontvibe_compat"] for s in doc["styles"]).items())),
         "charmap_rows": len(rows),
         "defancify_entries": len(rev),
         "defancify_strip": len(strip),

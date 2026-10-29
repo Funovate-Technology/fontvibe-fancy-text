@@ -11,7 +11,6 @@
       "label": "Gothic",
       "category": "Gothic",
       "category_labels": { "en": "Gothic", "es": "Gótica", "…": "…" },
-      "fontvibe_compat": "medium",
       "steps": [ { "op": "map", "table": { "A": "𝔄", "B": "𝔅", "C": "ℭ", "…": "…" } } ],
       "fontvibe_pages": [ "https://fontvibe.ai/tools/fancy-font-generator", "…" ],
       "kind": "map",
@@ -32,7 +31,6 @@ Styles are in the order fontvibe.ai shows them.
 | `label` | string | Display name, English. (fontvibe.ai shows style names in English in every language.) |
 | `category` | string | One of 23, English. |
 | `category_labels` | object | The category's display name in `en` `es` `pt` `de` `ja` `zh`, as fontvibe.ai shows it. |
-| `fontvibe_compat` | string | `high` \| `medium` \| `low`. **FontVibe's editorial rating**, not a measurement. `low` is what fontvibe.ai tags "may not show on all devices". |
 | `chain` | string[] | Only on chained styles: the base styles applied, in order. |
 | `steps` | object[] | **The definition of the style.** Apply in order to the input string. See [Steps](#steps). |
 | `fontvibe_pages` | string[] | The fontvibe.ai tool pages that feature this style. |

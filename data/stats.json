@@ -46,11 +46,6 @@
   "wrap": 17,
   "zalgo": 3
  },
- "fontvibe_compat": {
-  "high": 18,
-  "low": 49,
-  "medium": 53
- },
  "charmap_rows": 3261,
  "defancify_entries": 1547,
  "defancify_strip": 113,

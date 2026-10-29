@@ -26,7 +26,7 @@ t('120 styles, unique keys, metadata present', () => {
   assert.strictEqual(new Set(L.keys).size, 120);
   for (const s of L.styles) {
     assert.ok(s.label && s.category && Array.isArray(s.steps) && s.steps.length);
-    assert.ok(['high', 'medium', 'low'].includes(s.fontvibe_compat));
+    assert.ok(!('fontvibe_compat' in s));
     for (const loc of ['en', 'es', 'pt', 'de', 'ja', 'zh']) assert.ok(s.category_labels[loc]);
   }
 });

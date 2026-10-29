@@ -31,7 +31,7 @@ class TestStyles(unittest.TestCase):
         self.assertEqual(len(L.styles), 120)
         self.assertEqual(len(set(L.keys)), 120)
         for s in L.styles:
-            self.assertIn(s["fontvibe_compat"], ("high", "medium", "low"))
+            self.assertNotIn("fontvibe_compat", s)
             self.assertEqual(set(s["category_labels"]), {"en", "es", "pt", "de", "ja", "zh"})
 
     def test_readme_examples(self):

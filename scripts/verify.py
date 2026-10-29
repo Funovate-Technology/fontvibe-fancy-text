@@ -92,8 +92,8 @@ def main():
     langs = {"en", "es", "pt", "de", "ja", "zh"}
     check(all(set(s["category_labels"]) == langs and all(s["category_labels"].values()) for s in styles),
           "every style has a category label in en/es/pt/de/ja/zh")
-    fig["compat"] = Counter(s["fontvibe_compat"] for s in styles)
-    check(set(fig["compat"]) <= {"high", "medium", "low"}, "fontvibe_compat is one of high/medium/low")
+    banned = {"fontvibe_compat", "compat", "compatibility", "compat_notes"}
+    check(not any(banned & set(s) for s in styles), "no compatibility rating fields are published (unverified heuristics)")
 
     # ── 2. data == library output ──────────────────────────────────
     print("2. data files vs library output")

@@ -59,11 +59,14 @@ your port is right.
 
 | File | What it is | Use it for |
 |---|---|---|
-| `data/styles.json` | All 120 styles: label, category (labels in en · es · pt · de · ja · zh), FontVibe's compatibility rating, the `steps` that define the style, plus derived `char_map`, `coverage`, `example`, `unicode_age` | **Start here.** Everything else is derived from it |
+| `data/styles.json` | All 120 styles: label, category, the `steps` that define the style, plus derived `char_map`, `coverage`, `example`, `unicode_age` | **Start here.** Everything else is derived from it |
 | `data/charmap.csv` | `style,input,output,output_codepoints` for every per-character style and every printable ASCII input | Spreadsheets, SQL, any language with a CSV reader |
 | `data/defancify.json` | Styled character → plain ASCII, the combining marks to strip, and per-entry `details` | Moderation bots, search indexing, username normalisation |
 | `data/stats.json` | Counts, machine-readable | |
 | `tests/golden.json` | A fixed set of test inputs × all 120 styles, output from FontVibe's production code | Testing your own port |
+
+Style names (`label`) are English only — fontvibe.ai shows them in English in every language.
+Category names come in six languages (`category_labels`: en · es · pt · de · ja · zh).
 
 Field definitions and the exact semantics of every step: [SCHEMA.md](SCHEMA.md).
 
@@ -148,13 +151,12 @@ Also worth knowing:
 
 - **Rendering varies by device and font.** These are real Unicode characters, so they copy and
   paste anywhere, but whether a given phone shows the glyph or a box depends on its fonts.
+  Preview in the app you're posting to before you rely on a style. This repo carries no
+  per-platform compatibility claims — we haven't measured them.
   `unicode_age` on each style is the Unicode version its newest code point was added in — a
   fact, not a guarantee; older systems are likelier to lack newer characters.
 - **Combining-mark styles** (strikethrough, underline, zalgo, glitch, …) are rendered by stacking
   marks on the previous character; how well that looks depends heavily on the font.
-- **`fontvibe_compat` is FontVibe's own editorial rating** (`high` / `medium` / `low`; `low` is
-  what fontvibe.ai tags "may not show on all devices"). It is a judgement, not a measurement —
-  use it as a starting point, not as a fact about any platform.
 - **Screen readers** may announce mathematical letters as symbols, or skip them. Don't use fancy
   text for anything that has to be read by everyone — names, alt text, important instructions.
 - **Lookalike styles are not translations.** `greek_style`, `mimic_*` and `runic` pick characters
@@ -241,7 +243,7 @@ BibTeX:
 - **Code** (`npm/`, `pypi/`, `scripts/`): [MIT](LICENSE-CODE).
 
 What CC BY covers is this compilation — the selection of styles, the lookalike choices, the
-labels and ratings, the reverse table. The characters themselves belong to nobody: which code
+labels and categories, the reverse table. The characters themselves belong to nobody: which code
 point is "mathematical bold capital A" is defined by Unicode, and you're free to build the same
 tables yourself from the Unicode Character Database. See [NOTICE](NOTICE).
 

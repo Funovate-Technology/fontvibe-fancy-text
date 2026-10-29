@@ -30,8 +30,6 @@ export interface Style {
   label: string;
   category: string;
   category_labels: Record<Locale, string>;
-  /** FontVibe's editorial rating, not a measurement. "low" = tagged "may not show on all devices" on fontvibe.ai. */
-  fontvibe_compat: 'high' | 'medium' | 'low';
   /** Present on chained styles: the base styles applied, in order. */
   chain?: string[];
   steps: Step[];

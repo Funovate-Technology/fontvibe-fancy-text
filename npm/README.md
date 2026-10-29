@@ -42,10 +42,9 @@ npx unicode-text-styles --list
 | `transformAll(text, { category? })` | Every style, in fontvibe.ai's order. |
 | `defancify(text)` | Styled characters → plain ASCII; strips the combining marks the styles add. |
 | `getStyle(key)` | The style's metadata and `steps`. |
-| `styles`, `keys`, `categories` | Metadata: label, category, category labels in en/es/pt/de/ja/zh, `fontvibe_compat`, `unicode_age`. |
+| `styles`, `keys`, `categories` | Metadata: label, category, category labels in en/es/pt/de/ja/zh (style names are English only), `unicode_age`. |
 
-`fontvibe_compat` is **FontVibe's editorial rating** (`high` / `medium` / `low`), not a
-measurement. Unicode doesn't have every letter in every style (there's no superscript q);
+Rendering varies by device and font — preview before you post. Unicode doesn't have every letter in every style (there's no superscript q);
 missing ones pass through unchanged. `defancify` also folds real letters of other scripts that
 lookalike styles borrow (Greek α → a), and can't undo upside-down order. Details, limits and the
 language-neutral data files: **[the repository](https://github.com/Funovate-Technology/fontvibe-fancy-text)**.
