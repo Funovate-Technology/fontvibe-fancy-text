@@ -1,0 +1,44 @@
+{
+  "upload_type": "dataset",
+  "title": "FontVibe Fancy Text: 120 Unicode text styles as language-neutral pipelines, with a reverse normalisation table",
+  "description": "<p>120 Unicode \"fancy text\" styles — mathematical alphanumerics, enclosed alphanumerics, small caps, superscript and subscript, upside-down, combining-mark styles, deterministic zalgo, lookalike scripts, braille, morse, Wingdings and case conversions — each defined as a short pipeline of steps in JSON, precise enough to reimplement in any language.</p><p>Dependency-free JavaScript and Python implementations are included and tested against a golden file captured from FontVibe's production code; both reproduce it exactly. A reverse (de-fancify) table maps styled characters back to plain ASCII and records, for every entry, whether Unicode NFKC normalisation already handles it and whether the character is a real letter in some script.</p><p>Every figure in the README is recomputed by <code>scripts/verify.py</code> (standard library only), which fails if the README disagrees with the data. Also distributed as <code>unicode-text-styles</code> on npm and PyPI. The live version is at <a href=\"https://fontvibe.ai/tools/fancy-font-generator\">fontvibe.ai/tools/fancy-font-generator</a>.</p>",
+  "creators": [
+    {
+      "name": "FontVibe"
+    }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "keywords": [
+    "unicode",
+    "fancy text",
+    "text styles",
+    "font generator",
+    "mathematical alphanumeric symbols",
+    "zalgo",
+    "normalization",
+    "homoglyphs",
+    "confusables"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://fontvibe.ai/tools/fancy-font-generator",
+      "relation": "isVariantFormOf",
+      "resource_type": "dataset",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.npmjs.com/package/unicode-text-styles",
+      "relation": "isIdenticalTo",
+      "resource_type": "software",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/unicode-text-styles/",
+      "relation": "isIdenticalTo",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "unicode-text-styles",
+  "version": "1.0.0",
+  "description": "120 Unicode fancy-text styles (bold, script, bubble, gothic, small caps, upside-down, zalgo, …) and a de-fancify table. Same output as fontvibe.ai. Zero dependencies.",
+  "keywords": [
+    "unicode",
+    "fancy-text",
+    "fancy-font",
+    "font-generator",
+    "text-styles",
+    "bold-text",
+    "cursive",
+    "zalgo",
+    "upside-down",
+    "small-caps",
+    "normalize",
+    "homoglyph"
+  ],
+  "homepage": "https://fontvibe.ai/tools/fancy-font-generator",
+  "bugs": "https://github.com/Funovate-Technology/fontvibe-fancy-text/issues",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Funovate-Technology/fontvibe-fancy-text.git",
+    "directory": "npm"
+  },
+  "license": "(MIT AND CC-BY-4.0)",
+  "author": "Funovate Technology (https://fontvibe.ai)",
+  "main": "./index.js",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "bin": {
+    "unicode-text-styles": "./cli.js"
+  },
+  "files": [
+    "index.js",
+    "index.mjs",
+    "index.d.ts",
+    "cli.js",
+    "data/styles.json",
+    "data/defancify.json",
+    "README.md",
+    "LICENSE",
+    "LICENSE-CODE",
+    "NOTICE"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "prepack": "node scripts/sync-data.js",
+    "pretest": "node scripts/sync-data.js",
+    "test": "node test.js"
+  }
+}

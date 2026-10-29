@@ -1,0 +1,5 @@
+src/unicode_text_styles/data/
+dist/
+build/
+*.egg-info/
+__pycache__/

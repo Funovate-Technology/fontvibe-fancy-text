@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "FontVibe Fancy Text: Unicode Text Styles"
+message: "If you use this dataset or library, please cite it."
+type: dataset
+authors:
+  - name: "FontVibe"
+    website: "https://fontvibe.ai"
+abstract: >-
+  120 Unicode "fancy text" styles (mathematical alphanumerics, enclosed
+  alphanumerics, small caps, superscript, upside-down, combining-mark styles,
+  deterministic zalgo, lookalike scripts, braille, morse and more) defined as
+  language-neutral JSON pipelines, with dependency-free JavaScript and Python
+  implementations verified identical to FontVibe's production code, and a
+  reverse table mapping styled characters back to plain ASCII.
+keywords:
+  - unicode
+  - fancy-text
+  - text-styles
+  - font-generator
+  - mathematical-alphanumeric-symbols
+  - zalgo
+  - normalization
+  - homoglyphs
+  - dataset
+license: CC-BY-4.0
+url: "https://fontvibe.ai/tools/fancy-font-generator"
+repository-code: "https://github.com/Funovate-Technology/fontvibe-fancy-text"
+version: "1.0.0"
+date-released: "2026-10-30"

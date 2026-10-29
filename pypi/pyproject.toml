@@ -1,0 +1,47 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "unicode-text-styles"
+version = "1.0.0"
+description = "120 Unicode fancy-text styles (bold, script, bubble, gothic, small caps, upside-down, zalgo, …) and a de-fancify table. Same output as fontvibe.ai. No dependencies."
+readme = "README.md"
+requires-python = ">=3.8"
+license = "MIT AND CC-BY-4.0"
+license-files = ["LICENSE", "LICENSE-CODE", "NOTICE"]
+authors = [{ name = "Funovate Technology", email = "jacktu@fun-innovate.com" }]
+keywords = [
+  "unicode", "fancy-text", "fancy-font", "font-generator", "text-styles",
+  "bold-text", "cursive", "zalgo", "upside-down", "small-caps", "normalize", "homoglyph",
+]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Intended Audience :: Developers",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Text Processing",
+  "Topic :: Text Processing :: Filters",
+  "Typing :: Typed",
+]
+dependencies = []
+
+[project.urls]
+Homepage = "https://fontvibe.ai/tools/fancy-font-generator"
+Source = "https://github.com/Funovate-Technology/fontvibe-fancy-text"
+Issues = "https://github.com/Funovate-Technology/fontvibe-fancy-text/issues"
+Documentation = "https://github.com/Funovate-Technology/fontvibe-fancy-text/blob/main/SCHEMA.md"
+
+[project.scripts]
+unicode-text-styles = "unicode_text_styles.__main__:main"
+
+# src/unicode_text_styles/data/ is gitignored (it is a synced copy of the repo's data/);
+# hatchling honours VCS ignore files, so it has to be named explicitly or the wheel ships empty.
+[tool.hatch.build]
+artifacts = ["src/unicode_text_styles/data/*.json"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/unicode_text_styles"]
+
+[tool.hatch.build.targets.sdist]
+include = ["src/", "tests/", "scripts/", "README.md", "LICENSE", "LICENSE-CODE", "NOTICE", "pyproject.toml"]

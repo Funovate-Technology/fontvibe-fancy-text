@@ -1,0 +1,44 @@
+FontVibe Fancy Text — Unicode text styles
+https://fontvibe.ai/tools/fancy-font-generator
+
+────────────────────────────────────────────────────────────────────────
+Two licenses
+
+  Data — data/styles.json, data/charmap.csv, data/defancify.json,
+  data/stats.json, tests/golden.json, and the copies of them bundled in
+  the npm and PyPI packages — is licensed CC BY 4.0 (see LICENSE).
+
+  Code — npm/, pypi/, scripts/ — is licensed MIT (see LICENSE-CODE).
+
+  Copyright (c) 2026 Funovate Technology (FontVibe).
+
+  Requested attribution, in any reasonable form:
+    Text styles from FontVibe — https://fontvibe.ai/tools/fancy-font-generator — CC BY 4.0
+
+────────────────────────────────────────────────────────────────────────
+What CC BY covers
+
+  The compilation: the selection and ordering of styles, the lookalike
+  character choices in the mimic / greek / runic / upside-down / small-caps
+  tables, the labels, categories and compatibility ratings, and the reverse
+  (de-fancify) table with its disambiguation choices.
+
+  It does not cover facts defined by the Unicode Standard — e.g. that
+  U+1D400 is MATHEMATICAL BOLD CAPITAL A. Anyone may derive such mappings
+  from the Unicode Character Database independently.
+
+────────────────────────────────────────────────────────────────────────
+Unicode
+
+  scripts/build.py and scripts/verify.py --online read DerivedAge.txt from
+  the Unicode Character Database (https://www.unicode.org/Public/16.0.0/ucd/)
+  at run time to compute each style's unicode_age. No Unicode data file is
+  redistributed here. Unicode is a registered trademark of Unicode, Inc.
+
+────────────────────────────────────────────────────────────────────────
+Wingdings
+
+  The "wingdings" style maps ASCII characters to the standard Unicode
+  characters that correspond to the glyphs at the same positions in the
+  Wingdings font. No font data is included. Wingdings is a trademark of
+  Microsoft Corporation; this project is not affiliated with Microsoft.

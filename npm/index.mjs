@@ -1,0 +1,11 @@
+import mod from './index.js';
+export const transform = mod.transform;
+export const transformAll = mod.transformAll;
+export const defancify = mod.defancify;
+export const getStyle = mod.getStyle;
+export const styles = mod.styles;
+export const keys = mod.keys;
+export const categories = mod.categories;
+export const unicodeVersion = mod.unicodeVersion;
+export const homepage = mod.homepage;
+export default mod;

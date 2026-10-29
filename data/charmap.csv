@@ -1,0 +1,3262 @@
+style,input,output,output_codepoints
+math_bold,0,𝟎,U+1D7CE
+math_bold,1,𝟏,U+1D7CF
+math_bold,2,𝟐,U+1D7D0
+math_bold,3,𝟑,U+1D7D1
+math_bold,4,𝟒,U+1D7D2
+math_bold,5,𝟓,U+1D7D3
+math_bold,6,𝟔,U+1D7D4
+math_bold,7,𝟕,U+1D7D5
+math_bold,8,𝟖,U+1D7D6
+math_bold,9,𝟗,U+1D7D7
+math_bold,A,𝐀,U+1D400
+math_bold,B,𝐁,U+1D401
+math_bold,C,𝐂,U+1D402
+math_bold,D,𝐃,U+1D403
+math_bold,E,𝐄,U+1D404
+math_bold,F,𝐅,U+1D405
+math_bold,G,𝐆,U+1D406
+math_bold,H,𝐇,U+1D407
+math_bold,I,𝐈,U+1D408
+math_bold,J,𝐉,U+1D409
+math_bold,K,𝐊,U+1D40A
+math_bold,L,𝐋,U+1D40B
+math_bold,M,𝐌,U+1D40C
+math_bold,N,𝐍,U+1D40D
+math_bold,O,𝐎,U+1D40E
+math_bold,P,𝐏,U+1D40F
+math_bold,Q,𝐐,U+1D410
+math_bold,R,𝐑,U+1D411
+math_bold,S,𝐒,U+1D412
+math_bold,T,𝐓,U+1D413
+math_bold,U,𝐔,U+1D414
+math_bold,V,𝐕,U+1D415
+math_bold,W,𝐖,U+1D416
+math_bold,X,𝐗,U+1D417
+math_bold,Y,𝐘,U+1D418
+math_bold,Z,𝐙,U+1D419
+math_bold,a,𝐚,U+1D41A
+math_bold,b,𝐛,U+1D41B
+math_bold,c,𝐜,U+1D41C
+math_bold,d,𝐝,U+1D41D
+math_bold,e,𝐞,U+1D41E
+math_bold,f,𝐟,U+1D41F
+math_bold,g,𝐠,U+1D420
+math_bold,h,𝐡,U+1D421
+math_bold,i,𝐢,U+1D422
+math_bold,j,𝐣,U+1D423
+math_bold,k,𝐤,U+1D424
+math_bold,l,𝐥,U+1D425
+math_bold,m,𝐦,U+1D426
+math_bold,n,𝐧,U+1D427
+math_bold,o,𝐨,U+1D428
+math_bold,p,𝐩,U+1D429
+math_bold,q,𝐪,U+1D42A
+math_bold,r,𝐫,U+1D42B
+math_bold,s,𝐬,U+1D42C
+math_bold,t,𝐭,U+1D42D
+math_bold,u,𝐮,U+1D42E
+math_bold,v,𝐯,U+1D42F
+math_bold,w,𝐰,U+1D430
+math_bold,x,𝐱,U+1D431
+math_bold,y,𝐲,U+1D432
+math_bold,z,𝐳,U+1D433
+math_italic,A,𝐴,U+1D434
+math_italic,B,𝐵,U+1D435
+math_italic,C,𝐶,U+1D436
+math_italic,D,𝐷,U+1D437
+math_italic,E,𝐸,U+1D438
+math_italic,F,𝐹,U+1D439
+math_italic,G,𝐺,U+1D43A
+math_italic,H,𝐻,U+1D43B
+math_italic,I,𝐼,U+1D43C
+math_italic,J,𝐽,U+1D43D
+math_italic,K,𝐾,U+1D43E
+math_italic,L,𝐿,U+1D43F
+math_italic,M,𝑀,U+1D440
+math_italic,N,𝑁,U+1D441
+math_italic,O,𝑂,U+1D442
+math_italic,P,𝑃,U+1D443
+math_italic,Q,𝑄,U+1D444
+math_italic,R,𝑅,U+1D445
+math_italic,S,𝑆,U+1D446
+math_italic,T,𝑇,U+1D447
+math_italic,U,𝑈,U+1D448
+math_italic,V,𝑉,U+1D449
+math_italic,W,𝑊,U+1D44A
+math_italic,X,𝑋,U+1D44B
+math_italic,Y,𝑌,U+1D44C
+math_italic,Z,𝑍,U+1D44D
+math_italic,a,𝑎,U+1D44E
+math_italic,b,𝑏,U+1D44F
+math_italic,c,𝑐,U+1D450
+math_italic,d,𝑑,U+1D451
+math_italic,e,𝑒,U+1D452
+math_italic,f,𝑓,U+1D453
+math_italic,g,𝑔,U+1D454
+math_italic,h,ℎ,U+210E
+math_italic,i,𝑖,U+1D456
+math_italic,j,𝑗,U+1D457
+math_italic,k,𝑘,U+1D458
+math_italic,l,𝑙,U+1D459
+math_italic,m,𝑚,U+1D45A
+math_italic,n,𝑛,U+1D45B
+math_italic,o,𝑜,U+1D45C
+math_italic,p,𝑝,U+1D45D
+math_italic,q,𝑞,U+1D45E
+math_italic,r,𝑟,U+1D45F
+math_italic,s,𝑠,U+1D460
+math_italic,t,𝑡,U+1D461
+math_italic,u,𝑢,U+1D462
+math_italic,v,𝑣,U+1D463
+math_italic,w,𝑤,U+1D464
+math_italic,x,𝑥,U+1D465
+math_italic,y,𝑦,U+1D466
+math_italic,z,𝑧,U+1D467
+math_bold_italic,A,𝑨,U+1D468
+math_bold_italic,B,𝑩,U+1D469
+math_bold_italic,C,𝑪,U+1D46A
+math_bold_italic,D,𝑫,U+1D46B
+math_bold_italic,E,𝑬,U+1D46C
+math_bold_italic,F,𝑭,U+1D46D
+math_bold_italic,G,𝑮,U+1D46E
+math_bold_italic,H,𝑯,U+1D46F
+math_bold_italic,I,𝑰,U+1D470
+math_bold_italic,J,𝑱,U+1D471
+math_bold_italic,K,𝑲,U+1D472
+math_bold_italic,L,𝑳,U+1D473
+math_bold_italic,M,𝑴,U+1D474
+math_bold_italic,N,𝑵,U+1D475
+math_bold_italic,O,𝑶,U+1D476
+math_bold_italic,P,𝑷,U+1D477
+math_bold_italic,Q,𝑸,U+1D478
+math_bold_italic,R,𝑹,U+1D479
+math_bold_italic,S,𝑺,U+1D47A
+math_bold_italic,T,𝑻,U+1D47B
+math_bold_italic,U,𝑼,U+1D47C
+math_bold_italic,V,𝑽,U+1D47D
+math_bold_italic,W,𝑾,U+1D47E
+math_bold_italic,X,𝑿,U+1D47F
+math_bold_italic,Y,𝒀,U+1D480
+math_bold_italic,Z,𝒁,U+1D481
+math_bold_italic,a,𝒂,U+1D482
+math_bold_italic,b,𝒃,U+1D483
+math_bold_italic,c,𝒄,U+1D484
+math_bold_italic,d,𝒅,U+1D485
+math_bold_italic,e,𝒆,U+1D486
+math_bold_italic,f,𝒇,U+1D487
+math_bold_italic,g,𝒈,U+1D488
+math_bold_italic,h,𝒉,U+1D489
+math_bold_italic,i,𝒊,U+1D48A
+math_bold_italic,j,𝒋,U+1D48B
+math_bold_italic,k,𝒌,U+1D48C
+math_bold_italic,l,𝒍,U+1D48D
+math_bold_italic,m,𝒎,U+1D48E
+math_bold_italic,n,𝒏,U+1D48F
+math_bold_italic,o,𝒐,U+1D490
+math_bold_italic,p,𝒑,U+1D491
+math_bold_italic,q,𝒒,U+1D492
+math_bold_italic,r,𝒓,U+1D493
+math_bold_italic,s,𝒔,U+1D494
+math_bold_italic,t,𝒕,U+1D495
+math_bold_italic,u,𝒖,U+1D496
+math_bold_italic,v,𝒗,U+1D497
+math_bold_italic,w,𝒘,U+1D498
+math_bold_italic,x,𝒙,U+1D499
+math_bold_italic,y,𝒚,U+1D49A
+math_bold_italic,z,𝒛,U+1D49B
+math_script,A,𝓐,U+1D4D0
+math_script,B,𝓑,U+1D4D1
+math_script,C,𝓒,U+1D4D2
+math_script,D,𝓓,U+1D4D3
+math_script,E,𝓔,U+1D4D4
+math_script,F,𝓕,U+1D4D5
+math_script,G,𝓖,U+1D4D6
+math_script,H,𝓗,U+1D4D7
+math_script,I,𝓘,U+1D4D8
+math_script,J,𝓙,U+1D4D9
+math_script,K,𝓚,U+1D4DA
+math_script,L,𝓛,U+1D4DB
+math_script,M,𝓜,U+1D4DC
+math_script,N,𝓝,U+1D4DD
+math_script,O,𝓞,U+1D4DE
+math_script,P,𝓟,U+1D4DF
+math_script,Q,𝓠,U+1D4E0
+math_script,R,𝓡,U+1D4E1
+math_script,S,𝓢,U+1D4E2
+math_script,T,𝓣,U+1D4E3
+math_script,U,𝓤,U+1D4E4
+math_script,V,𝓥,U+1D4E5
+math_script,W,𝓦,U+1D4E6
+math_script,X,𝓧,U+1D4E7
+math_script,Y,𝓨,U+1D4E8
+math_script,Z,𝓩,U+1D4E9
+math_script,a,𝓪,U+1D4EA
+math_script,b,𝓫,U+1D4EB
+math_script,c,𝓬,U+1D4EC
+math_script,d,𝓭,U+1D4ED
+math_script,e,𝓮,U+1D4EE
+math_script,f,𝓯,U+1D4EF
+math_script,g,𝓰,U+1D4F0
+math_script,h,𝓱,U+1D4F1
+math_script,i,𝓲,U+1D4F2
+math_script,j,𝓳,U+1D4F3
+math_script,k,𝓴,U+1D4F4
+math_script,l,𝓵,U+1D4F5
+math_script,m,𝓶,U+1D4F6
+math_script,n,𝓷,U+1D4F7
+math_script,o,𝓸,U+1D4F8
+math_script,p,𝓹,U+1D4F9
+math_script,q,𝓺,U+1D4FA
+math_script,r,𝓻,U+1D4FB
+math_script,s,𝓼,U+1D4FC
+math_script,t,𝓽,U+1D4FD
+math_script,u,𝓾,U+1D4FE
+math_script,v,𝓿,U+1D4FF
+math_script,w,𝔀,U+1D500
+math_script,x,𝔁,U+1D501
+math_script,y,𝔂,U+1D502
+math_script,z,𝔃,U+1D503
+double_circled,0,⓪,U+24EA
+double_circled,1,⓵,U+24F5
+double_circled,2,⓶,U+24F6
+double_circled,3,⓷,U+24F7
+double_circled,4,⓸,U+24F8
+double_circled,5,⓹,U+24F9
+double_circled,6,⓺,U+24FA
+double_circled,7,⓻,U+24FB
+double_circled,8,⓼,U+24FC
+double_circled,9,⓽,U+24FD
+circled_sans,0,⓪,U+24EA
+circled_sans,1,➀,U+2780
+circled_sans,2,➁,U+2781
+circled_sans,3,➂,U+2782
+circled_sans,4,➃,U+2783
+circled_sans,5,➄,U+2784
+circled_sans,6,➅,U+2785
+circled_sans,7,➆,U+2786
+circled_sans,8,➇,U+2787
+circled_sans,9,➈,U+2788
+circled_neg_sans,0,⓿,U+24FF
+circled_neg_sans,1,➊,U+278A
+circled_neg_sans,2,➋,U+278B
+circled_neg_sans,3,➌,U+278C
+circled_neg_sans,4,➍,U+278D
+circled_neg_sans,5,➎,U+278E
+circled_neg_sans,6,➏,U+278F
+circled_neg_sans,7,➐,U+2790
+circled_neg_sans,8,➑,U+2791
+circled_neg_sans,9,➒,U+2792
+digit_fullstop,1,⒈,U+2488
+digit_fullstop,2,⒉,U+2489
+digit_fullstop,3,⒊,U+248A
+digit_fullstop,4,⒋,U+248B
+digit_fullstop,5,⒌,U+248C
+digit_fullstop,6,⒍,U+248D
+digit_fullstop,7,⒎,U+248E
+digit_fullstop,8,⒏,U+248F
+digit_fullstop,9,⒐,U+2490
+dice,1,⚀,U+2680
+dice,2,⚁,U+2681
+dice,3,⚂,U+2682
+dice,4,⚃,U+2683
+dice,5,⚄,U+2684
+dice,6,⚅,U+2685
+keycap,0,0️⃣,U+0030 U+FE0F U+20E3
+keycap,1,1️⃣,U+0031 U+FE0F U+20E3
+keycap,2,2️⃣,U+0032 U+FE0F U+20E3
+keycap,3,3️⃣,U+0033 U+FE0F U+20E3
+keycap,4,4️⃣,U+0034 U+FE0F U+20E3
+keycap,5,5️⃣,U+0035 U+FE0F U+20E3
+keycap,6,6️⃣,U+0036 U+FE0F U+20E3
+keycap,7,7️⃣,U+0037 U+FE0F U+20E3
+keycap,8,8️⃣,U+0038 U+FE0F U+20E3
+keycap,9,9️⃣,U+0039 U+FE0F U+20E3
+double_underline, , ̳,U+0020 U+0333
+double_underline,!,!̳,U+0021 U+0333
+double_underline,"""","""̳",U+0022 U+0333
+double_underline,#,#̳,U+0023 U+0333
+double_underline,$,$̳,U+0024 U+0333
+double_underline,%,%̳,U+0025 U+0333
+double_underline,&,&̳,U+0026 U+0333
+double_underline,','̳,U+0027 U+0333
+double_underline,(,(̳,U+0028 U+0333
+double_underline,),)̳,U+0029 U+0333
+double_underline,*,*̳,U+002A U+0333
+double_underline,+,+̳,U+002B U+0333
+double_underline,",",",̳",U+002C U+0333
+double_underline,-,-̳,U+002D U+0333
+double_underline,.,.̳,U+002E U+0333
+double_underline,/,/̳,U+002F U+0333
+double_underline,0,0̳,U+0030 U+0333
+double_underline,1,1̳,U+0031 U+0333
+double_underline,2,2̳,U+0032 U+0333
+double_underline,3,3̳,U+0033 U+0333
+double_underline,4,4̳,U+0034 U+0333
+double_underline,5,5̳,U+0035 U+0333
+double_underline,6,6̳,U+0036 U+0333
+double_underline,7,7̳,U+0037 U+0333
+double_underline,8,8̳,U+0038 U+0333
+double_underline,9,9̳,U+0039 U+0333
+double_underline,:,:̳,U+003A U+0333
+double_underline,;,;̳,U+003B U+0333
+double_underline,<,<̳,U+003C U+0333
+double_underline,=,=̳,U+003D U+0333
+double_underline,>,>̳,U+003E U+0333
+double_underline,?,?̳,U+003F U+0333
+double_underline,@,@̳,U+0040 U+0333
+double_underline,A,A̳,U+0041 U+0333
+double_underline,B,B̳,U+0042 U+0333
+double_underline,C,C̳,U+0043 U+0333
+double_underline,D,D̳,U+0044 U+0333
+double_underline,E,E̳,U+0045 U+0333
+double_underline,F,F̳,U+0046 U+0333
+double_underline,G,G̳,U+0047 U+0333
+double_underline,H,H̳,U+0048 U+0333
+double_underline,I,I̳,U+0049 U+0333
+double_underline,J,J̳,U+004A U+0333
+double_underline,K,K̳,U+004B U+0333
+double_underline,L,L̳,U+004C U+0333
+double_underline,M,M̳,U+004D U+0333
+double_underline,N,N̳,U+004E U+0333
+double_underline,O,O̳,U+004F U+0333
+double_underline,P,P̳,U+0050 U+0333
+double_underline,Q,Q̳,U+0051 U+0333
+double_underline,R,R̳,U+0052 U+0333
+double_underline,S,S̳,U+0053 U+0333
+double_underline,T,T̳,U+0054 U+0333
+double_underline,U,U̳,U+0055 U+0333
+double_underline,V,V̳,U+0056 U+0333
+double_underline,W,W̳,U+0057 U+0333
+double_underline,X,X̳,U+0058 U+0333
+double_underline,Y,Y̳,U+0059 U+0333
+double_underline,Z,Z̳,U+005A U+0333
+double_underline,[,[̳,U+005B U+0333
+double_underline,\,\̳,U+005C U+0333
+double_underline,],]̳,U+005D U+0333
+double_underline,^,^̳,U+005E U+0333
+double_underline,_,_̳,U+005F U+0333
+double_underline,`,`̳,U+0060 U+0333
+double_underline,a,a̳,U+0061 U+0333
+double_underline,b,b̳,U+0062 U+0333
+double_underline,c,c̳,U+0063 U+0333
+double_underline,d,d̳,U+0064 U+0333
+double_underline,e,e̳,U+0065 U+0333
+double_underline,f,f̳,U+0066 U+0333
+double_underline,g,g̳,U+0067 U+0333
+double_underline,h,h̳,U+0068 U+0333
+double_underline,i,i̳,U+0069 U+0333
+double_underline,j,j̳,U+006A U+0333
+double_underline,k,k̳,U+006B U+0333
+double_underline,l,l̳,U+006C U+0333
+double_underline,m,m̳,U+006D U+0333
+double_underline,n,n̳,U+006E U+0333
+double_underline,o,o̳,U+006F U+0333
+double_underline,p,p̳,U+0070 U+0333
+double_underline,q,q̳,U+0071 U+0333
+double_underline,r,r̳,U+0072 U+0333
+double_underline,s,s̳,U+0073 U+0333
+double_underline,t,t̳,U+0074 U+0333
+double_underline,u,u̳,U+0075 U+0333
+double_underline,v,v̳,U+0076 U+0333
+double_underline,w,w̳,U+0077 U+0333
+double_underline,x,x̳,U+0078 U+0333
+double_underline,y,y̳,U+0079 U+0333
+double_underline,z,z̳,U+007A U+0333
+double_underline,{,{̳,U+007B U+0333
+double_underline,|,|̳,U+007C U+0333
+double_underline,},}̳,U+007D U+0333
+double_underline,~,~̳,U+007E U+0333
+math_fraktur,A,𝔄,U+1D504
+math_fraktur,B,𝔅,U+1D505
+math_fraktur,C,ℭ,U+212D
+math_fraktur,D,𝔇,U+1D507
+math_fraktur,E,𝔈,U+1D508
+math_fraktur,F,𝔉,U+1D509
+math_fraktur,G,𝔊,U+1D50A
+math_fraktur,H,ℌ,U+210C
+math_fraktur,I,ℑ,U+2111
+math_fraktur,J,𝔍,U+1D50D
+math_fraktur,K,𝔎,U+1D50E
+math_fraktur,L,𝔏,U+1D50F
+math_fraktur,M,𝔐,U+1D510
+math_fraktur,N,𝔑,U+1D511
+math_fraktur,O,𝔒,U+1D512
+math_fraktur,P,𝔓,U+1D513
+math_fraktur,Q,𝔔,U+1D514
+math_fraktur,R,ℜ,U+211C
+math_fraktur,S,𝔖,U+1D516
+math_fraktur,T,𝔗,U+1D517
+math_fraktur,U,𝔘,U+1D518
+math_fraktur,V,𝔙,U+1D519
+math_fraktur,W,𝔚,U+1D51A
+math_fraktur,X,𝔛,U+1D51B
+math_fraktur,Y,𝔜,U+1D51C
+math_fraktur,Z,ℨ,U+2128
+math_fraktur,a,𝔞,U+1D51E
+math_fraktur,b,𝔟,U+1D51F
+math_fraktur,c,𝔠,U+1D520
+math_fraktur,d,𝔡,U+1D521
+math_fraktur,e,𝔢,U+1D522
+math_fraktur,f,𝔣,U+1D523
+math_fraktur,g,𝔤,U+1D524
+math_fraktur,h,𝔥,U+1D525
+math_fraktur,i,𝔦,U+1D526
+math_fraktur,j,𝔧,U+1D527
+math_fraktur,k,𝔨,U+1D528
+math_fraktur,l,𝔩,U+1D529
+math_fraktur,m,𝔪,U+1D52A
+math_fraktur,n,𝔫,U+1D52B
+math_fraktur,o,𝔬,U+1D52C
+math_fraktur,p,𝔭,U+1D52D
+math_fraktur,q,𝔮,U+1D52E
+math_fraktur,r,𝔯,U+1D52F
+math_fraktur,s,𝔰,U+1D530
+math_fraktur,t,𝔱,U+1D531
+math_fraktur,u,𝔲,U+1D532
+math_fraktur,v,𝔳,U+1D533
+math_fraktur,w,𝔴,U+1D534
+math_fraktur,x,𝔵,U+1D535
+math_fraktur,y,𝔶,U+1D536
+math_fraktur,z,𝔷,U+1D537
+math_bold_fraktur,A,𝕬,U+1D56C
+math_bold_fraktur,B,𝕭,U+1D56D
+math_bold_fraktur,C,𝕮,U+1D56E
+math_bold_fraktur,D,𝕯,U+1D56F
+math_bold_fraktur,E,𝕰,U+1D570
+math_bold_fraktur,F,𝕱,U+1D571
+math_bold_fraktur,G,𝕲,U+1D572
+math_bold_fraktur,H,𝕳,U+1D573
+math_bold_fraktur,I,𝕴,U+1D574
+math_bold_fraktur,J,𝕵,U+1D575
+math_bold_fraktur,K,𝕶,U+1D576
+math_bold_fraktur,L,𝕷,U+1D577
+math_bold_fraktur,M,𝕸,U+1D578
+math_bold_fraktur,N,𝕹,U+1D579
+math_bold_fraktur,O,𝕺,U+1D57A
+math_bold_fraktur,P,𝕻,U+1D57B
+math_bold_fraktur,Q,𝕼,U+1D57C
+math_bold_fraktur,R,𝕽,U+1D57D
+math_bold_fraktur,S,𝕾,U+1D57E
+math_bold_fraktur,T,𝕿,U+1D57F
+math_bold_fraktur,U,𝖀,U+1D580
+math_bold_fraktur,V,𝖁,U+1D581
+math_bold_fraktur,W,𝖂,U+1D582
+math_bold_fraktur,X,𝖃,U+1D583
+math_bold_fraktur,Y,𝖄,U+1D584
+math_bold_fraktur,Z,𝖅,U+1D585
+math_bold_fraktur,a,𝖆,U+1D586
+math_bold_fraktur,b,𝖇,U+1D587
+math_bold_fraktur,c,𝖈,U+1D588
+math_bold_fraktur,d,𝖉,U+1D589
+math_bold_fraktur,e,𝖊,U+1D58A
+math_bold_fraktur,f,𝖋,U+1D58B
+math_bold_fraktur,g,𝖌,U+1D58C
+math_bold_fraktur,h,𝖍,U+1D58D
+math_bold_fraktur,i,𝖎,U+1D58E
+math_bold_fraktur,j,𝖏,U+1D58F
+math_bold_fraktur,k,𝖐,U+1D590
+math_bold_fraktur,l,𝖑,U+1D591
+math_bold_fraktur,m,𝖒,U+1D592
+math_bold_fraktur,n,𝖓,U+1D593
+math_bold_fraktur,o,𝖔,U+1D594
+math_bold_fraktur,p,𝖕,U+1D595
+math_bold_fraktur,q,𝖖,U+1D596
+math_bold_fraktur,r,𝖗,U+1D597
+math_bold_fraktur,s,𝖘,U+1D598
+math_bold_fraktur,t,𝖙,U+1D599
+math_bold_fraktur,u,𝖚,U+1D59A
+math_bold_fraktur,v,𝖛,U+1D59B
+math_bold_fraktur,w,𝖜,U+1D59C
+math_bold_fraktur,x,𝖝,U+1D59D
+math_bold_fraktur,y,𝖞,U+1D59E
+math_bold_fraktur,z,𝖟,U+1D59F
+math_double_struck,0,𝟘,U+1D7D8
+math_double_struck,1,𝟙,U+1D7D9
+math_double_struck,2,𝟚,U+1D7DA
+math_double_struck,3,𝟛,U+1D7DB
+math_double_struck,4,𝟜,U+1D7DC
+math_double_struck,5,𝟝,U+1D7DD
+math_double_struck,6,𝟞,U+1D7DE
+math_double_struck,7,𝟟,U+1D7DF
+math_double_struck,8,𝟠,U+1D7E0
+math_double_struck,9,𝟡,U+1D7E1
+math_double_struck,A,𝔸,U+1D538
+math_double_struck,B,𝔹,U+1D539
+math_double_struck,C,ℂ,U+2102
+math_double_struck,D,𝔻,U+1D53B
+math_double_struck,E,𝔼,U+1D53C
+math_double_struck,F,𝔽,U+1D53D
+math_double_struck,G,𝔾,U+1D53E
+math_double_struck,H,ℍ,U+210D
+math_double_struck,I,𝕀,U+1D540
+math_double_struck,J,𝕁,U+1D541
+math_double_struck,K,𝕂,U+1D542
+math_double_struck,L,𝕃,U+1D543
+math_double_struck,M,𝕄,U+1D544
+math_double_struck,N,ℕ,U+2115
+math_double_struck,O,𝕆,U+1D546
+math_double_struck,P,ℙ,U+2119
+math_double_struck,Q,ℚ,U+211A
+math_double_struck,R,ℝ,U+211D
+math_double_struck,S,𝕊,U+1D54A
+math_double_struck,T,𝕋,U+1D54B
+math_double_struck,U,𝕌,U+1D54C
+math_double_struck,V,𝕍,U+1D54D
+math_double_struck,W,𝕎,U+1D54E
+math_double_struck,X,𝕏,U+1D54F
+math_double_struck,Y,𝕐,U+1D550
+math_double_struck,Z,ℤ,U+2124
+math_double_struck,a,𝕒,U+1D552
+math_double_struck,b,𝕓,U+1D553
+math_double_struck,c,𝕔,U+1D554
+math_double_struck,d,𝕕,U+1D555
+math_double_struck,e,𝕖,U+1D556
+math_double_struck,f,𝕗,U+1D557
+math_double_struck,g,𝕘,U+1D558
+math_double_struck,h,𝕙,U+1D559
+math_double_struck,i,𝕚,U+1D55A
+math_double_struck,j,𝕛,U+1D55B
+math_double_struck,k,𝕜,U+1D55C
+math_double_struck,l,𝕝,U+1D55D
+math_double_struck,m,𝕞,U+1D55E
+math_double_struck,n,𝕟,U+1D55F
+math_double_struck,o,𝕠,U+1D560
+math_double_struck,p,𝕡,U+1D561
+math_double_struck,q,𝕢,U+1D562
+math_double_struck,r,𝕣,U+1D563
+math_double_struck,s,𝕤,U+1D564
+math_double_struck,t,𝕥,U+1D565
+math_double_struck,u,𝕦,U+1D566
+math_double_struck,v,𝕧,U+1D567
+math_double_struck,w,𝕨,U+1D568
+math_double_struck,x,𝕩,U+1D569
+math_double_struck,y,𝕪,U+1D56A
+math_double_struck,z,𝕫,U+1D56B
+math_mono,0,𝟶,U+1D7F6
+math_mono,1,𝟷,U+1D7F7
+math_mono,2,𝟸,U+1D7F8
+math_mono,3,𝟹,U+1D7F9
+math_mono,4,𝟺,U+1D7FA
+math_mono,5,𝟻,U+1D7FB
+math_mono,6,𝟼,U+1D7FC
+math_mono,7,𝟽,U+1D7FD
+math_mono,8,𝟾,U+1D7FE
+math_mono,9,𝟿,U+1D7FF
+math_mono,A,𝙰,U+1D670
+math_mono,B,𝙱,U+1D671
+math_mono,C,𝙲,U+1D672
+math_mono,D,𝙳,U+1D673
+math_mono,E,𝙴,U+1D674
+math_mono,F,𝙵,U+1D675
+math_mono,G,𝙶,U+1D676
+math_mono,H,𝙷,U+1D677
+math_mono,I,𝙸,U+1D678
+math_mono,J,𝙹,U+1D679
+math_mono,K,𝙺,U+1D67A
+math_mono,L,𝙻,U+1D67B
+math_mono,M,𝙼,U+1D67C
+math_mono,N,𝙽,U+1D67D
+math_mono,O,𝙾,U+1D67E
+math_mono,P,𝙿,U+1D67F
+math_mono,Q,𝚀,U+1D680
+math_mono,R,𝚁,U+1D681
+math_mono,S,𝚂,U+1D682
+math_mono,T,𝚃,U+1D683
+math_mono,U,𝚄,U+1D684
+math_mono,V,𝚅,U+1D685
+math_mono,W,𝚆,U+1D686
+math_mono,X,𝚇,U+1D687
+math_mono,Y,𝚈,U+1D688
+math_mono,Z,𝚉,U+1D689
+math_mono,a,𝚊,U+1D68A
+math_mono,b,𝚋,U+1D68B
+math_mono,c,𝚌,U+1D68C
+math_mono,d,𝚍,U+1D68D
+math_mono,e,𝚎,U+1D68E
+math_mono,f,𝚏,U+1D68F
+math_mono,g,𝚐,U+1D690
+math_mono,h,𝚑,U+1D691
+math_mono,i,𝚒,U+1D692
+math_mono,j,𝚓,U+1D693
+math_mono,k,𝚔,U+1D694
+math_mono,l,𝚕,U+1D695
+math_mono,m,𝚖,U+1D696
+math_mono,n,𝚗,U+1D697
+math_mono,o,𝚘,U+1D698
+math_mono,p,𝚙,U+1D699
+math_mono,q,𝚚,U+1D69A
+math_mono,r,𝚛,U+1D69B
+math_mono,s,𝚜,U+1D69C
+math_mono,t,𝚝,U+1D69D
+math_mono,u,𝚞,U+1D69E
+math_mono,v,𝚟,U+1D69F
+math_mono,w,𝚠,U+1D6A0
+math_mono,x,𝚡,U+1D6A1
+math_mono,y,𝚢,U+1D6A2
+math_mono,z,𝚣,U+1D6A3
+math_sans,0,𝟢,U+1D7E2
+math_sans,1,𝟣,U+1D7E3
+math_sans,2,𝟤,U+1D7E4
+math_sans,3,𝟥,U+1D7E5
+math_sans,4,𝟦,U+1D7E6
+math_sans,5,𝟧,U+1D7E7
+math_sans,6,𝟨,U+1D7E8
+math_sans,7,𝟩,U+1D7E9
+math_sans,8,𝟪,U+1D7EA
+math_sans,9,𝟫,U+1D7EB
+math_sans,A,𝖠,U+1D5A0
+math_sans,B,𝖡,U+1D5A1
+math_sans,C,𝖢,U+1D5A2
+math_sans,D,𝖣,U+1D5A3
+math_sans,E,𝖤,U+1D5A4
+math_sans,F,𝖥,U+1D5A5
+math_sans,G,𝖦,U+1D5A6
+math_sans,H,𝖧,U+1D5A7
+math_sans,I,𝖨,U+1D5A8
+math_sans,J,𝖩,U+1D5A9
+math_sans,K,𝖪,U+1D5AA
+math_sans,L,𝖫,U+1D5AB
+math_sans,M,𝖬,U+1D5AC
+math_sans,N,𝖭,U+1D5AD
+math_sans,O,𝖮,U+1D5AE
+math_sans,P,𝖯,U+1D5AF
+math_sans,Q,𝖰,U+1D5B0
+math_sans,R,𝖱,U+1D5B1
+math_sans,S,𝖲,U+1D5B2
+math_sans,T,𝖳,U+1D5B3
+math_sans,U,𝖴,U+1D5B4
+math_sans,V,𝖵,U+1D5B5
+math_sans,W,𝖶,U+1D5B6
+math_sans,X,𝖷,U+1D5B7
+math_sans,Y,𝖸,U+1D5B8
+math_sans,Z,𝖹,U+1D5B9
+math_sans,a,𝖺,U+1D5BA
+math_sans,b,𝖻,U+1D5BB
+math_sans,c,𝖼,U+1D5BC
+math_sans,d,𝖽,U+1D5BD
+math_sans,e,𝖾,U+1D5BE
+math_sans,f,𝖿,U+1D5BF
+math_sans,g,𝗀,U+1D5C0
+math_sans,h,𝗁,U+1D5C1
+math_sans,i,𝗂,U+1D5C2
+math_sans,j,𝗃,U+1D5C3
+math_sans,k,𝗄,U+1D5C4
+math_sans,l,𝗅,U+1D5C5
+math_sans,m,𝗆,U+1D5C6
+math_sans,n,𝗇,U+1D5C7
+math_sans,o,𝗈,U+1D5C8
+math_sans,p,𝗉,U+1D5C9
+math_sans,q,𝗊,U+1D5CA
+math_sans,r,𝗋,U+1D5CB
+math_sans,s,𝗌,U+1D5CC
+math_sans,t,𝗍,U+1D5CD
+math_sans,u,𝗎,U+1D5CE
+math_sans,v,𝗏,U+1D5CF
+math_sans,w,𝗐,U+1D5D0
+math_sans,x,𝗑,U+1D5D1
+math_sans,y,𝗒,U+1D5D2
+math_sans,z,𝗓,U+1D5D3
+glitch_bars,A,A̶̲̅,U+0041 U+0305 U+0332 U+0336
+glitch_bars,B,B̶̲̅,U+0042 U+0305 U+0332 U+0336
+glitch_bars,C,C̶̲̅,U+0043 U+0305 U+0332 U+0336
+glitch_bars,D,D̶̲̅,U+0044 U+0305 U+0332 U+0336
+glitch_bars,E,E̶̲̅,U+0045 U+0305 U+0332 U+0336
+glitch_bars,F,F̶̲̅,U+0046 U+0305 U+0332 U+0336
+glitch_bars,G,G̶̲̅,U+0047 U+0305 U+0332 U+0336
+glitch_bars,H,H̶̲̅,U+0048 U+0305 U+0332 U+0336
+glitch_bars,I,I̶̲̅,U+0049 U+0305 U+0332 U+0336
+glitch_bars,J,J̶̲̅,U+004A U+0305 U+0332 U+0336
+glitch_bars,K,K̶̲̅,U+004B U+0305 U+0332 U+0336
+glitch_bars,L,L̶̲̅,U+004C U+0305 U+0332 U+0336
+glitch_bars,M,M̶̲̅,U+004D U+0305 U+0332 U+0336
+glitch_bars,N,N̶̲̅,U+004E U+0305 U+0332 U+0336
+glitch_bars,O,O̶̲̅,U+004F U+0305 U+0332 U+0336
+glitch_bars,P,P̶̲̅,U+0050 U+0305 U+0332 U+0336
+glitch_bars,Q,Q̶̲̅,U+0051 U+0305 U+0332 U+0336
+glitch_bars,R,R̶̲̅,U+0052 U+0305 U+0332 U+0336
+glitch_bars,S,S̶̲̅,U+0053 U+0305 U+0332 U+0336
+glitch_bars,T,T̶̲̅,U+0054 U+0305 U+0332 U+0336
+glitch_bars,U,U̶̲̅,U+0055 U+0305 U+0332 U+0336
+glitch_bars,V,V̶̲̅,U+0056 U+0305 U+0332 U+0336
+glitch_bars,W,W̶̲̅,U+0057 U+0305 U+0332 U+0336
+glitch_bars,X,X̶̲̅,U+0058 U+0305 U+0332 U+0336
+glitch_bars,Y,Y̶̲̅,U+0059 U+0305 U+0332 U+0336
+glitch_bars,Z,Z̶̲̅,U+005A U+0305 U+0332 U+0336
+glitch_bars,a,a̶̲̅,U+0061 U+0305 U+0332 U+0336
+glitch_bars,b,b̶̲̅,U+0062 U+0305 U+0332 U+0336
+glitch_bars,c,c̶̲̅,U+0063 U+0305 U+0332 U+0336
+glitch_bars,d,d̶̲̅,U+0064 U+0305 U+0332 U+0336
+glitch_bars,e,e̶̲̅,U+0065 U+0305 U+0332 U+0336
+glitch_bars,f,f̶̲̅,U+0066 U+0305 U+0332 U+0336
+glitch_bars,g,g̶̲̅,U+0067 U+0305 U+0332 U+0336
+glitch_bars,h,h̶̲̅,U+0068 U+0305 U+0332 U+0336
+glitch_bars,i,i̶̲̅,U+0069 U+0305 U+0332 U+0336
+glitch_bars,j,j̶̲̅,U+006A U+0305 U+0332 U+0336
+glitch_bars,k,k̶̲̅,U+006B U+0305 U+0332 U+0336
+glitch_bars,l,l̶̲̅,U+006C U+0305 U+0332 U+0336
+glitch_bars,m,m̶̲̅,U+006D U+0305 U+0332 U+0336
+glitch_bars,n,n̶̲̅,U+006E U+0305 U+0332 U+0336
+glitch_bars,o,o̶̲̅,U+006F U+0305 U+0332 U+0336
+glitch_bars,p,p̶̲̅,U+0070 U+0305 U+0332 U+0336
+glitch_bars,q,q̶̲̅,U+0071 U+0305 U+0332 U+0336
+glitch_bars,r,r̶̲̅,U+0072 U+0305 U+0332 U+0336
+glitch_bars,s,s̶̲̅,U+0073 U+0305 U+0332 U+0336
+glitch_bars,t,t̶̲̅,U+0074 U+0305 U+0332 U+0336
+glitch_bars,u,u̶̲̅,U+0075 U+0305 U+0332 U+0336
+glitch_bars,v,v̶̲̅,U+0076 U+0305 U+0332 U+0336
+glitch_bars,w,w̶̲̅,U+0077 U+0305 U+0332 U+0336
+glitch_bars,x,x̶̲̅,U+0078 U+0305 U+0332 U+0336
+glitch_bars,y,y̶̲̅,U+0079 U+0305 U+0332 U+0336
+glitch_bars,z,z̶̲̅,U+007A U+0305 U+0332 U+0336
+math_sans_bold,0,𝟬,U+1D7EC
+math_sans_bold,1,𝟭,U+1D7ED
+math_sans_bold,2,𝟮,U+1D7EE
+math_sans_bold,3,𝟯,U+1D7EF
+math_sans_bold,4,𝟰,U+1D7F0
+math_sans_bold,5,𝟱,U+1D7F1
+math_sans_bold,6,𝟲,U+1D7F2
+math_sans_bold,7,𝟳,U+1D7F3
+math_sans_bold,8,𝟴,U+1D7F4
+math_sans_bold,9,𝟵,U+1D7F5
+math_sans_bold,A,𝗔,U+1D5D4
+math_sans_bold,B,𝗕,U+1D5D5
+math_sans_bold,C,𝗖,U+1D5D6
+math_sans_bold,D,𝗗,U+1D5D7
+math_sans_bold,E,𝗘,U+1D5D8
+math_sans_bold,F,𝗙,U+1D5D9
+math_sans_bold,G,𝗚,U+1D5DA
+math_sans_bold,H,𝗛,U+1D5DB
+math_sans_bold,I,𝗜,U+1D5DC
+math_sans_bold,J,𝗝,U+1D5DD
+math_sans_bold,K,𝗞,U+1D5DE
+math_sans_bold,L,𝗟,U+1D5DF
+math_sans_bold,M,𝗠,U+1D5E0
+math_sans_bold,N,𝗡,U+1D5E1
+math_sans_bold,O,𝗢,U+1D5E2
+math_sans_bold,P,𝗣,U+1D5E3
+math_sans_bold,Q,𝗤,U+1D5E4
+math_sans_bold,R,𝗥,U+1D5E5
+math_sans_bold,S,𝗦,U+1D5E6
+math_sans_bold,T,𝗧,U+1D5E7
+math_sans_bold,U,𝗨,U+1D5E8
+math_sans_bold,V,𝗩,U+1D5E9
+math_sans_bold,W,𝗪,U+1D5EA
+math_sans_bold,X,𝗫,U+1D5EB
+math_sans_bold,Y,𝗬,U+1D5EC
+math_sans_bold,Z,𝗭,U+1D5ED
+math_sans_bold,a,𝗮,U+1D5EE
+math_sans_bold,b,𝗯,U+1D5EF
+math_sans_bold,c,𝗰,U+1D5F0
+math_sans_bold,d,𝗱,U+1D5F1
+math_sans_bold,e,𝗲,U+1D5F2
+math_sans_bold,f,𝗳,U+1D5F3
+math_sans_bold,g,𝗴,U+1D5F4
+math_sans_bold,h,𝗵,U+1D5F5
+math_sans_bold,i,𝗶,U+1D5F6
+math_sans_bold,j,𝗷,U+1D5F7
+math_sans_bold,k,𝗸,U+1D5F8
+math_sans_bold,l,𝗹,U+1D5F9
+math_sans_bold,m,𝗺,U+1D5FA
+math_sans_bold,n,𝗻,U+1D5FB
+math_sans_bold,o,𝗼,U+1D5FC
+math_sans_bold,p,𝗽,U+1D5FD
+math_sans_bold,q,𝗾,U+1D5FE
+math_sans_bold,r,𝗿,U+1D5FF
+math_sans_bold,s,𝘀,U+1D600
+math_sans_bold,t,𝘁,U+1D601
+math_sans_bold,u,𝘂,U+1D602
+math_sans_bold,v,𝘃,U+1D603
+math_sans_bold,w,𝘄,U+1D604
+math_sans_bold,x,𝘅,U+1D605
+math_sans_bold,y,𝘆,U+1D606
+math_sans_bold,z,𝘇,U+1D607
+greek_style,A,Α,U+0391
+greek_style,B,Β,U+0392
+greek_style,C,Ϲ,U+03F9
+greek_style,D,Δ,U+0394
+greek_style,E,Ε,U+0395
+greek_style,F,Φ,U+03A6
+greek_style,G,Γ,U+0393
+greek_style,H,Η,U+0397
+greek_style,I,Ι,U+0399
+greek_style,J,Ϳ,U+037F
+greek_style,K,Κ,U+039A
+greek_style,L,Λ,U+039B
+greek_style,M,Μ,U+039C
+greek_style,N,Ν,U+039D
+greek_style,O,Ο,U+039F
+greek_style,P,Ρ,U+03A1
+greek_style,Q,Ϙ,U+03D8
+greek_style,R,Ρ,U+03A1
+greek_style,S,Σ,U+03A3
+greek_style,T,Τ,U+03A4
+greek_style,U,Υ,U+03A5
+greek_style,V,Ѵ,U+0474
+greek_style,W,Ω,U+03A9
+greek_style,X,Χ,U+03A7
+greek_style,Y,Υ,U+03A5
+greek_style,Z,Ζ,U+0396
+greek_style,a,α,U+03B1
+greek_style,b,β,U+03B2
+greek_style,c,ϲ,U+03F2
+greek_style,d,δ,U+03B4
+greek_style,e,ε,U+03B5
+greek_style,f,φ,U+03C6
+greek_style,g,γ,U+03B3
+greek_style,h,η,U+03B7
+greek_style,i,ι,U+03B9
+greek_style,j,ϳ,U+03F3
+greek_style,k,κ,U+03BA
+greek_style,l,λ,U+03BB
+greek_style,m,μ,U+03BC
+greek_style,n,ν,U+03BD
+greek_style,o,ο,U+03BF
+greek_style,p,ρ,U+03C1
+greek_style,q,φ,U+03C6
+greek_style,r,ρ,U+03C1
+greek_style,s,ς,U+03C2
+greek_style,t,τ,U+03C4
+greek_style,u,υ,U+03C5
+greek_style,v,ν,U+03BD
+greek_style,w,ω,U+03C9
+greek_style,x,χ,U+03C7
+greek_style,y,γ,U+03B3
+greek_style,z,ζ,U+03B6
+glitch_cross,A,A̸̷,U+0041 U+0338 U+0337
+glitch_cross,B,B̸̷,U+0042 U+0338 U+0337
+glitch_cross,C,C̸̷,U+0043 U+0338 U+0337
+glitch_cross,D,D̸̷,U+0044 U+0338 U+0337
+glitch_cross,E,E̸̷,U+0045 U+0338 U+0337
+glitch_cross,F,F̸̷,U+0046 U+0338 U+0337
+glitch_cross,G,G̸̷,U+0047 U+0338 U+0337
+glitch_cross,H,H̸̷,U+0048 U+0338 U+0337
+glitch_cross,I,I̸̷,U+0049 U+0338 U+0337
+glitch_cross,J,J̸̷,U+004A U+0338 U+0337
+glitch_cross,K,K̸̷,U+004B U+0338 U+0337
+glitch_cross,L,L̸̷,U+004C U+0338 U+0337
+glitch_cross,M,M̸̷,U+004D U+0338 U+0337
+glitch_cross,N,N̸̷,U+004E U+0338 U+0337
+glitch_cross,O,O̸̷,U+004F U+0338 U+0337
+glitch_cross,P,P̸̷,U+0050 U+0338 U+0337
+glitch_cross,Q,Q̸̷,U+0051 U+0338 U+0337
+glitch_cross,R,R̸̷,U+0052 U+0338 U+0337
+glitch_cross,S,S̸̷,U+0053 U+0338 U+0337
+glitch_cross,T,T̸̷,U+0054 U+0338 U+0337
+glitch_cross,U,U̸̷,U+0055 U+0338 U+0337
+glitch_cross,V,V̸̷,U+0056 U+0338 U+0337
+glitch_cross,W,W̸̷,U+0057 U+0338 U+0337
+glitch_cross,X,X̸̷,U+0058 U+0338 U+0337
+glitch_cross,Y,Y̸̷,U+0059 U+0338 U+0337
+glitch_cross,Z,Z̸̷,U+005A U+0338 U+0337
+glitch_cross,a,a̸̷,U+0061 U+0338 U+0337
+glitch_cross,b,b̸̷,U+0062 U+0338 U+0337
+glitch_cross,c,c̸̷,U+0063 U+0338 U+0337
+glitch_cross,d,d̸̷,U+0064 U+0338 U+0337
+glitch_cross,e,e̸̷,U+0065 U+0338 U+0337
+glitch_cross,f,f̸̷,U+0066 U+0338 U+0337
+glitch_cross,g,g̸̷,U+0067 U+0338 U+0337
+glitch_cross,h,h̸̷,U+0068 U+0338 U+0337
+glitch_cross,i,i̸̷,U+0069 U+0338 U+0337
+glitch_cross,j,j̸̷,U+006A U+0338 U+0337
+glitch_cross,k,k̸̷,U+006B U+0338 U+0337
+glitch_cross,l,l̸̷,U+006C U+0338 U+0337
+glitch_cross,m,m̸̷,U+006D U+0338 U+0337
+glitch_cross,n,n̸̷,U+006E U+0338 U+0337
+glitch_cross,o,o̸̷,U+006F U+0338 U+0337
+glitch_cross,p,p̸̷,U+0070 U+0338 U+0337
+glitch_cross,q,q̸̷,U+0071 U+0338 U+0337
+glitch_cross,r,r̸̷,U+0072 U+0338 U+0337
+glitch_cross,s,s̸̷,U+0073 U+0338 U+0337
+glitch_cross,t,t̸̷,U+0074 U+0338 U+0337
+glitch_cross,u,u̸̷,U+0075 U+0338 U+0337
+glitch_cross,v,v̸̷,U+0076 U+0338 U+0337
+glitch_cross,w,w̸̷,U+0077 U+0338 U+0337
+glitch_cross,x,x̸̷,U+0078 U+0338 U+0337
+glitch_cross,y,y̸̷,U+0079 U+0338 U+0337
+glitch_cross,z,z̸̷,U+007A U+0338 U+0337
+glitch_lines,A,A̳̅̿,U+0041 U+0305 U+033F U+0333
+glitch_lines,B,B̳̅̿,U+0042 U+0305 U+033F U+0333
+glitch_lines,C,C̳̅̿,U+0043 U+0305 U+033F U+0333
+glitch_lines,D,D̳̅̿,U+0044 U+0305 U+033F U+0333
+glitch_lines,E,E̳̅̿,U+0045 U+0305 U+033F U+0333
+glitch_lines,F,F̳̅̿,U+0046 U+0305 U+033F U+0333
+glitch_lines,G,G̳̅̿,U+0047 U+0305 U+033F U+0333
+glitch_lines,H,H̳̅̿,U+0048 U+0305 U+033F U+0333
+glitch_lines,I,I̳̅̿,U+0049 U+0305 U+033F U+0333
+glitch_lines,J,J̳̅̿,U+004A U+0305 U+033F U+0333
+glitch_lines,K,K̳̅̿,U+004B U+0305 U+033F U+0333
+glitch_lines,L,L̳̅̿,U+004C U+0305 U+033F U+0333
+glitch_lines,M,M̳̅̿,U+004D U+0305 U+033F U+0333
+glitch_lines,N,N̳̅̿,U+004E U+0305 U+033F U+0333
+glitch_lines,O,O̳̅̿,U+004F U+0305 U+033F U+0333
+glitch_lines,P,P̳̅̿,U+0050 U+0305 U+033F U+0333
+glitch_lines,Q,Q̳̅̿,U+0051 U+0305 U+033F U+0333
+glitch_lines,R,R̳̅̿,U+0052 U+0305 U+033F U+0333
+glitch_lines,S,S̳̅̿,U+0053 U+0305 U+033F U+0333
+glitch_lines,T,T̳̅̿,U+0054 U+0305 U+033F U+0333
+glitch_lines,U,U̳̅̿,U+0055 U+0305 U+033F U+0333
+glitch_lines,V,V̳̅̿,U+0056 U+0305 U+033F U+0333
+glitch_lines,W,W̳̅̿,U+0057 U+0305 U+033F U+0333
+glitch_lines,X,X̳̅̿,U+0058 U+0305 U+033F U+0333
+glitch_lines,Y,Y̳̅̿,U+0059 U+0305 U+033F U+0333
+glitch_lines,Z,Z̳̅̿,U+005A U+0305 U+033F U+0333
+glitch_lines,a,a̳̅̿,U+0061 U+0305 U+033F U+0333
+glitch_lines,b,b̳̅̿,U+0062 U+0305 U+033F U+0333
+glitch_lines,c,c̳̅̿,U+0063 U+0305 U+033F U+0333
+glitch_lines,d,d̳̅̿,U+0064 U+0305 U+033F U+0333
+glitch_lines,e,e̳̅̿,U+0065 U+0305 U+033F U+0333
+glitch_lines,f,f̳̅̿,U+0066 U+0305 U+033F U+0333
+glitch_lines,g,g̳̅̿,U+0067 U+0305 U+033F U+0333
+glitch_lines,h,h̳̅̿,U+0068 U+0305 U+033F U+0333
+glitch_lines,i,i̳̅̿,U+0069 U+0305 U+033F U+0333
+glitch_lines,j,j̳̅̿,U+006A U+0305 U+033F U+0333
+glitch_lines,k,k̳̅̿,U+006B U+0305 U+033F U+0333
+glitch_lines,l,l̳̅̿,U+006C U+0305 U+033F U+0333
+glitch_lines,m,m̳̅̿,U+006D U+0305 U+033F U+0333
+glitch_lines,n,n̳̅̿,U+006E U+0305 U+033F U+0333
+glitch_lines,o,o̳̅̿,U+006F U+0305 U+033F U+0333
+glitch_lines,p,p̳̅̿,U+0070 U+0305 U+033F U+0333
+glitch_lines,q,q̳̅̿,U+0071 U+0305 U+033F U+0333
+glitch_lines,r,r̳̅̿,U+0072 U+0305 U+033F U+0333
+glitch_lines,s,s̳̅̿,U+0073 U+0305 U+033F U+0333
+glitch_lines,t,t̳̅̿,U+0074 U+0305 U+033F U+0333
+glitch_lines,u,u̳̅̿,U+0075 U+0305 U+033F U+0333
+glitch_lines,v,v̳̅̿,U+0076 U+0305 U+033F U+0333
+glitch_lines,w,w̳̅̿,U+0077 U+0305 U+033F U+0333
+glitch_lines,x,x̳̅̿,U+0078 U+0305 U+033F U+0333
+glitch_lines,y,y̳̅̿,U+0079 U+0305 U+033F U+0333
+glitch_lines,z,z̳̅̿,U+007A U+0305 U+033F U+0333
+math_sans_italic,A,𝘈,U+1D608
+math_sans_italic,B,𝘉,U+1D609
+math_sans_italic,C,𝘊,U+1D60A
+math_sans_italic,D,𝘋,U+1D60B
+math_sans_italic,E,𝘌,U+1D60C
+math_sans_italic,F,𝘍,U+1D60D
+math_sans_italic,G,𝘎,U+1D60E
+math_sans_italic,H,𝘏,U+1D60F
+math_sans_italic,I,𝘐,U+1D610
+math_sans_italic,J,𝘑,U+1D611
+math_sans_italic,K,𝘒,U+1D612
+math_sans_italic,L,𝘓,U+1D613
+math_sans_italic,M,𝘔,U+1D614
+math_sans_italic,N,𝘕,U+1D615
+math_sans_italic,O,𝘖,U+1D616
+math_sans_italic,P,𝘗,U+1D617
+math_sans_italic,Q,𝘘,U+1D618
+math_sans_italic,R,𝘙,U+1D619
+math_sans_italic,S,𝘚,U+1D61A
+math_sans_italic,T,𝘛,U+1D61B
+math_sans_italic,U,𝘜,U+1D61C
+math_sans_italic,V,𝘝,U+1D61D
+math_sans_italic,W,𝘞,U+1D61E
+math_sans_italic,X,𝘟,U+1D61F
+math_sans_italic,Y,𝘠,U+1D620
+math_sans_italic,Z,𝘡,U+1D621
+math_sans_italic,a,𝘢,U+1D622
+math_sans_italic,b,𝘣,U+1D623
+math_sans_italic,c,𝘤,U+1D624
+math_sans_italic,d,𝘥,U+1D625
+math_sans_italic,e,𝘦,U+1D626
+math_sans_italic,f,𝘧,U+1D627
+math_sans_italic,g,𝘨,U+1D628
+math_sans_italic,h,𝘩,U+1D629
+math_sans_italic,i,𝘪,U+1D62A
+math_sans_italic,j,𝘫,U+1D62B
+math_sans_italic,k,𝘬,U+1D62C
+math_sans_italic,l,𝘭,U+1D62D
+math_sans_italic,m,𝘮,U+1D62E
+math_sans_italic,n,𝘯,U+1D62F
+math_sans_italic,o,𝘰,U+1D630
+math_sans_italic,p,𝘱,U+1D631
+math_sans_italic,q,𝘲,U+1D632
+math_sans_italic,r,𝘳,U+1D633
+math_sans_italic,s,𝘴,U+1D634
+math_sans_italic,t,𝘵,U+1D635
+math_sans_italic,u,𝘶,U+1D636
+math_sans_italic,v,𝘷,U+1D637
+math_sans_italic,w,𝘸,U+1D638
+math_sans_italic,x,𝘹,U+1D639
+math_sans_italic,y,𝘺,U+1D63A
+math_sans_italic,z,𝘻,U+1D63B
+braille,!,⠖,U+2816
+braille,',⠄,U+2804
+braille,",",⠂,U+2802
+braille,-,⠤,U+2824
+braille,.,⠲,U+2832
+braille,0,⠼⠚,U+283C U+281A
+braille,1,⠼⠁,U+283C U+2801
+braille,2,⠼⠃,U+283C U+2803
+braille,3,⠼⠉,U+283C U+2809
+braille,4,⠼⠙,U+283C U+2819
+braille,5,⠼⠑,U+283C U+2811
+braille,6,⠼⠋,U+283C U+280B
+braille,7,⠼⠛,U+283C U+281B
+braille,8,⠼⠓,U+283C U+2813
+braille,9,⠼⠊,U+283C U+280A
+braille,:,⠒,U+2812
+braille,;,⠆,U+2806
+braille,?,⠦,U+2826
+braille,A,⠁,U+2801
+braille,B,⠃,U+2803
+braille,C,⠉,U+2809
+braille,D,⠙,U+2819
+braille,E,⠑,U+2811
+braille,F,⠋,U+280B
+braille,G,⠛,U+281B
+braille,H,⠓,U+2813
+braille,I,⠊,U+280A
+braille,J,⠚,U+281A
+braille,K,⠅,U+2805
+braille,L,⠇,U+2807
+braille,M,⠍,U+280D
+braille,N,⠝,U+281D
+braille,O,⠕,U+2815
+braille,P,⠏,U+280F
+braille,Q,⠟,U+281F
+braille,R,⠗,U+2817
+braille,S,⠎,U+280E
+braille,T,⠞,U+281E
+braille,U,⠥,U+2825
+braille,V,⠧,U+2827
+braille,W,⠺,U+283A
+braille,X,⠭,U+282D
+braille,Y,⠽,U+283D
+braille,Z,⠵,U+2835
+braille,a,⠁,U+2801
+braille,b,⠃,U+2803
+braille,c,⠉,U+2809
+braille,d,⠙,U+2819
+braille,e,⠑,U+2811
+braille,f,⠋,U+280B
+braille,g,⠛,U+281B
+braille,h,⠓,U+2813
+braille,i,⠊,U+280A
+braille,j,⠚,U+281A
+braille,k,⠅,U+2805
+braille,l,⠇,U+2807
+braille,m,⠍,U+280D
+braille,n,⠝,U+281D
+braille,o,⠕,U+2815
+braille,p,⠏,U+280F
+braille,q,⠟,U+281F
+braille,r,⠗,U+2817
+braille,s,⠎,U+280E
+braille,t,⠞,U+281E
+braille,u,⠥,U+2825
+braille,v,⠧,U+2827
+braille,w,⠺,U+283A
+braille,x,⠭,U+282D
+braille,y,⠽,U+283D
+braille,z,⠵,U+2835
+morse, ,/,U+002F
+morse,!,-.-.--,U+002D U+002E U+002D U+002E U+002D U+002D
+morse,&,.-...,U+002E U+002D U+002E U+002E U+002E
+morse,',.----.,U+002E U+002D U+002D U+002D U+002D U+002E
+morse,(,-.--.,U+002D U+002E U+002D U+002D U+002E
+morse,),-.--.-,U+002D U+002E U+002D U+002D U+002E U+002D
+morse,",",--..--,U+002D U+002D U+002E U+002E U+002D U+002D
+morse,-,-....-,U+002D U+002E U+002E U+002E U+002E U+002D
+morse,.,.-.-.-,U+002E U+002D U+002E U+002D U+002E U+002D
+morse,/,-..-.,U+002D U+002E U+002E U+002D U+002E
+morse,0,-----,U+002D U+002D U+002D U+002D U+002D
+morse,1,.----,U+002E U+002D U+002D U+002D U+002D
+morse,2,..---,U+002E U+002E U+002D U+002D U+002D
+morse,3,...--,U+002E U+002E U+002E U+002D U+002D
+morse,4,....-,U+002E U+002E U+002E U+002E U+002D
+morse,5,.....,U+002E U+002E U+002E U+002E U+002E
+morse,6,-....,U+002D U+002E U+002E U+002E U+002E
+morse,7,--...,U+002D U+002D U+002E U+002E U+002E
+morse,8,---..,U+002D U+002D U+002D U+002E U+002E
+morse,9,----.,U+002D U+002D U+002D U+002D U+002E
+morse,:,---...,U+002D U+002D U+002D U+002E U+002E U+002E
+morse,?,..--..,U+002E U+002E U+002D U+002D U+002E U+002E
+morse,@,.--.-.,U+002E U+002D U+002D U+002E U+002D U+002E
+morse,A,.-,U+002E U+002D
+morse,B,-...,U+002D U+002E U+002E U+002E
+morse,C,-.-.,U+002D U+002E U+002D U+002E
+morse,D,-..,U+002D U+002E U+002E
+morse,E,.,U+002E
+morse,F,..-.,U+002E U+002E U+002D U+002E
+morse,G,--.,U+002D U+002D U+002E
+morse,H,....,U+002E U+002E U+002E U+002E
+morse,I,..,U+002E U+002E
+morse,J,.---,U+002E U+002D U+002D U+002D
+morse,K,-.-,U+002D U+002E U+002D
+morse,L,.-..,U+002E U+002D U+002E U+002E
+morse,M,--,U+002D U+002D
+morse,N,-.,U+002D U+002E
+morse,O,---,U+002D U+002D U+002D
+morse,P,.--.,U+002E U+002D U+002D U+002E
+morse,Q,--.-,U+002D U+002D U+002E U+002D
+morse,R,.-.,U+002E U+002D U+002E
+morse,S,...,U+002E U+002E U+002E
+morse,T,-,U+002D
+morse,U,..-,U+002E U+002E U+002D
+morse,V,...-,U+002E U+002E U+002E U+002D
+morse,W,.--,U+002E U+002D U+002D
+morse,X,-..-,U+002D U+002E U+002E U+002D
+morse,Y,-.--,U+002D U+002E U+002D U+002D
+morse,Z,--..,U+002D U+002D U+002E U+002E
+morse,a,.-,U+002E U+002D
+morse,b,-...,U+002D U+002E U+002E U+002E
+morse,c,-.-.,U+002D U+002E U+002D U+002E
+morse,d,-..,U+002D U+002E U+002E
+morse,e,.,U+002E
+morse,f,..-.,U+002E U+002E U+002D U+002E
+morse,g,--.,U+002D U+002D U+002E
+morse,h,....,U+002E U+002E U+002E U+002E
+morse,i,..,U+002E U+002E
+morse,j,.---,U+002E U+002D U+002D U+002D
+morse,k,-.-,U+002D U+002E U+002D
+morse,l,.-..,U+002E U+002D U+002E U+002E
+morse,m,--,U+002D U+002D
+morse,n,-.,U+002D U+002E
+morse,o,---,U+002D U+002D U+002D
+morse,p,.--.,U+002E U+002D U+002D U+002E
+morse,q,--.-,U+002D U+002D U+002E U+002D
+morse,r,.-.,U+002E U+002D U+002E
+morse,s,...,U+002E U+002E U+002E
+morse,t,-,U+002D
+morse,u,..-,U+002E U+002E U+002D
+morse,v,...-,U+002E U+002E U+002E U+002D
+morse,w,.--,U+002E U+002D U+002D
+morse,x,-..-,U+002D U+002E U+002E U+002D
+morse,y,-.--,U+002D U+002E U+002D U+002D
+morse,z,--..,U+002D U+002D U+002E U+002E
+binary, ,00100000,U+0030 U+0030 U+0031 U+0030 U+0030 U+0030 U+0030 U+0030
+binary,!,00100001,U+0030 U+0030 U+0031 U+0030 U+0030 U+0030 U+0030 U+0031
+binary,"""",00100010,U+0030 U+0030 U+0031 U+0030 U+0030 U+0030 U+0031 U+0030
+binary,#,00100011,U+0030 U+0030 U+0031 U+0030 U+0030 U+0030 U+0031 U+0031
+binary,$,00100100,U+0030 U+0030 U+0031 U+0030 U+0030 U+0031 U+0030 U+0030
+binary,%,00100101,U+0030 U+0030 U+0031 U+0030 U+0030 U+0031 U+0030 U+0031
+binary,&,00100110,U+0030 U+0030 U+0031 U+0030 U+0030 U+0031 U+0031 U+0030
+binary,',00100111,U+0030 U+0030 U+0031 U+0030 U+0030 U+0031 U+0031 U+0031
+binary,(,00101000,U+0030 U+0030 U+0031 U+0030 U+0031 U+0030 U+0030 U+0030
+binary,),00101001,U+0030 U+0030 U+0031 U+0030 U+0031 U+0030 U+0030 U+0031
+binary,*,00101010,U+0030 U+0030 U+0031 U+0030 U+0031 U+0030 U+0031 U+0030
+binary,+,00101011,U+0030 U+0030 U+0031 U+0030 U+0031 U+0030 U+0031 U+0031
+binary,",",00101100,U+0030 U+0030 U+0031 U+0030 U+0031 U+0031 U+0030 U+0030
+binary,-,00101101,U+0030 U+0030 U+0031 U+0030 U+0031 U+0031 U+0030 U+0031
+binary,.,00101110,U+0030 U+0030 U+0031 U+0030 U+0031 U+0031 U+0031 U+0030
+binary,/,00101111,U+0030 U+0030 U+0031 U+0030 U+0031 U+0031 U+0031 U+0031
+binary,0,00110000,U+0030 U+0030 U+0031 U+0031 U+0030 U+0030 U+0030 U+0030
+binary,1,00110001,U+0030 U+0030 U+0031 U+0031 U+0030 U+0030 U+0030 U+0031
+binary,2,00110010,U+0030 U+0030 U+0031 U+0031 U+0030 U+0030 U+0031 U+0030
+binary,3,00110011,U+0030 U+0030 U+0031 U+0031 U+0030 U+0030 U+0031 U+0031
+binary,4,00110100,U+0030 U+0030 U+0031 U+0031 U+0030 U+0031 U+0030 U+0030
+binary,5,00110101,U+0030 U+0030 U+0031 U+0031 U+0030 U+0031 U+0030 U+0031
+binary,6,00110110,U+0030 U+0030 U+0031 U+0031 U+0030 U+0031 U+0031 U+0030
+binary,7,00110111,U+0030 U+0030 U+0031 U+0031 U+0030 U+0031 U+0031 U+0031
+binary,8,00111000,U+0030 U+0030 U+0031 U+0031 U+0031 U+0030 U+0030 U+0030
+binary,9,00111001,U+0030 U+0030 U+0031 U+0031 U+0031 U+0030 U+0030 U+0031
+binary,:,00111010,U+0030 U+0030 U+0031 U+0031 U+0031 U+0030 U+0031 U+0030
+binary,;,00111011,U+0030 U+0030 U+0031 U+0031 U+0031 U+0030 U+0031 U+0031
+binary,<,00111100,U+0030 U+0030 U+0031 U+0031 U+0031 U+0031 U+0030 U+0030
+binary,=,00111101,U+0030 U+0030 U+0031 U+0031 U+0031 U+0031 U+0030 U+0031
+binary,>,00111110,U+0030 U+0030 U+0031 U+0031 U+0031 U+0031 U+0031 U+0030
+binary,?,00111111,U+0030 U+0030 U+0031 U+0031 U+0031 U+0031 U+0031 U+0031
+binary,@,01000000,U+0030 U+0031 U+0030 U+0030 U+0030 U+0030 U+0030 U+0030
+binary,A,01000001,U+0030 U+0031 U+0030 U+0030 U+0030 U+0030 U+0030 U+0031
+binary,B,01000010,U+0030 U+0031 U+0030 U+0030 U+0030 U+0030 U+0031 U+0030
+binary,C,01000011,U+0030 U+0031 U+0030 U+0030 U+0030 U+0030 U+0031 U+0031
+binary,D,01000100,U+0030 U+0031 U+0030 U+0030 U+0030 U+0031 U+0030 U+0030
+binary,E,01000101,U+0030 U+0031 U+0030 U+0030 U+0030 U+0031 U+0030 U+0031
+binary,F,01000110,U+0030 U+0031 U+0030 U+0030 U+0030 U+0031 U+0031 U+0030
+binary,G,01000111,U+0030 U+0031 U+0030 U+0030 U+0030 U+0031 U+0031 U+0031
+binary,H,01001000,U+0030 U+0031 U+0030 U+0030 U+0031 U+0030 U+0030 U+0030
+binary,I,01001001,U+0030 U+0031 U+0030 U+0030 U+0031 U+0030 U+0030 U+0031
+binary,J,01001010,U+0030 U+0031 U+0030 U+0030 U+0031 U+0030 U+0031 U+0030
+binary,K,01001011,U+0030 U+0031 U+0030 U+0030 U+0031 U+0030 U+0031 U+0031
+binary,L,01001100,U+0030 U+0031 U+0030 U+0030 U+0031 U+0031 U+0030 U+0030
+binary,M,01001101,U+0030 U+0031 U+0030 U+0030 U+0031 U+0031 U+0030 U+0031
+binary,N,01001110,U+0030 U+0031 U+0030 U+0030 U+0031 U+0031 U+0031 U+0030
+binary,O,01001111,U+0030 U+0031 U+0030 U+0030 U+0031 U+0031 U+0031 U+0031
+binary,P,01010000,U+0030 U+0031 U+0030 U+0031 U+0030 U+0030 U+0030 U+0030
+binary,Q,01010001,U+0030 U+0031 U+0030 U+0031 U+0030 U+0030 U+0030 U+0031
+binary,R,01010010,U+0030 U+0031 U+0030 U+0031 U+0030 U+0030 U+0031 U+0030
+binary,S,01010011,U+0030 U+0031 U+0030 U+0031 U+0030 U+0030 U+0031 U+0031
+binary,T,01010100,U+0030 U+0031 U+0030 U+0031 U+0030 U+0031 U+0030 U+0030
+binary,U,01010101,U+0030 U+0031 U+0030 U+0031 U+0030 U+0031 U+0030 U+0031
+binary,V,01010110,U+0030 U+0031 U+0030 U+0031 U+0030 U+0031 U+0031 U+0030
+binary,W,01010111,U+0030 U+0031 U+0030 U+0031 U+0030 U+0031 U+0031 U+0031
+binary,X,01011000,U+0030 U+0031 U+0030 U+0031 U+0031 U+0030 U+0030 U+0030
+binary,Y,01011001,U+0030 U+0031 U+0030 U+0031 U+0031 U+0030 U+0030 U+0031
+binary,Z,01011010,U+0030 U+0031 U+0030 U+0031 U+0031 U+0030 U+0031 U+0030
+binary,[,01011011,U+0030 U+0031 U+0030 U+0031 U+0031 U+0030 U+0031 U+0031
+binary,\,01011100,U+0030 U+0031 U+0030 U+0031 U+0031 U+0031 U+0030 U+0030
+binary,],01011101,U+0030 U+0031 U+0030 U+0031 U+0031 U+0031 U+0030 U+0031
+binary,^,01011110,U+0030 U+0031 U+0030 U+0031 U+0031 U+0031 U+0031 U+0030
+binary,_,01011111,U+0030 U+0031 U+0030 U+0031 U+0031 U+0031 U+0031 U+0031
+binary,`,01100000,U+0030 U+0031 U+0031 U+0030 U+0030 U+0030 U+0030 U+0030
+binary,a,01100001,U+0030 U+0031 U+0031 U+0030 U+0030 U+0030 U+0030 U+0031
+binary,b,01100010,U+0030 U+0031 U+0031 U+0030 U+0030 U+0030 U+0031 U+0030
+binary,c,01100011,U+0030 U+0031 U+0031 U+0030 U+0030 U+0030 U+0031 U+0031
+binary,d,01100100,U+0030 U+0031 U+0031 U+0030 U+0030 U+0031 U+0030 U+0030
+binary,e,01100101,U+0030 U+0031 U+0031 U+0030 U+0030 U+0031 U+0030 U+0031
+binary,f,01100110,U+0030 U+0031 U+0031 U+0030 U+0030 U+0031 U+0031 U+0030
+binary,g,01100111,U+0030 U+0031 U+0031 U+0030 U+0030 U+0031 U+0031 U+0031
+binary,h,01101000,U+0030 U+0031 U+0031 U+0030 U+0031 U+0030 U+0030 U+0030
+binary,i,01101001,U+0030 U+0031 U+0031 U+0030 U+0031 U+0030 U+0030 U+0031
+binary,j,01101010,U+0030 U+0031 U+0031 U+0030 U+0031 U+0030 U+0031 U+0030
+binary,k,01101011,U+0030 U+0031 U+0031 U+0030 U+0031 U+0030 U+0031 U+0031
+binary,l,01101100,U+0030 U+0031 U+0031 U+0030 U+0031 U+0031 U+0030 U+0030
+binary,m,01101101,U+0030 U+0031 U+0031 U+0030 U+0031 U+0031 U+0030 U+0031
+binary,n,01101110,U+0030 U+0031 U+0031 U+0030 U+0031 U+0031 U+0031 U+0030
+binary,o,01101111,U+0030 U+0031 U+0031 U+0030 U+0031 U+0031 U+0031 U+0031
+binary,p,01110000,U+0030 U+0031 U+0031 U+0031 U+0030 U+0030 U+0030 U+0030
+binary,q,01110001,U+0030 U+0031 U+0031 U+0031 U+0030 U+0030 U+0030 U+0031
+binary,r,01110010,U+0030 U+0031 U+0031 U+0031 U+0030 U+0030 U+0031 U+0030
+binary,s,01110011,U+0030 U+0031 U+0031 U+0031 U+0030 U+0030 U+0031 U+0031
+binary,t,01110100,U+0030 U+0031 U+0031 U+0031 U+0030 U+0031 U+0030 U+0030
+binary,u,01110101,U+0030 U+0031 U+0031 U+0031 U+0030 U+0031 U+0030 U+0031
+binary,v,01110110,U+0030 U+0031 U+0031 U+0031 U+0030 U+0031 U+0031 U+0030
+binary,w,01110111,U+0030 U+0031 U+0031 U+0031 U+0030 U+0031 U+0031 U+0031
+binary,x,01111000,U+0030 U+0031 U+0031 U+0031 U+0031 U+0030 U+0030 U+0030
+binary,y,01111001,U+0030 U+0031 U+0031 U+0031 U+0031 U+0030 U+0030 U+0031
+binary,z,01111010,U+0030 U+0031 U+0031 U+0031 U+0031 U+0030 U+0031 U+0030
+binary,{,01111011,U+0030 U+0031 U+0031 U+0031 U+0031 U+0030 U+0031 U+0031
+binary,|,01111100,U+0030 U+0031 U+0031 U+0031 U+0031 U+0031 U+0030 U+0030
+binary,},01111101,U+0030 U+0031 U+0031 U+0031 U+0031 U+0031 U+0030 U+0031
+binary,~,01111110,U+0030 U+0031 U+0031 U+0031 U+0031 U+0031 U+0031 U+0030
+wingdings,!,🖉,U+1F589
+wingdings,"""",✂,U+2702
+wingdings,#,✁,U+2701
+wingdings,$,👓,U+1F453
+wingdings,%,🕭,U+1F56D
+wingdings,&,🕮,U+1F56E
+wingdings,',🕯,U+1F56F
+wingdings,(,🕿,U+1F57F
+wingdings,),✆,U+2706
+wingdings,*,🖂,U+1F582
+wingdings,+,🖃,U+1F583
+wingdings,",",📪,U+1F4EA
+wingdings,-,📫,U+1F4EB
+wingdings,.,📬,U+1F4EC
+wingdings,/,📭,U+1F4ED
+wingdings,0,🗀,U+1F5C0
+wingdings,1,🗁,U+1F5C1
+wingdings,2,🗎,U+1F5CE
+wingdings,3,🗏,U+1F5CF
+wingdings,4,🗐,U+1F5D0
+wingdings,5,🗄,U+1F5C4
+wingdings,6,⏳,U+23F3
+wingdings,7,🖮,U+1F5AE
+wingdings,8,🖰,U+1F5B0
+wingdings,9,🖲,U+1F5B2
+wingdings,:,🖳,U+1F5B3
+wingdings,;,🖴,U+1F5B4
+wingdings,<,🖫,U+1F5AB
+wingdings,=,🖬,U+1F5AC
+wingdings,>,✇,U+2707
+wingdings,?,✍,U+270D
+wingdings,@,🖎,U+1F58E
+wingdings,A,✌,U+270C
+wingdings,B,🖏,U+1F58F
+wingdings,C,👍,U+1F44D
+wingdings,D,👎,U+1F44E
+wingdings,E,☜,U+261C
+wingdings,F,☞,U+261E
+wingdings,G,☝,U+261D
+wingdings,H,🖗,U+1F597
+wingdings,I,🖐,U+1F590
+wingdings,J,☺,U+263A
+wingdings,K,😐,U+1F610
+wingdings,L,☹,U+2639
+wingdings,M,💣,U+1F4A3
+wingdings,N,🕱,U+1F571
+wingdings,O,🏳,U+1F3F3
+wingdings,P,🏱,U+1F3F1
+wingdings,Q,✈,U+2708
+wingdings,R,☼,U+263C
+wingdings,S,🌢,U+1F322
+wingdings,T,❄,U+2744
+wingdings,U,🕆,U+1F546
+wingdings,V,✞,U+271E
+wingdings,W,🕈,U+1F548
+wingdings,X,✠,U+2720
+wingdings,Y,✡,U+2721
+wingdings,Z,☪,U+262A
+wingdings,[,☯,U+262F
+wingdings,\,🕉,U+1F549
+wingdings,],☸,U+2638
+wingdings,^,♈,U+2648
+wingdings,_,♉,U+2649
+wingdings,`,♊,U+264A
+wingdings,a,♋,U+264B
+wingdings,b,♌,U+264C
+wingdings,c,♍,U+264D
+wingdings,d,♎,U+264E
+wingdings,e,♏,U+264F
+wingdings,f,♐,U+2650
+wingdings,g,♑,U+2651
+wingdings,h,♒,U+2652
+wingdings,i,♓,U+2653
+wingdings,j,🙰,U+1F670
+wingdings,k,🙵,U+1F675
+wingdings,l,⚫,U+26AB
+wingdings,m,🔾,U+1F53E
+wingdings,n,◼,U+25FC
+wingdings,o,🞏,U+1F78F
+wingdings,p,🞐,U+1F790
+wingdings,q,❑,U+2751
+wingdings,r,❒,U+2752
+wingdings,s,🞟,U+1F79F
+wingdings,t,⧫,U+29EB
+wingdings,u,◆,U+25C6
+wingdings,v,❖,U+2756
+wingdings,w,🞙,U+1F799
+wingdings,x,⌧,U+2327
+wingdings,y,⮹,U+2BB9
+wingdings,z,⌘,U+2318
+wingdings,{,🏵,U+1F3F5
+wingdings,|,🏶,U+1F3F6
+wingdings,},🙶,U+1F676
+wingdings,~,🙷,U+1F677
+math_sans_bold_italic,A,𝘼,U+1D63C
+math_sans_bold_italic,B,𝘽,U+1D63D
+math_sans_bold_italic,C,𝘾,U+1D63E
+math_sans_bold_italic,D,𝘿,U+1D63F
+math_sans_bold_italic,E,𝙀,U+1D640
+math_sans_bold_italic,F,𝙁,U+1D641
+math_sans_bold_italic,G,𝙂,U+1D642
+math_sans_bold_italic,H,𝙃,U+1D643
+math_sans_bold_italic,I,𝙄,U+1D644
+math_sans_bold_italic,J,𝙅,U+1D645
+math_sans_bold_italic,K,𝙆,U+1D646
+math_sans_bold_italic,L,𝙇,U+1D647
+math_sans_bold_italic,M,𝙈,U+1D648
+math_sans_bold_italic,N,𝙉,U+1D649
+math_sans_bold_italic,O,𝙊,U+1D64A
+math_sans_bold_italic,P,𝙋,U+1D64B
+math_sans_bold_italic,Q,𝙌,U+1D64C
+math_sans_bold_italic,R,𝙍,U+1D64D
+math_sans_bold_italic,S,𝙎,U+1D64E
+math_sans_bold_italic,T,𝙏,U+1D64F
+math_sans_bold_italic,U,𝙐,U+1D650
+math_sans_bold_italic,V,𝙑,U+1D651
+math_sans_bold_italic,W,𝙒,U+1D652
+math_sans_bold_italic,X,𝙓,U+1D653
+math_sans_bold_italic,Y,𝙔,U+1D654
+math_sans_bold_italic,Z,𝙕,U+1D655
+math_sans_bold_italic,a,𝙖,U+1D656
+math_sans_bold_italic,b,𝙗,U+1D657
+math_sans_bold_italic,c,𝙘,U+1D658
+math_sans_bold_italic,d,𝙙,U+1D659
+math_sans_bold_italic,e,𝙚,U+1D65A
+math_sans_bold_italic,f,𝙛,U+1D65B
+math_sans_bold_italic,g,𝙜,U+1D65C
+math_sans_bold_italic,h,𝙝,U+1D65D
+math_sans_bold_italic,i,𝙞,U+1D65E
+math_sans_bold_italic,j,𝙟,U+1D65F
+math_sans_bold_italic,k,𝙠,U+1D660
+math_sans_bold_italic,l,𝙡,U+1D661
+math_sans_bold_italic,m,𝙢,U+1D662
+math_sans_bold_italic,n,𝙣,U+1D663
+math_sans_bold_italic,o,𝙤,U+1D664
+math_sans_bold_italic,p,𝙥,U+1D665
+math_sans_bold_italic,q,𝙦,U+1D666
+math_sans_bold_italic,r,𝙧,U+1D667
+math_sans_bold_italic,s,𝙨,U+1D668
+math_sans_bold_italic,t,𝙩,U+1D669
+math_sans_bold_italic,u,𝙪,U+1D66A
+math_sans_bold_italic,v,𝙫,U+1D66B
+math_sans_bold_italic,w,𝙬,U+1D66C
+math_sans_bold_italic,x,𝙭,U+1D66D
+math_sans_bold_italic,y,𝙮,U+1D66E
+math_sans_bold_italic,z,𝙯,U+1D66F
+circled,0,⓪,U+24EA
+circled,1,①,U+2460
+circled,2,②,U+2461
+circled,3,③,U+2462
+circled,4,④,U+2463
+circled,5,⑤,U+2464
+circled,6,⑥,U+2465
+circled,7,⑦,U+2466
+circled,8,⑧,U+2467
+circled,9,⑨,U+2468
+circled,A,Ⓐ,U+24B6
+circled,B,Ⓑ,U+24B7
+circled,C,Ⓒ,U+24B8
+circled,D,Ⓓ,U+24B9
+circled,E,Ⓔ,U+24BA
+circled,F,Ⓕ,U+24BB
+circled,G,Ⓖ,U+24BC
+circled,H,Ⓗ,U+24BD
+circled,I,Ⓘ,U+24BE
+circled,J,Ⓙ,U+24BF
+circled,K,Ⓚ,U+24C0
+circled,L,Ⓛ,U+24C1
+circled,M,Ⓜ,U+24C2
+circled,N,Ⓝ,U+24C3
+circled,O,Ⓞ,U+24C4
+circled,P,Ⓟ,U+24C5
+circled,Q,Ⓠ,U+24C6
+circled,R,Ⓡ,U+24C7
+circled,S,Ⓢ,U+24C8
+circled,T,Ⓣ,U+24C9
+circled,U,Ⓤ,U+24CA
+circled,V,Ⓥ,U+24CB
+circled,W,Ⓦ,U+24CC
+circled,X,Ⓧ,U+24CD
+circled,Y,Ⓨ,U+24CE
+circled,Z,Ⓩ,U+24CF
+circled,a,ⓐ,U+24D0
+circled,b,ⓑ,U+24D1
+circled,c,ⓒ,U+24D2
+circled,d,ⓓ,U+24D3
+circled,e,ⓔ,U+24D4
+circled,f,ⓕ,U+24D5
+circled,g,ⓖ,U+24D6
+circled,h,ⓗ,U+24D7
+circled,i,ⓘ,U+24D8
+circled,j,ⓙ,U+24D9
+circled,k,ⓚ,U+24DA
+circled,l,ⓛ,U+24DB
+circled,m,ⓜ,U+24DC
+circled,n,ⓝ,U+24DD
+circled,o,ⓞ,U+24DE
+circled,p,ⓟ,U+24DF
+circled,q,ⓠ,U+24E0
+circled,r,ⓡ,U+24E1
+circled,s,ⓢ,U+24E2
+circled,t,ⓣ,U+24E3
+circled,u,ⓤ,U+24E4
+circled,v,ⓥ,U+24E5
+circled,w,ⓦ,U+24E6
+circled,x,ⓧ,U+24E7
+circled,y,ⓨ,U+24E8
+circled,z,ⓩ,U+24E9
+circled_neg,0,⓿,U+24FF
+circled_neg,1,❶,U+2776
+circled_neg,2,❷,U+2777
+circled_neg,3,❸,U+2778
+circled_neg,4,❹,U+2779
+circled_neg,5,❺,U+277A
+circled_neg,6,❻,U+277B
+circled_neg,7,❼,U+277C
+circled_neg,8,❽,U+277D
+circled_neg,9,❾,U+277E
+circled_neg,A,🅐,U+1F150
+circled_neg,B,🅑,U+1F151
+circled_neg,C,🅒,U+1F152
+circled_neg,D,🅓,U+1F153
+circled_neg,E,🅔,U+1F154
+circled_neg,F,🅕,U+1F155
+circled_neg,G,🅖,U+1F156
+circled_neg,H,🅗,U+1F157
+circled_neg,I,🅘,U+1F158
+circled_neg,J,🅙,U+1F159
+circled_neg,K,🅚,U+1F15A
+circled_neg,L,🅛,U+1F15B
+circled_neg,M,🅜,U+1F15C
+circled_neg,N,🅝,U+1F15D
+circled_neg,O,🅞,U+1F15E
+circled_neg,P,🅟,U+1F15F
+circled_neg,Q,🅠,U+1F160
+circled_neg,R,🅡,U+1F161
+circled_neg,S,🅢,U+1F162
+circled_neg,T,🅣,U+1F163
+circled_neg,U,🅤,U+1F164
+circled_neg,V,🅥,U+1F165
+circled_neg,W,🅦,U+1F166
+circled_neg,X,🅧,U+1F167
+circled_neg,Y,🅨,U+1F168
+circled_neg,Z,🅩,U+1F169
+circled_neg,a,🅐,U+1F150
+circled_neg,b,🅑,U+1F151
+circled_neg,c,🅒,U+1F152
+circled_neg,d,🅓,U+1F153
+circled_neg,e,🅔,U+1F154
+circled_neg,f,🅕,U+1F155
+circled_neg,g,🅖,U+1F156
+circled_neg,h,🅗,U+1F157
+circled_neg,i,🅘,U+1F158
+circled_neg,j,🅙,U+1F159
+circled_neg,k,🅚,U+1F15A
+circled_neg,l,🅛,U+1F15B
+circled_neg,m,🅜,U+1F15C
+circled_neg,n,🅝,U+1F15D
+circled_neg,o,🅞,U+1F15E
+circled_neg,p,🅟,U+1F15F
+circled_neg,q,🅠,U+1F160
+circled_neg,r,🅡,U+1F161
+circled_neg,s,🅢,U+1F162
+circled_neg,t,🅣,U+1F163
+circled_neg,u,🅤,U+1F164
+circled_neg,v,🅥,U+1F165
+circled_neg,w,🅦,U+1F166
+circled_neg,x,🅧,U+1F167
+circled_neg,y,🅨,U+1F168
+circled_neg,z,🅩,U+1F169
+squared,A,🄰,U+1F130
+squared,B,🄱,U+1F131
+squared,C,🄲,U+1F132
+squared,D,🄳,U+1F133
+squared,E,🄴,U+1F134
+squared,F,🄵,U+1F135
+squared,G,🄶,U+1F136
+squared,H,🄷,U+1F137
+squared,I,🄸,U+1F138
+squared,J,🄹,U+1F139
+squared,K,🄺,U+1F13A
+squared,L,🄻,U+1F13B
+squared,M,🄼,U+1F13C
+squared,N,🄽,U+1F13D
+squared,O,🄾,U+1F13E
+squared,P,🄿,U+1F13F
+squared,Q,🅀,U+1F140
+squared,R,🅁,U+1F141
+squared,S,🅂,U+1F142
+squared,T,🅃,U+1F143
+squared,U,🅄,U+1F144
+squared,V,🅅,U+1F145
+squared,W,🅆,U+1F146
+squared,X,🅇,U+1F147
+squared,Y,🅈,U+1F148
+squared,Z,🅉,U+1F149
+squared,a,🄰,U+1F130
+squared,b,🄱,U+1F131
+squared,c,🄲,U+1F132
+squared,d,🄳,U+1F133
+squared,e,🄴,U+1F134
+squared,f,🄵,U+1F135
+squared,g,🄶,U+1F136
+squared,h,🄷,U+1F137
+squared,i,🄸,U+1F138
+squared,j,🄹,U+1F139
+squared,k,🄺,U+1F13A
+squared,l,🄻,U+1F13B
+squared,m,🄼,U+1F13C
+squared,n,🄽,U+1F13D
+squared,o,🄾,U+1F13E
+squared,p,🄿,U+1F13F
+squared,q,🅀,U+1F140
+squared,r,🅁,U+1F141
+squared,s,🅂,U+1F142
+squared,t,🅃,U+1F143
+squared,u,🅄,U+1F144
+squared,v,🅅,U+1F145
+squared,w,🅆,U+1F146
+squared,x,🅇,U+1F147
+squared,y,🅈,U+1F148
+squared,z,🅉,U+1F149
+squared_neg,A,🅰,U+1F170
+squared_neg,B,🅱,U+1F171
+squared_neg,C,🅲,U+1F172
+squared_neg,D,🅳,U+1F173
+squared_neg,E,🅴,U+1F174
+squared_neg,F,🅵,U+1F175
+squared_neg,G,🅶,U+1F176
+squared_neg,H,🅷,U+1F177
+squared_neg,I,🅸,U+1F178
+squared_neg,J,🅹,U+1F179
+squared_neg,K,🅺,U+1F17A
+squared_neg,L,🅻,U+1F17B
+squared_neg,M,🅼,U+1F17C
+squared_neg,N,🅽,U+1F17D
+squared_neg,O,🅾,U+1F17E
+squared_neg,P,🅿,U+1F17F
+squared_neg,Q,🆀,U+1F180
+squared_neg,R,🆁,U+1F181
+squared_neg,S,🆂,U+1F182
+squared_neg,T,🆃,U+1F183
+squared_neg,U,🆄,U+1F184
+squared_neg,V,🆅,U+1F185
+squared_neg,W,🆆,U+1F186
+squared_neg,X,🆇,U+1F187
+squared_neg,Y,🆈,U+1F188
+squared_neg,Z,🆉,U+1F189
+squared_neg,a,🅰,U+1F170
+squared_neg,b,🅱,U+1F171
+squared_neg,c,🅲,U+1F172
+squared_neg,d,🅳,U+1F173
+squared_neg,e,🅴,U+1F174
+squared_neg,f,🅵,U+1F175
+squared_neg,g,🅶,U+1F176
+squared_neg,h,🅷,U+1F177
+squared_neg,i,🅸,U+1F178
+squared_neg,j,🅹,U+1F179
+squared_neg,k,🅺,U+1F17A
+squared_neg,l,🅻,U+1F17B
+squared_neg,m,🅼,U+1F17C
+squared_neg,n,🅽,U+1F17D
+squared_neg,o,🅾,U+1F17E
+squared_neg,p,🅿,U+1F17F
+squared_neg,q,🆀,U+1F180
+squared_neg,r,🆁,U+1F181
+squared_neg,s,🆂,U+1F182
+squared_neg,t,🆃,U+1F183
+squared_neg,u,🆄,U+1F184
+squared_neg,v,🆅,U+1F185
+squared_neg,w,🆆,U+1F186
+squared_neg,x,🆇,U+1F187
+squared_neg,y,🆈,U+1F188
+squared_neg,z,🆉,U+1F189
+parenthesized,1,⑴,U+2474
+parenthesized,2,⑵,U+2475
+parenthesized,3,⑶,U+2476
+parenthesized,4,⑷,U+2477
+parenthesized,5,⑸,U+2478
+parenthesized,6,⑹,U+2479
+parenthesized,7,⑺,U+247A
+parenthesized,8,⑻,U+247B
+parenthesized,9,⑼,U+247C
+parenthesized,A,⒜,U+249C
+parenthesized,B,⒝,U+249D
+parenthesized,C,⒞,U+249E
+parenthesized,D,⒟,U+249F
+parenthesized,E,⒠,U+24A0
+parenthesized,F,⒡,U+24A1
+parenthesized,G,⒢,U+24A2
+parenthesized,H,⒣,U+24A3
+parenthesized,I,⒤,U+24A4
+parenthesized,J,⒥,U+24A5
+parenthesized,K,⒦,U+24A6
+parenthesized,L,⒧,U+24A7
+parenthesized,M,⒨,U+24A8
+parenthesized,N,⒩,U+24A9
+parenthesized,O,⒪,U+24AA
+parenthesized,P,⒫,U+24AB
+parenthesized,Q,⒬,U+24AC
+parenthesized,R,⒭,U+24AD
+parenthesized,S,⒮,U+24AE
+parenthesized,T,⒯,U+24AF
+parenthesized,U,⒰,U+24B0
+parenthesized,V,⒱,U+24B1
+parenthesized,W,⒲,U+24B2
+parenthesized,X,⒳,U+24B3
+parenthesized,Y,⒴,U+24B4
+parenthesized,Z,⒵,U+24B5
+parenthesized,a,⒜,U+249C
+parenthesized,b,⒝,U+249D
+parenthesized,c,⒞,U+249E
+parenthesized,d,⒟,U+249F
+parenthesized,e,⒠,U+24A0
+parenthesized,f,⒡,U+24A1
+parenthesized,g,⒢,U+24A2
+parenthesized,h,⒣,U+24A3
+parenthesized,i,⒤,U+24A4
+parenthesized,j,⒥,U+24A5
+parenthesized,k,⒦,U+24A6
+parenthesized,l,⒧,U+24A7
+parenthesized,m,⒨,U+24A8
+parenthesized,n,⒩,U+24A9
+parenthesized,o,⒪,U+24AA
+parenthesized,p,⒫,U+24AB
+parenthesized,q,⒬,U+24AC
+parenthesized,r,⒭,U+24AD
+parenthesized,s,⒮,U+24AE
+parenthesized,t,⒯,U+24AF
+parenthesized,u,⒰,U+24B0
+parenthesized,v,⒱,U+24B1
+parenthesized,w,⒲,U+24B2
+parenthesized,x,⒳,U+24B3
+parenthesized,y,⒴,U+24B4
+parenthesized,z,⒵,U+24B5
+fullwidth, ,　,U+3000
+fullwidth,!,！,U+FF01
+fullwidth,"""",＂,U+FF02
+fullwidth,#,＃,U+FF03
+fullwidth,$,＄,U+FF04
+fullwidth,%,％,U+FF05
+fullwidth,&,＆,U+FF06
+fullwidth,',＇,U+FF07
+fullwidth,(,（,U+FF08
+fullwidth,),）,U+FF09
+fullwidth,*,＊,U+FF0A
+fullwidth,+,＋,U+FF0B
+fullwidth,",",，,U+FF0C
+fullwidth,-,－,U+FF0D
+fullwidth,.,．,U+FF0E
+fullwidth,/,／,U+FF0F
+fullwidth,0,０,U+FF10
+fullwidth,1,１,U+FF11
+fullwidth,2,２,U+FF12
+fullwidth,3,３,U+FF13
+fullwidth,4,４,U+FF14
+fullwidth,5,５,U+FF15
+fullwidth,6,６,U+FF16
+fullwidth,7,７,U+FF17
+fullwidth,8,８,U+FF18
+fullwidth,9,９,U+FF19
+fullwidth,:,：,U+FF1A
+fullwidth,;,；,U+FF1B
+fullwidth,<,＜,U+FF1C
+fullwidth,=,＝,U+FF1D
+fullwidth,>,＞,U+FF1E
+fullwidth,?,？,U+FF1F
+fullwidth,@,＠,U+FF20
+fullwidth,A,Ａ,U+FF21
+fullwidth,B,Ｂ,U+FF22
+fullwidth,C,Ｃ,U+FF23
+fullwidth,D,Ｄ,U+FF24
+fullwidth,E,Ｅ,U+FF25
+fullwidth,F,Ｆ,U+FF26
+fullwidth,G,Ｇ,U+FF27
+fullwidth,H,Ｈ,U+FF28
+fullwidth,I,Ｉ,U+FF29
+fullwidth,J,Ｊ,U+FF2A
+fullwidth,K,Ｋ,U+FF2B
+fullwidth,L,Ｌ,U+FF2C
+fullwidth,M,Ｍ,U+FF2D
+fullwidth,N,Ｎ,U+FF2E
+fullwidth,O,Ｏ,U+FF2F
+fullwidth,P,Ｐ,U+FF30
+fullwidth,Q,Ｑ,U+FF31
+fullwidth,R,Ｒ,U+FF32
+fullwidth,S,Ｓ,U+FF33
+fullwidth,T,Ｔ,U+FF34
+fullwidth,U,Ｕ,U+FF35
+fullwidth,V,Ｖ,U+FF36
+fullwidth,W,Ｗ,U+FF37
+fullwidth,X,Ｘ,U+FF38
+fullwidth,Y,Ｙ,U+FF39
+fullwidth,Z,Ｚ,U+FF3A
+fullwidth,[,［,U+FF3B
+fullwidth,\,＼,U+FF3C
+fullwidth,],］,U+FF3D
+fullwidth,^,＾,U+FF3E
+fullwidth,_,＿,U+FF3F
+fullwidth,`,｀,U+FF40
+fullwidth,a,ａ,U+FF41
+fullwidth,b,ｂ,U+FF42
+fullwidth,c,ｃ,U+FF43
+fullwidth,d,ｄ,U+FF44
+fullwidth,e,ｅ,U+FF45
+fullwidth,f,ｆ,U+FF46
+fullwidth,g,ｇ,U+FF47
+fullwidth,h,ｈ,U+FF48
+fullwidth,i,ｉ,U+FF49
+fullwidth,j,ｊ,U+FF4A
+fullwidth,k,ｋ,U+FF4B
+fullwidth,l,ｌ,U+FF4C
+fullwidth,m,ｍ,U+FF4D
+fullwidth,n,ｎ,U+FF4E
+fullwidth,o,ｏ,U+FF4F
+fullwidth,p,ｐ,U+FF50
+fullwidth,q,ｑ,U+FF51
+fullwidth,r,ｒ,U+FF52
+fullwidth,s,ｓ,U+FF53
+fullwidth,t,ｔ,U+FF54
+fullwidth,u,ｕ,U+FF55
+fullwidth,v,ｖ,U+FF56
+fullwidth,w,ｗ,U+FF57
+fullwidth,x,ｘ,U+FF58
+fullwidth,y,ｙ,U+FF59
+fullwidth,z,ｚ,U+FF5A
+fullwidth,{,｛,U+FF5B
+fullwidth,|,｜,U+FF5C
+fullwidth,},｝,U+FF5D
+fullwidth,~,～,U+FF5E
+small_caps,A,ᴀ,U+1D00
+small_caps,B,ʙ,U+0299
+small_caps,C,ᴄ,U+1D04
+small_caps,D,ᴅ,U+1D05
+small_caps,E,ᴇ,U+1D07
+small_caps,F,ꜰ,U+A730
+small_caps,G,ɢ,U+0262
+small_caps,H,ʜ,U+029C
+small_caps,I,ɪ,U+026A
+small_caps,J,ᴊ,U+1D0A
+small_caps,K,ᴋ,U+1D0B
+small_caps,L,ʟ,U+029F
+small_caps,M,ᴍ,U+1D0D
+small_caps,N,ɴ,U+0274
+small_caps,O,ᴏ,U+1D0F
+small_caps,P,ᴘ,U+1D18
+small_caps,Q,ǫ,U+01EB
+small_caps,R,ʀ,U+0280
+small_caps,S,ꜱ,U+A731
+small_caps,T,ᴛ,U+1D1B
+small_caps,U,ᴜ,U+1D1C
+small_caps,V,ᴠ,U+1D20
+small_caps,W,ᴡ,U+1D21
+small_caps,X,x,U+0078
+small_caps,Y,ʏ,U+028F
+small_caps,Z,ᴢ,U+1D22
+small_caps,a,ᴀ,U+1D00
+small_caps,b,ʙ,U+0299
+small_caps,c,ᴄ,U+1D04
+small_caps,d,ᴅ,U+1D05
+small_caps,e,ᴇ,U+1D07
+small_caps,f,ꜰ,U+A730
+small_caps,g,ɢ,U+0262
+small_caps,h,ʜ,U+029C
+small_caps,i,ɪ,U+026A
+small_caps,j,ᴊ,U+1D0A
+small_caps,k,ᴋ,U+1D0B
+small_caps,l,ʟ,U+029F
+small_caps,m,ᴍ,U+1D0D
+small_caps,n,ɴ,U+0274
+small_caps,o,ᴏ,U+1D0F
+small_caps,p,ᴘ,U+1D18
+small_caps,q,ǫ,U+01EB
+small_caps,r,ʀ,U+0280
+small_caps,s,ꜱ,U+A731
+small_caps,t,ᴛ,U+1D1B
+small_caps,u,ᴜ,U+1D1C
+small_caps,v,ᴠ,U+1D20
+small_caps,w,ᴡ,U+1D21
+small_caps,y,ʏ,U+028F
+small_caps,z,ᴢ,U+1D22
+strikethrough, , ̶,U+0020 U+0336
+strikethrough,!,!̶,U+0021 U+0336
+strikethrough,"""","""̶",U+0022 U+0336
+strikethrough,#,#̶,U+0023 U+0336
+strikethrough,$,$̶,U+0024 U+0336
+strikethrough,%,%̶,U+0025 U+0336
+strikethrough,&,&̶,U+0026 U+0336
+strikethrough,','̶,U+0027 U+0336
+strikethrough,(,(̶,U+0028 U+0336
+strikethrough,),)̶,U+0029 U+0336
+strikethrough,*,*̶,U+002A U+0336
+strikethrough,+,+̶,U+002B U+0336
+strikethrough,",",",̶",U+002C U+0336
+strikethrough,-,-̶,U+002D U+0336
+strikethrough,.,.̶,U+002E U+0336
+strikethrough,/,/̶,U+002F U+0336
+strikethrough,0,0̶,U+0030 U+0336
+strikethrough,1,1̶,U+0031 U+0336
+strikethrough,2,2̶,U+0032 U+0336
+strikethrough,3,3̶,U+0033 U+0336
+strikethrough,4,4̶,U+0034 U+0336
+strikethrough,5,5̶,U+0035 U+0336
+strikethrough,6,6̶,U+0036 U+0336
+strikethrough,7,7̶,U+0037 U+0336
+strikethrough,8,8̶,U+0038 U+0336
+strikethrough,9,9̶,U+0039 U+0336
+strikethrough,:,:̶,U+003A U+0336
+strikethrough,;,;̶,U+003B U+0336
+strikethrough,<,<̶,U+003C U+0336
+strikethrough,=,=̶,U+003D U+0336
+strikethrough,>,>̶,U+003E U+0336
+strikethrough,?,?̶,U+003F U+0336
+strikethrough,@,@̶,U+0040 U+0336
+strikethrough,A,A̶,U+0041 U+0336
+strikethrough,B,B̶,U+0042 U+0336
+strikethrough,C,C̶,U+0043 U+0336
+strikethrough,D,D̶,U+0044 U+0336
+strikethrough,E,E̶,U+0045 U+0336
+strikethrough,F,F̶,U+0046 U+0336
+strikethrough,G,G̶,U+0047 U+0336
+strikethrough,H,H̶,U+0048 U+0336
+strikethrough,I,I̶,U+0049 U+0336
+strikethrough,J,J̶,U+004A U+0336
+strikethrough,K,K̶,U+004B U+0336
+strikethrough,L,L̶,U+004C U+0336
+strikethrough,M,M̶,U+004D U+0336
+strikethrough,N,N̶,U+004E U+0336
+strikethrough,O,O̶,U+004F U+0336
+strikethrough,P,P̶,U+0050 U+0336
+strikethrough,Q,Q̶,U+0051 U+0336
+strikethrough,R,R̶,U+0052 U+0336
+strikethrough,S,S̶,U+0053 U+0336
+strikethrough,T,T̶,U+0054 U+0336
+strikethrough,U,U̶,U+0055 U+0336
+strikethrough,V,V̶,U+0056 U+0336
+strikethrough,W,W̶,U+0057 U+0336
+strikethrough,X,X̶,U+0058 U+0336
+strikethrough,Y,Y̶,U+0059 U+0336
+strikethrough,Z,Z̶,U+005A U+0336
+strikethrough,[,[̶,U+005B U+0336
+strikethrough,\,\̶,U+005C U+0336
+strikethrough,],]̶,U+005D U+0336
+strikethrough,^,^̶,U+005E U+0336
+strikethrough,_,_̶,U+005F U+0336
+strikethrough,`,`̶,U+0060 U+0336
+strikethrough,a,a̶,U+0061 U+0336
+strikethrough,b,b̶,U+0062 U+0336
+strikethrough,c,c̶,U+0063 U+0336
+strikethrough,d,d̶,U+0064 U+0336
+strikethrough,e,e̶,U+0065 U+0336
+strikethrough,f,f̶,U+0066 U+0336
+strikethrough,g,g̶,U+0067 U+0336
+strikethrough,h,h̶,U+0068 U+0336
+strikethrough,i,i̶,U+0069 U+0336
+strikethrough,j,j̶,U+006A U+0336
+strikethrough,k,k̶,U+006B U+0336
+strikethrough,l,l̶,U+006C U+0336
+strikethrough,m,m̶,U+006D U+0336
+strikethrough,n,n̶,U+006E U+0336
+strikethrough,o,o̶,U+006F U+0336
+strikethrough,p,p̶,U+0070 U+0336
+strikethrough,q,q̶,U+0071 U+0336
+strikethrough,r,r̶,U+0072 U+0336
+strikethrough,s,s̶,U+0073 U+0336
+strikethrough,t,t̶,U+0074 U+0336
+strikethrough,u,u̶,U+0075 U+0336
+strikethrough,v,v̶,U+0076 U+0336
+strikethrough,w,w̶,U+0077 U+0336
+strikethrough,x,x̶,U+0078 U+0336
+strikethrough,y,y̶,U+0079 U+0336
+strikethrough,z,z̶,U+007A U+0336
+strikethrough,{,{̶,U+007B U+0336
+strikethrough,|,|̶,U+007C U+0336
+strikethrough,},}̶,U+007D U+0336
+strikethrough,~,~̶,U+007E U+0336
+underline, , ̲,U+0020 U+0332
+underline,!,!̲,U+0021 U+0332
+underline,"""","""̲",U+0022 U+0332
+underline,#,#̲,U+0023 U+0332
+underline,$,$̲,U+0024 U+0332
+underline,%,%̲,U+0025 U+0332
+underline,&,&̲,U+0026 U+0332
+underline,','̲,U+0027 U+0332
+underline,(,(̲,U+0028 U+0332
+underline,),)̲,U+0029 U+0332
+underline,*,*̲,U+002A U+0332
+underline,+,+̲,U+002B U+0332
+underline,",",",̲",U+002C U+0332
+underline,-,-̲,U+002D U+0332
+underline,.,.̲,U+002E U+0332
+underline,/,/̲,U+002F U+0332
+underline,0,0̲,U+0030 U+0332
+underline,1,1̲,U+0031 U+0332
+underline,2,2̲,U+0032 U+0332
+underline,3,3̲,U+0033 U+0332
+underline,4,4̲,U+0034 U+0332
+underline,5,5̲,U+0035 U+0332
+underline,6,6̲,U+0036 U+0332
+underline,7,7̲,U+0037 U+0332
+underline,8,8̲,U+0038 U+0332
+underline,9,9̲,U+0039 U+0332
+underline,:,:̲,U+003A U+0332
+underline,;,;̲,U+003B U+0332
+underline,<,<̲,U+003C U+0332
+underline,=,=̲,U+003D U+0332
+underline,>,>̲,U+003E U+0332
+underline,?,?̲,U+003F U+0332
+underline,@,@̲,U+0040 U+0332
+underline,A,A̲,U+0041 U+0332
+underline,B,B̲,U+0042 U+0332
+underline,C,C̲,U+0043 U+0332
+underline,D,D̲,U+0044 U+0332
+underline,E,E̲,U+0045 U+0332
+underline,F,F̲,U+0046 U+0332
+underline,G,G̲,U+0047 U+0332
+underline,H,H̲,U+0048 U+0332
+underline,I,I̲,U+0049 U+0332
+underline,J,J̲,U+004A U+0332
+underline,K,K̲,U+004B U+0332
+underline,L,L̲,U+004C U+0332
+underline,M,M̲,U+004D U+0332
+underline,N,N̲,U+004E U+0332
+underline,O,O̲,U+004F U+0332
+underline,P,P̲,U+0050 U+0332
+underline,Q,Q̲,U+0051 U+0332
+underline,R,R̲,U+0052 U+0332
+underline,S,S̲,U+0053 U+0332
+underline,T,T̲,U+0054 U+0332
+underline,U,U̲,U+0055 U+0332
+underline,V,V̲,U+0056 U+0332
+underline,W,W̲,U+0057 U+0332
+underline,X,X̲,U+0058 U+0332
+underline,Y,Y̲,U+0059 U+0332
+underline,Z,Z̲,U+005A U+0332
+underline,[,[̲,U+005B U+0332
+underline,\,\̲,U+005C U+0332
+underline,],]̲,U+005D U+0332
+underline,^,^̲,U+005E U+0332
+underline,_,_̲,U+005F U+0332
+underline,`,`̲,U+0060 U+0332
+underline,a,a̲,U+0061 U+0332
+underline,b,b̲,U+0062 U+0332
+underline,c,c̲,U+0063 U+0332
+underline,d,d̲,U+0064 U+0332
+underline,e,e̲,U+0065 U+0332
+underline,f,f̲,U+0066 U+0332
+underline,g,g̲,U+0067 U+0332
+underline,h,h̲,U+0068 U+0332
+underline,i,i̲,U+0069 U+0332
+underline,j,j̲,U+006A U+0332
+underline,k,k̲,U+006B U+0332
+underline,l,l̲,U+006C U+0332
+underline,m,m̲,U+006D U+0332
+underline,n,n̲,U+006E U+0332
+underline,o,o̲,U+006F U+0332
+underline,p,p̲,U+0070 U+0332
+underline,q,q̲,U+0071 U+0332
+underline,r,r̲,U+0072 U+0332
+underline,s,s̲,U+0073 U+0332
+underline,t,t̲,U+0074 U+0332
+underline,u,u̲,U+0075 U+0332
+underline,v,v̲,U+0076 U+0332
+underline,w,w̲,U+0077 U+0332
+underline,x,x̲,U+0078 U+0332
+underline,y,y̲,U+0079 U+0332
+underline,z,z̲,U+007A U+0332
+underline,{,{̲,U+007B U+0332
+underline,|,|̲,U+007C U+0332
+underline,},}̲,U+007D U+0332
+underline,~,~̲,U+007E U+0332
+slashed, , ̷,U+0020 U+0337
+slashed,!,!̷,U+0021 U+0337
+slashed,"""","""̷",U+0022 U+0337
+slashed,#,#̷,U+0023 U+0337
+slashed,$,$̷,U+0024 U+0337
+slashed,%,%̷,U+0025 U+0337
+slashed,&,&̷,U+0026 U+0337
+slashed,','̷,U+0027 U+0337
+slashed,(,(̷,U+0028 U+0337
+slashed,),)̷,U+0029 U+0337
+slashed,*,*̷,U+002A U+0337
+slashed,+,+̷,U+002B U+0337
+slashed,",",",̷",U+002C U+0337
+slashed,-,-̷,U+002D U+0337
+slashed,.,.̷,U+002E U+0337
+slashed,/,/̷,U+002F U+0337
+slashed,0,0̷,U+0030 U+0337
+slashed,1,1̷,U+0031 U+0337
+slashed,2,2̷,U+0032 U+0337
+slashed,3,3̷,U+0033 U+0337
+slashed,4,4̷,U+0034 U+0337
+slashed,5,5̷,U+0035 U+0337
+slashed,6,6̷,U+0036 U+0337
+slashed,7,7̷,U+0037 U+0337
+slashed,8,8̷,U+0038 U+0337
+slashed,9,9̷,U+0039 U+0337
+slashed,:,:̷,U+003A U+0337
+slashed,;,;̷,U+003B U+0337
+slashed,<,<̷,U+003C U+0337
+slashed,=,=̷,U+003D U+0337
+slashed,>,>̷,U+003E U+0337
+slashed,?,?̷,U+003F U+0337
+slashed,@,@̷,U+0040 U+0337
+slashed,A,A̷,U+0041 U+0337
+slashed,B,B̷,U+0042 U+0337
+slashed,C,C̷,U+0043 U+0337
+slashed,D,D̷,U+0044 U+0337
+slashed,E,E̷,U+0045 U+0337
+slashed,F,F̷,U+0046 U+0337
+slashed,G,G̷,U+0047 U+0337
+slashed,H,H̷,U+0048 U+0337
+slashed,I,I̷,U+0049 U+0337
+slashed,J,J̷,U+004A U+0337
+slashed,K,K̷,U+004B U+0337
+slashed,L,L̷,U+004C U+0337
+slashed,M,M̷,U+004D U+0337
+slashed,N,N̷,U+004E U+0337
+slashed,O,O̷,U+004F U+0337
+slashed,P,P̷,U+0050 U+0337
+slashed,Q,Q̷,U+0051 U+0337
+slashed,R,R̷,U+0052 U+0337
+slashed,S,S̷,U+0053 U+0337
+slashed,T,T̷,U+0054 U+0337
+slashed,U,U̷,U+0055 U+0337
+slashed,V,V̷,U+0056 U+0337
+slashed,W,W̷,U+0057 U+0337
+slashed,X,X̷,U+0058 U+0337
+slashed,Y,Y̷,U+0059 U+0337
+slashed,Z,Z̷,U+005A U+0337
+slashed,[,[̷,U+005B U+0337
+slashed,\,\̷,U+005C U+0337
+slashed,],]̷,U+005D U+0337
+slashed,^,^̷,U+005E U+0337
+slashed,_,_̷,U+005F U+0337
+slashed,`,`̷,U+0060 U+0337
+slashed,a,a̷,U+0061 U+0337
+slashed,b,b̷,U+0062 U+0337
+slashed,c,c̷,U+0063 U+0337
+slashed,d,d̷,U+0064 U+0337
+slashed,e,e̷,U+0065 U+0337
+slashed,f,f̷,U+0066 U+0337
+slashed,g,g̷,U+0067 U+0337
+slashed,h,h̷,U+0068 U+0337
+slashed,i,i̷,U+0069 U+0337
+slashed,j,j̷,U+006A U+0337
+slashed,k,k̷,U+006B U+0337
+slashed,l,l̷,U+006C U+0337
+slashed,m,m̷,U+006D U+0337
+slashed,n,n̷,U+006E U+0337
+slashed,o,o̷,U+006F U+0337
+slashed,p,p̷,U+0070 U+0337
+slashed,q,q̷,U+0071 U+0337
+slashed,r,r̷,U+0072 U+0337
+slashed,s,s̷,U+0073 U+0337
+slashed,t,t̷,U+0074 U+0337
+slashed,u,u̷,U+0075 U+0337
+slashed,v,v̷,U+0076 U+0337
+slashed,w,w̷,U+0077 U+0337
+slashed,x,x̷,U+0078 U+0337
+slashed,y,y̷,U+0079 U+0337
+slashed,z,z̷,U+007A U+0337
+slashed,{,{̷,U+007B U+0337
+slashed,|,|̷,U+007C U+0337
+slashed,},}̷,U+007D U+0337
+slashed,~,~̷,U+007E U+0337
+upside_down,!,¡,U+00A1
+upside_down,"""",„,U+201E
+upside_down,&,⅋,U+214B
+upside_down,',",",U+002C
+upside_down,(,),U+0029
+upside_down,),(,U+0028
+upside_down,",",‘,U+2018
+upside_down,.,˙,U+02D9
+upside_down,1,Ɩ,U+0196
+upside_down,2,ᄅ,U+1105
+upside_down,3,Ɛ,U+0190
+upside_down,4,ㄣ,U+3123
+upside_down,5,ϛ,U+03DB
+upside_down,6,9,U+0039
+upside_down,7,ㄥ,U+3125
+upside_down,9,6,U+0036
+upside_down,<,>,U+003E
+upside_down,>,<,U+003C
+upside_down,?,¿,U+00BF
+upside_down,A,ɐ,U+0250
+upside_down,B,q,U+0071
+upside_down,C,ɔ,U+0254
+upside_down,D,p,U+0070
+upside_down,E,ǝ,U+01DD
+upside_down,F,ɟ,U+025F
+upside_down,G,ƃ,U+0183
+upside_down,H,ɥ,U+0265
+upside_down,I,ᴉ,U+1D09
+upside_down,J,ɾ,U+027E
+upside_down,K,ʞ,U+029E
+upside_down,L,l,U+006C
+upside_down,M,ɯ,U+026F
+upside_down,N,u,U+0075
+upside_down,O,o,U+006F
+upside_down,P,d,U+0064
+upside_down,Q,b,U+0062
+upside_down,R,ɹ,U+0279
+upside_down,S,s,U+0073
+upside_down,T,ʇ,U+0287
+upside_down,U,n,U+006E
+upside_down,V,ʌ,U+028C
+upside_down,W,ʍ,U+028D
+upside_down,X,x,U+0078
+upside_down,Y,ʎ,U+028E
+upside_down,Z,z,U+007A
+upside_down,[,],U+005D
+upside_down,],[,U+005B
+upside_down,_,‾,U+203E
+upside_down,a,ɐ,U+0250
+upside_down,b,q,U+0071
+upside_down,c,ɔ,U+0254
+upside_down,d,p,U+0070
+upside_down,e,ǝ,U+01DD
+upside_down,f,ɟ,U+025F
+upside_down,g,ƃ,U+0183
+upside_down,h,ɥ,U+0265
+upside_down,i,ᴉ,U+1D09
+upside_down,j,ɾ,U+027E
+upside_down,k,ʞ,U+029E
+upside_down,m,ɯ,U+026F
+upside_down,n,u,U+0075
+upside_down,p,d,U+0064
+upside_down,q,b,U+0062
+upside_down,r,ɹ,U+0279
+upside_down,t,ʇ,U+0287
+upside_down,u,n,U+006E
+upside_down,v,ʌ,U+028C
+upside_down,w,ʍ,U+028D
+upside_down,y,ʎ,U+028E
+upside_down,{,},U+007D
+upside_down,},{,U+007B
+upper_case,a,A,U+0041
+upper_case,b,B,U+0042
+upper_case,c,C,U+0043
+upper_case,d,D,U+0044
+upper_case,e,E,U+0045
+upper_case,f,F,U+0046
+upper_case,g,G,U+0047
+upper_case,h,H,U+0048
+upper_case,i,I,U+0049
+upper_case,j,J,U+004A
+upper_case,k,K,U+004B
+upper_case,l,L,U+004C
+upper_case,m,M,U+004D
+upper_case,n,N,U+004E
+upper_case,o,O,U+004F
+upper_case,p,P,U+0050
+upper_case,q,Q,U+0051
+upper_case,r,R,U+0052
+upper_case,s,S,U+0053
+upper_case,t,T,U+0054
+upper_case,u,U,U+0055
+upper_case,v,V,U+0056
+upper_case,w,W,U+0057
+upper_case,x,X,U+0058
+upper_case,y,Y,U+0059
+upper_case,z,Z,U+005A
+lower_case,A,a,U+0061
+lower_case,B,b,U+0062
+lower_case,C,c,U+0063
+lower_case,D,d,U+0064
+lower_case,E,e,U+0065
+lower_case,F,f,U+0066
+lower_case,G,g,U+0067
+lower_case,H,h,U+0068
+lower_case,I,i,U+0069
+lower_case,J,j,U+006A
+lower_case,K,k,U+006B
+lower_case,L,l,U+006C
+lower_case,M,m,U+006D
+lower_case,N,n,U+006E
+lower_case,O,o,U+006F
+lower_case,P,p,U+0070
+lower_case,Q,q,U+0071
+lower_case,R,r,U+0072
+lower_case,S,s,U+0073
+lower_case,T,t,U+0074
+lower_case,U,u,U+0075
+lower_case,V,v,U+0076
+lower_case,W,w,U+0077
+lower_case,X,x,U+0078
+lower_case,Y,y,U+0079
+lower_case,Z,z,U+007A
+superscript,(,⁽,U+207D
+superscript,),⁾,U+207E
+superscript,+,⁺,U+207A
+superscript,-,⁻,U+207B
+superscript,0,⁰,U+2070
+superscript,1,¹,U+00B9
+superscript,2,²,U+00B2
+superscript,3,³,U+00B3
+superscript,4,⁴,U+2074
+superscript,5,⁵,U+2075
+superscript,6,⁶,U+2076
+superscript,7,⁷,U+2077
+superscript,8,⁸,U+2078
+superscript,9,⁹,U+2079
+superscript,=,⁼,U+207C
+superscript,A,ᵃ,U+1D43
+superscript,B,ᵇ,U+1D47
+superscript,C,ᶜ,U+1D9C
+superscript,D,ᵈ,U+1D48
+superscript,E,ᵉ,U+1D49
+superscript,F,ᶠ,U+1DA0
+superscript,G,ᵍ,U+1D4D
+superscript,H,ʰ,U+02B0
+superscript,I,ⁱ,U+2071
+superscript,J,ʲ,U+02B2
+superscript,K,ᵏ,U+1D4F
+superscript,L,ˡ,U+02E1
+superscript,M,ᵐ,U+1D50
+superscript,N,ⁿ,U+207F
+superscript,O,ᵒ,U+1D52
+superscript,P,ᵖ,U+1D56
+superscript,R,ʳ,U+02B3
+superscript,S,ˢ,U+02E2
+superscript,T,ᵗ,U+1D57
+superscript,U,ᵘ,U+1D58
+superscript,V,ᵛ,U+1D5B
+superscript,W,ʷ,U+02B7
+superscript,X,ˣ,U+02E3
+superscript,Y,ʸ,U+02B8
+superscript,Z,ᶻ,U+1DBB
+superscript,a,ᵃ,U+1D43
+superscript,b,ᵇ,U+1D47
+superscript,c,ᶜ,U+1D9C
+superscript,d,ᵈ,U+1D48
+superscript,e,ᵉ,U+1D49
+superscript,f,ᶠ,U+1DA0
+superscript,g,ᵍ,U+1D4D
+superscript,h,ʰ,U+02B0
+superscript,i,ⁱ,U+2071
+superscript,j,ʲ,U+02B2
+superscript,k,ᵏ,U+1D4F
+superscript,l,ˡ,U+02E1
+superscript,m,ᵐ,U+1D50
+superscript,n,ⁿ,U+207F
+superscript,o,ᵒ,U+1D52
+superscript,p,ᵖ,U+1D56
+superscript,r,ʳ,U+02B3
+superscript,s,ˢ,U+02E2
+superscript,t,ᵗ,U+1D57
+superscript,u,ᵘ,U+1D58
+superscript,v,ᵛ,U+1D5B
+superscript,w,ʷ,U+02B7
+superscript,x,ˣ,U+02E3
+superscript,y,ʸ,U+02B8
+superscript,z,ᶻ,U+1DBB
+subscript,(,₍,U+208D
+subscript,),₎,U+208E
+subscript,+,₊,U+208A
+subscript,-,₋,U+208B
+subscript,0,₀,U+2080
+subscript,1,₁,U+2081
+subscript,2,₂,U+2082
+subscript,3,₃,U+2083
+subscript,4,₄,U+2084
+subscript,5,₅,U+2085
+subscript,6,₆,U+2086
+subscript,7,₇,U+2087
+subscript,8,₈,U+2088
+subscript,9,₉,U+2089
+subscript,=,₌,U+208C
+subscript,A,ₐ,U+2090
+subscript,E,ₑ,U+2091
+subscript,H,ₕ,U+2095
+subscript,I,ᵢ,U+1D62
+subscript,J,ⱼ,U+2C7C
+subscript,K,ₖ,U+2096
+subscript,L,ₗ,U+2097
+subscript,M,ₘ,U+2098
+subscript,N,ₙ,U+2099
+subscript,O,ₒ,U+2092
+subscript,P,ₚ,U+209A
+subscript,R,ᵣ,U+1D63
+subscript,S,ₛ,U+209B
+subscript,T,ₜ,U+209C
+subscript,U,ᵤ,U+1D64
+subscript,V,ᵥ,U+1D65
+subscript,X,ₓ,U+2093
+subscript,a,ₐ,U+2090
+subscript,e,ₑ,U+2091
+subscript,h,ₕ,U+2095
+subscript,i,ᵢ,U+1D62
+subscript,j,ⱼ,U+2C7C
+subscript,k,ₖ,U+2096
+subscript,l,ₗ,U+2097
+subscript,m,ₘ,U+2098
+subscript,n,ₙ,U+2099
+subscript,o,ₒ,U+2092
+subscript,p,ₚ,U+209A
+subscript,r,ᵣ,U+1D63
+subscript,s,ₛ,U+209B
+subscript,t,ₜ,U+209C
+subscript,u,ᵤ,U+1D64
+subscript,v,ᵥ,U+1D65
+subscript,x,ₓ,U+2093
+deco_overline, , ̅,U+0020 U+0305
+deco_overline,!,!̅,U+0021 U+0305
+deco_overline,"""","""̅",U+0022 U+0305
+deco_overline,#,#̅,U+0023 U+0305
+deco_overline,$,$̅,U+0024 U+0305
+deco_overline,%,%̅,U+0025 U+0305
+deco_overline,&,&̅,U+0026 U+0305
+deco_overline,','̅,U+0027 U+0305
+deco_overline,(,(̅,U+0028 U+0305
+deco_overline,),)̅,U+0029 U+0305
+deco_overline,*,*̅,U+002A U+0305
+deco_overline,+,+̅,U+002B U+0305
+deco_overline,",",",̅",U+002C U+0305
+deco_overline,-,-̅,U+002D U+0305
+deco_overline,.,.̅,U+002E U+0305
+deco_overline,/,/̅,U+002F U+0305
+deco_overline,0,0̅,U+0030 U+0305
+deco_overline,1,1̅,U+0031 U+0305
+deco_overline,2,2̅,U+0032 U+0305
+deco_overline,3,3̅,U+0033 U+0305
+deco_overline,4,4̅,U+0034 U+0305
+deco_overline,5,5̅,U+0035 U+0305
+deco_overline,6,6̅,U+0036 U+0305
+deco_overline,7,7̅,U+0037 U+0305
+deco_overline,8,8̅,U+0038 U+0305
+deco_overline,9,9̅,U+0039 U+0305
+deco_overline,:,:̅,U+003A U+0305
+deco_overline,;,;̅,U+003B U+0305
+deco_overline,<,<̅,U+003C U+0305
+deco_overline,=,=̅,U+003D U+0305
+deco_overline,>,>̅,U+003E U+0305
+deco_overline,?,?̅,U+003F U+0305
+deco_overline,@,@̅,U+0040 U+0305
+deco_overline,A,A̅,U+0041 U+0305
+deco_overline,B,B̅,U+0042 U+0305
+deco_overline,C,C̅,U+0043 U+0305
+deco_overline,D,D̅,U+0044 U+0305
+deco_overline,E,E̅,U+0045 U+0305
+deco_overline,F,F̅,U+0046 U+0305
+deco_overline,G,G̅,U+0047 U+0305
+deco_overline,H,H̅,U+0048 U+0305
+deco_overline,I,I̅,U+0049 U+0305
+deco_overline,J,J̅,U+004A U+0305
+deco_overline,K,K̅,U+004B U+0305
+deco_overline,L,L̅,U+004C U+0305
+deco_overline,M,M̅,U+004D U+0305
+deco_overline,N,N̅,U+004E U+0305
+deco_overline,O,O̅,U+004F U+0305
+deco_overline,P,P̅,U+0050 U+0305
+deco_overline,Q,Q̅,U+0051 U+0305
+deco_overline,R,R̅,U+0052 U+0305
+deco_overline,S,S̅,U+0053 U+0305
+deco_overline,T,T̅,U+0054 U+0305
+deco_overline,U,U̅,U+0055 U+0305
+deco_overline,V,V̅,U+0056 U+0305
+deco_overline,W,W̅,U+0057 U+0305
+deco_overline,X,X̅,U+0058 U+0305
+deco_overline,Y,Y̅,U+0059 U+0305
+deco_overline,Z,Z̅,U+005A U+0305
+deco_overline,[,[̅,U+005B U+0305
+deco_overline,\,\̅,U+005C U+0305
+deco_overline,],]̅,U+005D U+0305
+deco_overline,^,^̅,U+005E U+0305
+deco_overline,_,_̅,U+005F U+0305
+deco_overline,`,`̅,U+0060 U+0305
+deco_overline,a,a̅,U+0061 U+0305
+deco_overline,b,b̅,U+0062 U+0305
+deco_overline,c,c̅,U+0063 U+0305
+deco_overline,d,d̅,U+0064 U+0305
+deco_overline,e,e̅,U+0065 U+0305
+deco_overline,f,f̅,U+0066 U+0305
+deco_overline,g,g̅,U+0067 U+0305
+deco_overline,h,h̅,U+0068 U+0305
+deco_overline,i,i̅,U+0069 U+0305
+deco_overline,j,j̅,U+006A U+0305
+deco_overline,k,k̅,U+006B U+0305
+deco_overline,l,l̅,U+006C U+0305
+deco_overline,m,m̅,U+006D U+0305
+deco_overline,n,n̅,U+006E U+0305
+deco_overline,o,o̅,U+006F U+0305
+deco_overline,p,p̅,U+0070 U+0305
+deco_overline,q,q̅,U+0071 U+0305
+deco_overline,r,r̅,U+0072 U+0305
+deco_overline,s,s̅,U+0073 U+0305
+deco_overline,t,t̅,U+0074 U+0305
+deco_overline,u,u̅,U+0075 U+0305
+deco_overline,v,v̅,U+0076 U+0305
+deco_overline,w,w̅,U+0077 U+0305
+deco_overline,x,x̅,U+0078 U+0305
+deco_overline,y,y̅,U+0079 U+0305
+deco_overline,z,z̅,U+007A U+0305
+deco_overline,{,{̅,U+007B U+0305
+deco_overline,|,|̅,U+007C U+0305
+deco_overline,},}̅,U+007D U+0305
+deco_overline,~,~̅,U+007E U+0305
+deco_frozen,A,A̩̤,U+0041 U+0329 U+0324
+deco_frozen,B,B̩̤,U+0042 U+0329 U+0324
+deco_frozen,C,C̩̤,U+0043 U+0329 U+0324
+deco_frozen,D,D̩̤,U+0044 U+0329 U+0324
+deco_frozen,E,E̩̤,U+0045 U+0329 U+0324
+deco_frozen,F,F̩̤,U+0046 U+0329 U+0324
+deco_frozen,G,G̩̤,U+0047 U+0329 U+0324
+deco_frozen,H,H̩̤,U+0048 U+0329 U+0324
+deco_frozen,I,I̩̤,U+0049 U+0329 U+0324
+deco_frozen,J,J̩̤,U+004A U+0329 U+0324
+deco_frozen,K,K̩̤,U+004B U+0329 U+0324
+deco_frozen,L,L̩̤,U+004C U+0329 U+0324
+deco_frozen,M,M̩̤,U+004D U+0329 U+0324
+deco_frozen,N,N̩̤,U+004E U+0329 U+0324
+deco_frozen,O,O̩̤,U+004F U+0329 U+0324
+deco_frozen,P,P̩̤,U+0050 U+0329 U+0324
+deco_frozen,Q,Q̩̤,U+0051 U+0329 U+0324
+deco_frozen,R,R̩̤,U+0052 U+0329 U+0324
+deco_frozen,S,S̩̤,U+0053 U+0329 U+0324
+deco_frozen,T,T̩̤,U+0054 U+0329 U+0324
+deco_frozen,U,U̩̤,U+0055 U+0329 U+0324
+deco_frozen,V,V̩̤,U+0056 U+0329 U+0324
+deco_frozen,W,W̩̤,U+0057 U+0329 U+0324
+deco_frozen,X,X̩̤,U+0058 U+0329 U+0324
+deco_frozen,Y,Y̩̤,U+0059 U+0329 U+0324
+deco_frozen,Z,Z̩̤,U+005A U+0329 U+0324
+deco_frozen,a,a̩̤,U+0061 U+0329 U+0324
+deco_frozen,b,b̩̤,U+0062 U+0329 U+0324
+deco_frozen,c,c̩̤,U+0063 U+0329 U+0324
+deco_frozen,d,d̩̤,U+0064 U+0329 U+0324
+deco_frozen,e,e̩̤,U+0065 U+0329 U+0324
+deco_frozen,f,f̩̤,U+0066 U+0329 U+0324
+deco_frozen,g,g̩̤,U+0067 U+0329 U+0324
+deco_frozen,h,h̩̤,U+0068 U+0329 U+0324
+deco_frozen,i,i̩̤,U+0069 U+0329 U+0324
+deco_frozen,j,j̩̤,U+006A U+0329 U+0324
+deco_frozen,k,k̩̤,U+006B U+0329 U+0324
+deco_frozen,l,l̩̤,U+006C U+0329 U+0324
+deco_frozen,m,m̩̤,U+006D U+0329 U+0324
+deco_frozen,n,n̩̤,U+006E U+0329 U+0324
+deco_frozen,o,o̩̤,U+006F U+0329 U+0324
+deco_frozen,p,p̩̤,U+0070 U+0329 U+0324
+deco_frozen,q,q̩̤,U+0071 U+0329 U+0324
+deco_frozen,r,r̩̤,U+0072 U+0329 U+0324
+deco_frozen,s,s̩̤,U+0073 U+0329 U+0324
+deco_frozen,t,t̩̤,U+0074 U+0329 U+0324
+deco_frozen,u,u̩̤,U+0075 U+0329 U+0324
+deco_frozen,v,v̩̤,U+0076 U+0329 U+0324
+deco_frozen,w,w̩̤,U+0077 U+0329 U+0324
+deco_frozen,x,x̩̤,U+0078 U+0329 U+0324
+deco_frozen,y,y̩̤,U+0079 U+0329 U+0324
+deco_frozen,z,z̩̤,U+007A U+0329 U+0324
+deco_clouds,A,A̰,U+0041 U+0330
+deco_clouds,B,B̰,U+0042 U+0330
+deco_clouds,C,C̰,U+0043 U+0330
+deco_clouds,D,D̰,U+0044 U+0330
+deco_clouds,E,Ḛ,U+0045 U+0330
+deco_clouds,F,F̰,U+0046 U+0330
+deco_clouds,G,G̰,U+0047 U+0330
+deco_clouds,H,H̰,U+0048 U+0330
+deco_clouds,I,Ḭ,U+0049 U+0330
+deco_clouds,J,J̰,U+004A U+0330
+deco_clouds,K,K̰,U+004B U+0330
+deco_clouds,L,L̰,U+004C U+0330
+deco_clouds,M,M̰,U+004D U+0330
+deco_clouds,N,N̰,U+004E U+0330
+deco_clouds,O,O̰,U+004F U+0330
+deco_clouds,P,P̰,U+0050 U+0330
+deco_clouds,Q,Q̰,U+0051 U+0330
+deco_clouds,R,R̰,U+0052 U+0330
+deco_clouds,S,S̰,U+0053 U+0330
+deco_clouds,T,T̰,U+0054 U+0330
+deco_clouds,U,Ṵ,U+0055 U+0330
+deco_clouds,V,V̰,U+0056 U+0330
+deco_clouds,W,W̰,U+0057 U+0330
+deco_clouds,X,X̰,U+0058 U+0330
+deco_clouds,Y,Y̰,U+0059 U+0330
+deco_clouds,Z,Z̰,U+005A U+0330
+deco_clouds,a,a̰,U+0061 U+0330
+deco_clouds,b,b̰,U+0062 U+0330
+deco_clouds,c,c̰,U+0063 U+0330
+deco_clouds,d,d̰,U+0064 U+0330
+deco_clouds,e,ḛ,U+0065 U+0330
+deco_clouds,f,f̰,U+0066 U+0330
+deco_clouds,g,g̰,U+0067 U+0330
+deco_clouds,h,h̰,U+0068 U+0330
+deco_clouds,i,ḭ,U+0069 U+0330
+deco_clouds,j,j̰,U+006A U+0330
+deco_clouds,k,k̰,U+006B U+0330
+deco_clouds,l,l̰,U+006C U+0330
+deco_clouds,m,m̰,U+006D U+0330
+deco_clouds,n,n̰,U+006E U+0330
+deco_clouds,o,o̰,U+006F U+0330
+deco_clouds,p,p̰,U+0070 U+0330
+deco_clouds,q,q̰,U+0071 U+0330
+deco_clouds,r,r̰,U+0072 U+0330
+deco_clouds,s,s̰,U+0073 U+0330
+deco_clouds,t,t̰,U+0074 U+0330
+deco_clouds,u,ṵ,U+0075 U+0330
+deco_clouds,v,v̰,U+0076 U+0330
+deco_clouds,w,w̰,U+0077 U+0330
+deco_clouds,x,x̰,U+0078 U+0330
+deco_clouds,y,y̰,U+0079 U+0330
+deco_clouds,z,z̰,U+007A U+0330
+deco_happy,A,Ǎ,U+0041 U+030C
+deco_happy,B,B̌,U+0042 U+030C
+deco_happy,C,Č,U+0043 U+030C
+deco_happy,D,Ď,U+0044 U+030C
+deco_happy,E,Ě,U+0045 U+030C
+deco_happy,F,F̌,U+0046 U+030C
+deco_happy,G,Ǧ,U+0047 U+030C
+deco_happy,H,Ȟ,U+0048 U+030C
+deco_happy,I,Ǐ,U+0049 U+030C
+deco_happy,J,J̌,U+004A U+030C
+deco_happy,K,Ǩ,U+004B U+030C
+deco_happy,L,Ľ,U+004C U+030C
+deco_happy,M,M̌,U+004D U+030C
+deco_happy,N,Ň,U+004E U+030C
+deco_happy,O,Ǒ,U+004F U+030C
+deco_happy,P,P̌,U+0050 U+030C
+deco_happy,Q,Q̌,U+0051 U+030C
+deco_happy,R,Ř,U+0052 U+030C
+deco_happy,S,Š,U+0053 U+030C
+deco_happy,T,Ť,U+0054 U+030C
+deco_happy,U,Ǔ,U+0055 U+030C
+deco_happy,V,V̌,U+0056 U+030C
+deco_happy,W,W̌,U+0057 U+030C
+deco_happy,X,X̌,U+0058 U+030C
+deco_happy,Y,Y̌,U+0059 U+030C
+deco_happy,Z,Ž,U+005A U+030C
+deco_happy,a,ǎ,U+0061 U+030C
+deco_happy,b,b̌,U+0062 U+030C
+deco_happy,c,č,U+0063 U+030C
+deco_happy,d,ď,U+0064 U+030C
+deco_happy,e,ě,U+0065 U+030C
+deco_happy,f,f̌,U+0066 U+030C
+deco_happy,g,ǧ,U+0067 U+030C
+deco_happy,h,ȟ,U+0068 U+030C
+deco_happy,i,ǐ,U+0069 U+030C
+deco_happy,j,ǰ,U+006A U+030C
+deco_happy,k,ǩ,U+006B U+030C
+deco_happy,l,ľ,U+006C U+030C
+deco_happy,m,m̌,U+006D U+030C
+deco_happy,n,ň,U+006E U+030C
+deco_happy,o,ǒ,U+006F U+030C
+deco_happy,p,p̌,U+0070 U+030C
+deco_happy,q,q̌,U+0071 U+030C
+deco_happy,r,ř,U+0072 U+030C
+deco_happy,s,š,U+0073 U+030C
+deco_happy,t,ť,U+0074 U+030C
+deco_happy,u,ǔ,U+0075 U+030C
+deco_happy,v,v̌,U+0076 U+030C
+deco_happy,w,w̌,U+0077 U+030C
+deco_happy,x,x̌,U+0078 U+030C
+deco_happy,y,y̌,U+0079 U+030C
+deco_happy,z,ž,U+007A U+030C
+deco_sad,A,Â,U+0041 U+0302
+deco_sad,B,B̂,U+0042 U+0302
+deco_sad,C,Ĉ,U+0043 U+0302
+deco_sad,D,D̂,U+0044 U+0302
+deco_sad,E,Ê,U+0045 U+0302
+deco_sad,F,F̂,U+0046 U+0302
+deco_sad,G,Ĝ,U+0047 U+0302
+deco_sad,H,Ĥ,U+0048 U+0302
+deco_sad,I,Î,U+0049 U+0302
+deco_sad,J,Ĵ,U+004A U+0302
+deco_sad,K,K̂,U+004B U+0302
+deco_sad,L,L̂,U+004C U+0302
+deco_sad,M,M̂,U+004D U+0302
+deco_sad,N,N̂,U+004E U+0302
+deco_sad,O,Ô,U+004F U+0302
+deco_sad,P,P̂,U+0050 U+0302
+deco_sad,Q,Q̂,U+0051 U+0302
+deco_sad,R,R̂,U+0052 U+0302
+deco_sad,S,Ŝ,U+0053 U+0302
+deco_sad,T,T̂,U+0054 U+0302
+deco_sad,U,Û,U+0055 U+0302
+deco_sad,V,V̂,U+0056 U+0302
+deco_sad,W,Ŵ,U+0057 U+0302
+deco_sad,X,X̂,U+0058 U+0302
+deco_sad,Y,Ŷ,U+0059 U+0302
+deco_sad,Z,Ẑ,U+005A U+0302
+deco_sad,a,â,U+0061 U+0302
+deco_sad,b,b̂,U+0062 U+0302
+deco_sad,c,ĉ,U+0063 U+0302
+deco_sad,d,d̂,U+0064 U+0302
+deco_sad,e,ê,U+0065 U+0302
+deco_sad,f,f̂,U+0066 U+0302
+deco_sad,g,ĝ,U+0067 U+0302
+deco_sad,h,ĥ,U+0068 U+0302
+deco_sad,i,î,U+0069 U+0302
+deco_sad,j,ĵ,U+006A U+0302
+deco_sad,k,k̂,U+006B U+0302
+deco_sad,l,l̂,U+006C U+0302
+deco_sad,m,m̂,U+006D U+0302
+deco_sad,n,n̂,U+006E U+0302
+deco_sad,o,ô,U+006F U+0302
+deco_sad,p,p̂,U+0070 U+0302
+deco_sad,q,q̂,U+0071 U+0302
+deco_sad,r,r̂,U+0072 U+0302
+deco_sad,s,ŝ,U+0073 U+0302
+deco_sad,t,t̂,U+0074 U+0302
+deco_sad,u,û,U+0075 U+0302
+deco_sad,v,v̂,U+0076 U+0302
+deco_sad,w,ŵ,U+0077 U+0302
+deco_sad,x,x̂,U+0078 U+0302
+deco_sad,y,ŷ,U+0079 U+0302
+deco_sad,z,ẑ,U+007A U+0302
+math_script_plain,A,𝒜,U+1D49C
+math_script_plain,B,ℬ,U+212C
+math_script_plain,C,𝒞,U+1D49E
+math_script_plain,D,𝒟,U+1D49F
+math_script_plain,E,ℰ,U+2130
+math_script_plain,F,ℱ,U+2131
+math_script_plain,G,𝒢,U+1D4A2
+math_script_plain,H,ℋ,U+210B
+math_script_plain,I,ℐ,U+2110
+math_script_plain,J,𝒥,U+1D4A5
+math_script_plain,K,𝒦,U+1D4A6
+math_script_plain,L,ℒ,U+2112
+math_script_plain,M,ℳ,U+2133
+math_script_plain,N,𝒩,U+1D4A9
+math_script_plain,O,𝒪,U+1D4AA
+math_script_plain,P,𝒫,U+1D4AB
+math_script_plain,Q,𝒬,U+1D4AC
+math_script_plain,R,ℛ,U+211B
+math_script_plain,S,𝒮,U+1D4AE
+math_script_plain,T,𝒯,U+1D4AF
+math_script_plain,U,𝒰,U+1D4B0
+math_script_plain,V,𝒱,U+1D4B1
+math_script_plain,W,𝒲,U+1D4B2
+math_script_plain,X,𝒳,U+1D4B3
+math_script_plain,Y,𝒴,U+1D4B4
+math_script_plain,Z,𝒵,U+1D4B5
+math_script_plain,a,𝒶,U+1D4B6
+math_script_plain,b,𝒷,U+1D4B7
+math_script_plain,c,𝒸,U+1D4B8
+math_script_plain,d,𝒹,U+1D4B9
+math_script_plain,e,ℯ,U+212F
+math_script_plain,f,𝒻,U+1D4BB
+math_script_plain,g,ℊ,U+210A
+math_script_plain,h,𝒽,U+1D4BD
+math_script_plain,i,𝒾,U+1D4BE
+math_script_plain,j,𝒿,U+1D4BF
+math_script_plain,k,𝓀,U+1D4C0
+math_script_plain,l,𝓁,U+1D4C1
+math_script_plain,m,𝓂,U+1D4C2
+math_script_plain,n,𝓃,U+1D4C3
+math_script_plain,o,ℴ,U+2134
+math_script_plain,p,𝓅,U+1D4C5
+math_script_plain,q,𝓆,U+1D4C6
+math_script_plain,r,𝓇,U+1D4C7
+math_script_plain,s,𝓈,U+1D4C8
+math_script_plain,t,𝓉,U+1D4C9
+math_script_plain,u,𝓊,U+1D4CA
+math_script_plain,v,𝓋,U+1D4CB
+math_script_plain,w,𝓌,U+1D4CC
+math_script_plain,x,𝓍,U+1D4CD
+math_script_plain,y,𝓎,U+1D4CE
+math_script_plain,z,𝓏,U+1D4CF
+math_bold+strikethrough, , ̶,U+0020 U+0336
+math_bold+strikethrough,!,!̶,U+0021 U+0336
+math_bold+strikethrough,"""","""̶",U+0022 U+0336
+math_bold+strikethrough,#,#̶,U+0023 U+0336
+math_bold+strikethrough,$,$̶,U+0024 U+0336
+math_bold+strikethrough,%,%̶,U+0025 U+0336
+math_bold+strikethrough,&,&̶,U+0026 U+0336
+math_bold+strikethrough,','̶,U+0027 U+0336
+math_bold+strikethrough,(,(̶,U+0028 U+0336
+math_bold+strikethrough,),)̶,U+0029 U+0336
+math_bold+strikethrough,*,*̶,U+002A U+0336
+math_bold+strikethrough,+,+̶,U+002B U+0336
+math_bold+strikethrough,",",",̶",U+002C U+0336
+math_bold+strikethrough,-,-̶,U+002D U+0336
+math_bold+strikethrough,.,.̶,U+002E U+0336
+math_bold+strikethrough,/,/̶,U+002F U+0336
+math_bold+strikethrough,0,𝟎̶,U+1D7CE U+0336
+math_bold+strikethrough,1,𝟏̶,U+1D7CF U+0336
+math_bold+strikethrough,2,𝟐̶,U+1D7D0 U+0336
+math_bold+strikethrough,3,𝟑̶,U+1D7D1 U+0336
+math_bold+strikethrough,4,𝟒̶,U+1D7D2 U+0336
+math_bold+strikethrough,5,𝟓̶,U+1D7D3 U+0336
+math_bold+strikethrough,6,𝟔̶,U+1D7D4 U+0336
+math_bold+strikethrough,7,𝟕̶,U+1D7D5 U+0336
+math_bold+strikethrough,8,𝟖̶,U+1D7D6 U+0336
+math_bold+strikethrough,9,𝟗̶,U+1D7D7 U+0336
+math_bold+strikethrough,:,:̶,U+003A U+0336
+math_bold+strikethrough,;,;̶,U+003B U+0336
+math_bold+strikethrough,<,<̶,U+003C U+0336
+math_bold+strikethrough,=,=̶,U+003D U+0336
+math_bold+strikethrough,>,>̶,U+003E U+0336
+math_bold+strikethrough,?,?̶,U+003F U+0336
+math_bold+strikethrough,@,@̶,U+0040 U+0336
+math_bold+strikethrough,A,𝐀̶,U+1D400 U+0336
+math_bold+strikethrough,B,𝐁̶,U+1D401 U+0336
+math_bold+strikethrough,C,𝐂̶,U+1D402 U+0336
+math_bold+strikethrough,D,𝐃̶,U+1D403 U+0336
+math_bold+strikethrough,E,𝐄̶,U+1D404 U+0336
+math_bold+strikethrough,F,𝐅̶,U+1D405 U+0336
+math_bold+strikethrough,G,𝐆̶,U+1D406 U+0336
+math_bold+strikethrough,H,𝐇̶,U+1D407 U+0336
+math_bold+strikethrough,I,𝐈̶,U+1D408 U+0336
+math_bold+strikethrough,J,𝐉̶,U+1D409 U+0336
+math_bold+strikethrough,K,𝐊̶,U+1D40A U+0336
+math_bold+strikethrough,L,𝐋̶,U+1D40B U+0336
+math_bold+strikethrough,M,𝐌̶,U+1D40C U+0336
+math_bold+strikethrough,N,𝐍̶,U+1D40D U+0336
+math_bold+strikethrough,O,𝐎̶,U+1D40E U+0336
+math_bold+strikethrough,P,𝐏̶,U+1D40F U+0336
+math_bold+strikethrough,Q,𝐐̶,U+1D410 U+0336
+math_bold+strikethrough,R,𝐑̶,U+1D411 U+0336
+math_bold+strikethrough,S,𝐒̶,U+1D412 U+0336
+math_bold+strikethrough,T,𝐓̶,U+1D413 U+0336
+math_bold+strikethrough,U,𝐔̶,U+1D414 U+0336
+math_bold+strikethrough,V,𝐕̶,U+1D415 U+0336
+math_bold+strikethrough,W,𝐖̶,U+1D416 U+0336
+math_bold+strikethrough,X,𝐗̶,U+1D417 U+0336
+math_bold+strikethrough,Y,𝐘̶,U+1D418 U+0336
+math_bold+strikethrough,Z,𝐙̶,U+1D419 U+0336
+math_bold+strikethrough,[,[̶,U+005B U+0336
+math_bold+strikethrough,\,\̶,U+005C U+0336
+math_bold+strikethrough,],]̶,U+005D U+0336
+math_bold+strikethrough,^,^̶,U+005E U+0336
+math_bold+strikethrough,_,_̶,U+005F U+0336
+math_bold+strikethrough,`,`̶,U+0060 U+0336
+math_bold+strikethrough,a,𝐚̶,U+1D41A U+0336
+math_bold+strikethrough,b,𝐛̶,U+1D41B U+0336
+math_bold+strikethrough,c,𝐜̶,U+1D41C U+0336
+math_bold+strikethrough,d,𝐝̶,U+1D41D U+0336
+math_bold+strikethrough,e,𝐞̶,U+1D41E U+0336
+math_bold+strikethrough,f,𝐟̶,U+1D41F U+0336
+math_bold+strikethrough,g,𝐠̶,U+1D420 U+0336
+math_bold+strikethrough,h,𝐡̶,U+1D421 U+0336
+math_bold+strikethrough,i,𝐢̶,U+1D422 U+0336
+math_bold+strikethrough,j,𝐣̶,U+1D423 U+0336
+math_bold+strikethrough,k,𝐤̶,U+1D424 U+0336
+math_bold+strikethrough,l,𝐥̶,U+1D425 U+0336
+math_bold+strikethrough,m,𝐦̶,U+1D426 U+0336
+math_bold+strikethrough,n,𝐧̶,U+1D427 U+0336
+math_bold+strikethrough,o,𝐨̶,U+1D428 U+0336
+math_bold+strikethrough,p,𝐩̶,U+1D429 U+0336
+math_bold+strikethrough,q,𝐪̶,U+1D42A U+0336
+math_bold+strikethrough,r,𝐫̶,U+1D42B U+0336
+math_bold+strikethrough,s,𝐬̶,U+1D42C U+0336
+math_bold+strikethrough,t,𝐭̶,U+1D42D U+0336
+math_bold+strikethrough,u,𝐮̶,U+1D42E U+0336
+math_bold+strikethrough,v,𝐯̶,U+1D42F U+0336
+math_bold+strikethrough,w,𝐰̶,U+1D430 U+0336
+math_bold+strikethrough,x,𝐱̶,U+1D431 U+0336
+math_bold+strikethrough,y,𝐲̶,U+1D432 U+0336
+math_bold+strikethrough,z,𝐳̶,U+1D433 U+0336
+math_bold+strikethrough,{,{̶,U+007B U+0336
+math_bold+strikethrough,|,|̶,U+007C U+0336
+math_bold+strikethrough,},}̶,U+007D U+0336
+math_bold+strikethrough,~,~̶,U+007E U+0336
+runic,A,ᚨ,U+16A8
+runic,B,ᛒ,U+16D2
+runic,C,ᚲ,U+16B2
+runic,D,ᛞ,U+16DE
+runic,E,ᛖ,U+16D6
+runic,F,ᚠ,U+16A0
+runic,G,ᚷ,U+16B7
+runic,H,ᚺ,U+16BA
+runic,I,ᛁ,U+16C1
+runic,J,ᛃ,U+16C3
+runic,K,ᚲ,U+16B2
+runic,L,ᛚ,U+16DA
+runic,M,ᛗ,U+16D7
+runic,N,ᚾ,U+16BE
+runic,O,ᛟ,U+16DF
+runic,P,ᛈ,U+16C8
+runic,Q,ᚲ,U+16B2
+runic,R,ᚱ,U+16B1
+runic,S,ᛊ,U+16CA
+runic,T,ᛏ,U+16CF
+runic,U,ᚢ,U+16A2
+runic,V,ᚹ,U+16B9
+runic,W,ᚹ,U+16B9
+runic,X,ᚲᛊ,U+16B2 U+16CA
+runic,Y,ᛁ,U+16C1
+runic,Z,ᛉ,U+16C9
+runic,a,ᚨ,U+16A8
+runic,b,ᛒ,U+16D2
+runic,c,ᚲ,U+16B2
+runic,d,ᛞ,U+16DE
+runic,e,ᛖ,U+16D6
+runic,f,ᚠ,U+16A0
+runic,g,ᚷ,U+16B7
+runic,h,ᚺ,U+16BA
+runic,i,ᛁ,U+16C1
+runic,j,ᛃ,U+16C3
+runic,k,ᚲ,U+16B2
+runic,l,ᛚ,U+16DA
+runic,m,ᛗ,U+16D7
+runic,n,ᚾ,U+16BE
+runic,o,ᛟ,U+16DF
+runic,p,ᛈ,U+16C8
+runic,q,ᚲ,U+16B2
+runic,r,ᚱ,U+16B1
+runic,s,ᛊ,U+16CA
+runic,t,ᛏ,U+16CF
+runic,u,ᚢ,U+16A2
+runic,v,ᚹ,U+16B9
+runic,w,ᚹ,U+16B9
+runic,x,ᚲᛊ,U+16B2 U+16CA
+runic,y,ᛁ,U+16C1
+runic,z,ᛉ,U+16C9
+mimic_andalucia,0,𝟶,U+1D7F6
+mimic_andalucia,1,𝟷,U+1D7F7
+mimic_andalucia,2,𝟸,U+1D7F8
+mimic_andalucia,3,𝟹,U+1D7F9
+mimic_andalucia,4,𝟺,U+1D7FA
+mimic_andalucia,5,𝟻,U+1D7FB
+mimic_andalucia,6,𝟼,U+1D7FC
+mimic_andalucia,7,𝟽,U+1D7FD
+mimic_andalucia,8,𝟾,U+1D7FE
+mimic_andalucia,9,𝟿,U+1D7FF
+mimic_andalucia,A,𝓐,U+1D4D0
+mimic_andalucia,B,𝓑,U+1D4D1
+mimic_andalucia,C,𝓒,U+1D4D2
+mimic_andalucia,D,𝓓,U+1D4D3
+mimic_andalucia,E,𝓔,U+1D4D4
+mimic_andalucia,F,𝓕,U+1D4D5
+mimic_andalucia,G,𝓖,U+1D4D6
+mimic_andalucia,H,𝓗,U+1D4D7
+mimic_andalucia,I,𝓘,U+1D4D8
+mimic_andalucia,J,𝓙,U+1D4D9
+mimic_andalucia,K,𝓚,U+1D4DA
+mimic_andalucia,L,𝓛,U+1D4DB
+mimic_andalucia,M,𝓜,U+1D4DC
+mimic_andalucia,N,𝓝,U+1D4DD
+mimic_andalucia,O,𝓞,U+1D4DE
+mimic_andalucia,P,𝓟,U+1D4DF
+mimic_andalucia,Q,𝓠,U+1D4E0
+mimic_andalucia,R,𝓡,U+1D4E1
+mimic_andalucia,S,𝓢,U+1D4E2
+mimic_andalucia,T,𝓣,U+1D4E3
+mimic_andalucia,U,𝓤,U+1D4E4
+mimic_andalucia,V,𝓥,U+1D4E5
+mimic_andalucia,W,𝓦,U+1D4E6
+mimic_andalucia,X,𝓧,U+1D4E7
+mimic_andalucia,Y,𝓨,U+1D4E8
+mimic_andalucia,Z,𝓩,U+1D4E9
+mimic_andalucia,a,𝓪,U+1D4EA
+mimic_andalucia,b,𝓫,U+1D4EB
+mimic_andalucia,c,𝓬,U+1D4EC
+mimic_andalucia,d,𝓭,U+1D4ED
+mimic_andalucia,e,𝓮,U+1D4EE
+mimic_andalucia,f,𝓯,U+1D4EF
+mimic_andalucia,g,𝓰,U+1D4F0
+mimic_andalucia,h,𝓱,U+1D4F1
+mimic_andalucia,i,𝓲,U+1D4F2
+mimic_andalucia,j,𝓳,U+1D4F3
+mimic_andalucia,k,𝓴,U+1D4F4
+mimic_andalucia,l,𝓵,U+1D4F5
+mimic_andalucia,m,𝓶,U+1D4F6
+mimic_andalucia,n,𝓷,U+1D4F7
+mimic_andalucia,o,𝓸,U+1D4F8
+mimic_andalucia,p,𝓹,U+1D4F9
+mimic_andalucia,q,𝓺,U+1D4FA
+mimic_andalucia,r,𝓻,U+1D4FB
+mimic_andalucia,s,𝓼,U+1D4FC
+mimic_andalucia,t,𝓽,U+1D4FD
+mimic_andalucia,u,𝓾,U+1D4FE
+mimic_andalucia,v,𝓿,U+1D4FF
+mimic_andalucia,w,𝔀,U+1D500
+mimic_andalucia,x,𝔁,U+1D501
+mimic_andalucia,y,𝔂,U+1D502
+mimic_andalucia,z,𝔃,U+1D503
+mimic_cjk,A,卂,U+5342
+mimic_cjk,B,乃,U+4E43
+mimic_cjk,C,匚,U+531A
+mimic_cjk,D,ᗪ,U+15EA
+mimic_cjk,E,乇,U+4E47
+mimic_cjk,F,千,U+5343
+mimic_cjk,G,Ꮆ,U+13B6
+mimic_cjk,H,卄,U+5344
+mimic_cjk,I,工,U+5DE5
+mimic_cjk,J,ﾌ,U+FF8C
+mimic_cjk,K,长,U+957F
+mimic_cjk,L,ㄥ,U+3125
+mimic_cjk,M,爪,U+722A
+mimic_cjk,N,几,U+51E0
+mimic_cjk,O,口,U+53E3
+mimic_cjk,P,ㄗ,U+3117
+mimic_cjk,Q,Ɋ,U+024A
+mimic_cjk,R,尺,U+5C3A
+mimic_cjk,S,丂,U+4E02
+mimic_cjk,T,丅,U+4E05
+mimic_cjk,U,ㄩ,U+3129
+mimic_cjk,V,ᐯ,U+142F
+mimic_cjk,W,山,U+5C71
+mimic_cjk,X,乂,U+4E42
+mimic_cjk,Y,ㄚ,U+311A
+mimic_cjk,Z,乙,U+4E59
+mimic_cjk,a,卂,U+5342
+mimic_cjk,b,乃,U+4E43
+mimic_cjk,c,匚,U+531A
+mimic_cjk,d,ᗪ,U+15EA
+mimic_cjk,e,乇,U+4E47
+mimic_cjk,f,千,U+5343
+mimic_cjk,g,Ꮆ,U+13B6
+mimic_cjk,h,卄,U+5344
+mimic_cjk,i,工,U+5DE5
+mimic_cjk,j,ﾌ,U+FF8C
+mimic_cjk,k,长,U+957F
+mimic_cjk,l,ㄥ,U+3125
+mimic_cjk,m,爪,U+722A
+mimic_cjk,n,几,U+51E0
+mimic_cjk,o,口,U+53E3
+mimic_cjk,p,ㄗ,U+3117
+mimic_cjk,q,Ɋ,U+024A
+mimic_cjk,r,尺,U+5C3A
+mimic_cjk,s,丂,U+4E02
+mimic_cjk,t,丅,U+4E05
+mimic_cjk,u,ㄩ,U+3129
+mimic_cjk,v,ᐯ,U+142F
+mimic_cjk,w,山,U+5C71
+mimic_cjk,x,乂,U+4E42
+mimic_cjk,y,ㄚ,U+311A
+mimic_cjk,z,乙,U+4E59
+mimic_syllabics,A,ᗩ,U+15E9
+mimic_syllabics,B,ᗷ,U+15F7
+mimic_syllabics,C,ᑕ,U+1455
+mimic_syllabics,D,ᗪ,U+15EA
+mimic_syllabics,E,ᙓ,U+1653
+mimic_syllabics,F,ᖴ,U+15B4
+mimic_syllabics,G,ᘜ,U+161C
+mimic_syllabics,H,ᕼ,U+157C
+mimic_syllabics,I,ᒎ,U+148E
+mimic_syllabics,J,ᒎ,U+148E
+mimic_syllabics,K,ᛕ,U+16D5
+mimic_syllabics,L,ᒪ,U+14AA
+mimic_syllabics,M,ᗰ,U+15F0
+mimic_syllabics,N,ᑎ,U+144E
+mimic_syllabics,O,ᗝ,U+15DD
+mimic_syllabics,P,ᑭ,U+146D
+mimic_syllabics,Q,ᕴ,U+1574
+mimic_syllabics,R,ᖇ,U+1587
+mimic_syllabics,S,ᔕ,U+1515
+mimic_syllabics,T,ᕝ,U+155D
+mimic_syllabics,U,ᑌ,U+144C
+mimic_syllabics,V,ᐯ,U+142F
+mimic_syllabics,W,ᗯ,U+15EF
+mimic_syllabics,X,᙭,U+166D
+mimic_syllabics,Y,ᖻ,U+15BB
+mimic_syllabics,Z,ᔓ,U+1513
+mimic_syllabics,a,ᗩ,U+15E9
+mimic_syllabics,b,ᗷ,U+15F7
+mimic_syllabics,c,ᑕ,U+1455
+mimic_syllabics,d,ᗪ,U+15EA
+mimic_syllabics,e,ᙓ,U+1653
+mimic_syllabics,f,ᖴ,U+15B4
+mimic_syllabics,g,ᘜ,U+161C
+mimic_syllabics,h,ᕼ,U+157C
+mimic_syllabics,i,ᒎ,U+148E
+mimic_syllabics,j,ᒎ,U+148E
+mimic_syllabics,k,ᛕ,U+16D5
+mimic_syllabics,l,ᒪ,U+14AA
+mimic_syllabics,m,ᗰ,U+15F0
+mimic_syllabics,n,ᑎ,U+144E
+mimic_syllabics,o,ᗝ,U+15DD
+mimic_syllabics,p,ᑭ,U+146D
+mimic_syllabics,q,ᕴ,U+1574
+mimic_syllabics,r,ᖇ,U+1587
+mimic_syllabics,s,ᔕ,U+1515
+mimic_syllabics,t,ᕝ,U+155D
+mimic_syllabics,u,ᑌ,U+144C
+mimic_syllabics,v,ᐯ,U+142F
+mimic_syllabics,w,ᗯ,U+15EF
+mimic_syllabics,x,᙭,U+166D
+mimic_syllabics,y,ᖻ,U+15BB
+mimic_syllabics,z,ᔓ,U+1513
+mimic_yi,A,ꍏ,U+A34F
+mimic_yi,B,ꌃ,U+A303
+mimic_yi,C,ꉓ,U+A253
+mimic_yi,D,ꀸ,U+A038
+mimic_yi,E,ꍟ,U+A35F
+mimic_yi,F,ꎇ,U+A387
+mimic_yi,G,ꁸ,U+A078
+mimic_yi,H,ꃅ,U+A0C5
+mimic_yi,I,ꀤ,U+A024
+mimic_yi,J,ꀭ,U+A02D
+mimic_yi,K,ꀘ,U+A018
+mimic_yi,L,꒒,U+A492
+mimic_yi,M,ꂵ,U+A0B5
+mimic_yi,N,ꈤ,U+A224
+mimic_yi,O,ꂦ,U+A0A6
+mimic_yi,P,ꉣ,U+A263
+mimic_yi,Q,ꆰ,U+A1B0
+mimic_yi,R,ꋪ,U+A2EA
+mimic_yi,S,ꌗ,U+A317
+mimic_yi,T,꓄,U+A4C4
+mimic_yi,U,ꐇ,U+A407
+mimic_yi,V,ꀰ,U+A030
+mimic_yi,W,ꅐ,U+A150
+mimic_yi,X,ꊼ,U+A2BC
+mimic_yi,Y,ꐟ,U+A41F
+mimic_yi,Z,ꁴ,U+A074
+mimic_yi,a,ꍏ,U+A34F
+mimic_yi,b,ꌃ,U+A303
+mimic_yi,c,ꉓ,U+A253
+mimic_yi,d,ꀸ,U+A038
+mimic_yi,e,ꍟ,U+A35F
+mimic_yi,f,ꎇ,U+A387
+mimic_yi,g,ꁸ,U+A078
+mimic_yi,h,ꃅ,U+A0C5
+mimic_yi,i,ꀤ,U+A024
+mimic_yi,j,ꀭ,U+A02D
+mimic_yi,k,ꀘ,U+A018
+mimic_yi,l,꒒,U+A492
+mimic_yi,m,ꂵ,U+A0B5
+mimic_yi,n,ꈤ,U+A224
+mimic_yi,o,ꂦ,U+A0A6
+mimic_yi,p,ꉣ,U+A263
+mimic_yi,q,ꆰ,U+A1B0
+mimic_yi,r,ꋪ,U+A2EA
+mimic_yi,s,ꌗ,U+A317
+mimic_yi,t,꓄,U+A4C4
+mimic_yi,u,ꐇ,U+A407
+mimic_yi,v,ꀰ,U+A030
+mimic_yi,w,ꅐ,U+A150
+mimic_yi,x,ꊼ,U+A2BC
+mimic_yi,y,ꐟ,U+A41F
+mimic_yi,z,ꁴ,U+A074
+mimic_comic,0,𝟎,U+1D7CE
+mimic_comic,1,𝟏,U+1D7CF
+mimic_comic,2,𝟐,U+1D7D0
+mimic_comic,3,𝟑,U+1D7D1
+mimic_comic,4,𝟒,U+1D7D2
+mimic_comic,5,𝟓,U+1D7D3
+mimic_comic,6,𝟔,U+1D7D4
+mimic_comic,7,𝟕,U+1D7D5
+mimic_comic,8,𝟖,U+1D7D6
+mimic_comic,9,𝟗,U+1D7D7
+mimic_comic,A,🅰,U+1F170
+mimic_comic,B,🅱,U+1F171
+mimic_comic,C,🅲,U+1F172
+mimic_comic,D,🅳,U+1F173
+mimic_comic,E,🅴,U+1F174
+mimic_comic,F,🅵,U+1F175
+mimic_comic,G,🅶,U+1F176
+mimic_comic,H,🅷,U+1F177
+mimic_comic,I,🅸,U+1F178
+mimic_comic,J,🅹,U+1F179
+mimic_comic,K,🅺,U+1F17A
+mimic_comic,L,🅻,U+1F17B
+mimic_comic,M,🅼,U+1F17C
+mimic_comic,N,🅽,U+1F17D
+mimic_comic,O,🅾,U+1F17E
+mimic_comic,P,🅿,U+1F17F
+mimic_comic,Q,🆀,U+1F180
+mimic_comic,R,🆁,U+1F181
+mimic_comic,S,🆂,U+1F182
+mimic_comic,T,🆃,U+1F183
+mimic_comic,U,🆄,U+1F184
+mimic_comic,V,🆅,U+1F185
+mimic_comic,W,🆆,U+1F186
+mimic_comic,X,🆇,U+1F187
+mimic_comic,Y,🆈,U+1F188
+mimic_comic,Z,🆉,U+1F189
+mimic_comic,a,𝖆,U+1D586
+mimic_comic,b,𝖇,U+1D587
+mimic_comic,c,𝖈,U+1D588
+mimic_comic,d,𝖉,U+1D589
+mimic_comic,e,𝖊,U+1D58A
+mimic_comic,f,𝖋,U+1D58B
+mimic_comic,g,𝖌,U+1D58C
+mimic_comic,h,𝖍,U+1D58D
+mimic_comic,i,𝖎,U+1D58E
+mimic_comic,j,𝖏,U+1D58F
+mimic_comic,k,𝖐,U+1D590
+mimic_comic,l,𝖑,U+1D591
+mimic_comic,m,𝖒,U+1D592
+mimic_comic,n,𝖓,U+1D593
+mimic_comic,o,𝖔,U+1D594
+mimic_comic,p,𝖕,U+1D595
+mimic_comic,q,𝖖,U+1D596
+mimic_comic,r,𝖗,U+1D597
+mimic_comic,s,𝖘,U+1D598
+mimic_comic,t,𝖙,U+1D599
+mimic_comic,u,𝖚,U+1D59A
+mimic_comic,v,𝖛,U+1D59B
+mimic_comic,w,𝖜,U+1D59C
+mimic_comic,x,𝖝,U+1D59D
+mimic_comic,y,𝖞,U+1D59E
+mimic_comic,z,𝖟,U+1D59F
+mimic_currency,A,Ⱥ,U+023A
+mimic_currency,B,฿,U+0E3F
+mimic_currency,C,¢,U+00A2
+mimic_currency,D,Đ,U+0110
+mimic_currency,E,€,U+20AC
+mimic_currency,F,₣,U+20A3
+mimic_currency,G,₲,U+20B2
+mimic_currency,H,Ħ,U+0126
+mimic_currency,K,₭,U+20AD
+mimic_currency,L,£,U+00A3
+mimic_currency,M,₼,U+20BC
+mimic_currency,N,₦,U+20A6
+mimic_currency,O,Ø,U+00D8
+mimic_currency,P,₱,U+20B1
+mimic_currency,R,₹,U+20B9
+mimic_currency,S,$,U+0024
+mimic_currency,T,₮,U+20AE
+mimic_currency,U,Ʉ,U+0244
+mimic_currency,W,₩,U+20A9
+mimic_currency,Y,¥,U+00A5
+mimic_currency,Z,ⱬ,U+2C6C
+mimic_currency,a,Ⱥ,U+023A
+mimic_currency,b,฿,U+0E3F
+mimic_currency,c,¢,U+00A2
+mimic_currency,d,Đ,U+0110
+mimic_currency,e,€,U+20AC
+mimic_currency,f,₣,U+20A3
+mimic_currency,g,₲,U+20B2
+mimic_currency,h,Ħ,U+0126
+mimic_currency,k,₭,U+20AD
+mimic_currency,l,£,U+00A3
+mimic_currency,m,₼,U+20BC
+mimic_currency,n,₦,U+20A6
+mimic_currency,o,Ø,U+00D8
+mimic_currency,p,₱,U+20B1
+mimic_currency,r,₹,U+20B9
+mimic_currency,s,$,U+0024
+mimic_currency,t,₮,U+20AE
+mimic_currency,u,Ʉ,U+0244
+mimic_currency,w,₩,U+20A9
+mimic_currency,y,¥,U+00A5
+mimic_currency,z,ⱬ,U+2C6C
+mimic_wingdings,0,❍,U+274D
+mimic_wingdings,1,★,U+2605
+mimic_wingdings,2,☆,U+2606
+mimic_wingdings,3,✦,U+2726
+mimic_wingdings,4,✧,U+2727
+mimic_wingdings,5,❂,U+2742
+mimic_wingdings,6,✶,U+2736
+mimic_wingdings,7,✷,U+2737
+mimic_wingdings,8,✸,U+2738
+mimic_wingdings,9,✹,U+2739
+mimic_wingdings,A,✌,U+270C
+mimic_wingdings,B,☞,U+261E
+mimic_wingdings,C,☺,U+263A
+mimic_wingdings,D,☹,U+2639
+mimic_wingdings,E,☠,U+2620
+mimic_wingdings,F,✋,U+270B
+mimic_wingdings,G,☝,U+261D
+mimic_wingdings,H,✍,U+270D
+mimic_wingdings,I,✏,U+270F
+mimic_wingdings,J,✂,U+2702
+mimic_wingdings,K,✆,U+2706
+mimic_wingdings,L,✈,U+2708
+mimic_wingdings,M,✉,U+2709
+mimic_wingdings,N,☎,U+260E
+mimic_wingdings,O,⌛,U+231B
+mimic_wingdings,P,⏳,U+23F3
+mimic_wingdings,Q,✒,U+2712
+mimic_wingdings,R,❤,U+2764
+mimic_wingdings,S,☀,U+2600
+mimic_wingdings,T,☂,U+2602
+mimic_wingdings,U,☯,U+262F
+mimic_wingdings,V,✝,U+271D
+mimic_wingdings,W,✡,U+2721
+mimic_wingdings,X,☢,U+2622
+mimic_wingdings,Y,☣,U+2623
+mimic_wingdings,Z,❄,U+2744
+mimic_wingdings,a,✌,U+270C
+mimic_wingdings,b,☞,U+261E
+mimic_wingdings,c,☺,U+263A
+mimic_wingdings,d,☹,U+2639
+mimic_wingdings,e,☠,U+2620
+mimic_wingdings,f,✋,U+270B
+mimic_wingdings,g,☝,U+261D
+mimic_wingdings,h,✍,U+270D
+mimic_wingdings,i,✏,U+270F
+mimic_wingdings,j,✂,U+2702
+mimic_wingdings,k,✆,U+2706
+mimic_wingdings,l,✈,U+2708
+mimic_wingdings,m,✉,U+2709
+mimic_wingdings,n,☎,U+260E
+mimic_wingdings,o,⌛,U+231B
+mimic_wingdings,p,⏳,U+23F3
+mimic_wingdings,q,✒,U+2712
+mimic_wingdings,r,❤,U+2764
+mimic_wingdings,s,☀,U+2600
+mimic_wingdings,t,☂,U+2602
+mimic_wingdings,u,☯,U+262F
+mimic_wingdings,v,✝,U+271D
+mimic_wingdings,w,✡,U+2721
+mimic_wingdings,x,☢,U+2622
+mimic_wingdings,y,☣,U+2623
+mimic_wingdings,z,❄,U+2744
+regional_indicator,A,🇦,U+1F1E6
+regional_indicator,B,🇧,U+1F1E7
+regional_indicator,C,🇨,U+1F1E8
+regional_indicator,D,🇩,U+1F1E9
+regional_indicator,E,🇪,U+1F1EA
+regional_indicator,F,🇫,U+1F1EB
+regional_indicator,G,🇬,U+1F1EC
+regional_indicator,H,🇭,U+1F1ED
+regional_indicator,I,🇮,U+1F1EE
+regional_indicator,J,🇯,U+1F1EF
+regional_indicator,K,🇰,U+1F1F0
+regional_indicator,L,🇱,U+1F1F1
+regional_indicator,M,🇲,U+1F1F2
+regional_indicator,N,🇳,U+1F1F3
+regional_indicator,O,🇴,U+1F1F4
+regional_indicator,P,🇵,U+1F1F5
+regional_indicator,Q,🇶,U+1F1F6
+regional_indicator,R,🇷,U+1F1F7
+regional_indicator,S,🇸,U+1F1F8
+regional_indicator,T,🇹,U+1F1F9
+regional_indicator,U,🇺,U+1F1FA
+regional_indicator,V,🇻,U+1F1FB
+regional_indicator,W,🇼,U+1F1FC
+regional_indicator,X,🇽,U+1F1FD
+regional_indicator,Y,🇾,U+1F1FE
+regional_indicator,Z,🇿,U+1F1FF
+regional_indicator,a,🇦,U+1F1E6
+regional_indicator,b,🇧,U+1F1E7
+regional_indicator,c,🇨,U+1F1E8
+regional_indicator,d,🇩,U+1F1E9
+regional_indicator,e,🇪,U+1F1EA
+regional_indicator,f,🇫,U+1F1EB
+regional_indicator,g,🇬,U+1F1EC
+regional_indicator,h,🇭,U+1F1ED
+regional_indicator,i,🇮,U+1F1EE
+regional_indicator,j,🇯,U+1F1EF
+regional_indicator,k,🇰,U+1F1F0
+regional_indicator,l,🇱,U+1F1F1
+regional_indicator,m,🇲,U+1F1F2
+regional_indicator,n,🇳,U+1F1F3
+regional_indicator,o,🇴,U+1F1F4
+regional_indicator,p,🇵,U+1F1F5
+regional_indicator,q,🇶,U+1F1F6
+regional_indicator,r,🇷,U+1F1F7
+regional_indicator,s,🇸,U+1F1F8
+regional_indicator,t,🇹,U+1F1F9
+regional_indicator,u,🇺,U+1F1FA
+regional_indicator,v,🇻,U+1F1FB
+regional_indicator,w,🇼,U+1F1FC
+regional_indicator,x,🇽,U+1F1FD
+regional_indicator,y,🇾,U+1F1FE
+regional_indicator,z,🇿,U+1F1FF
