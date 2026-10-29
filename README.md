@@ -1,5 +1,7 @@
 # fancy text — Unicode text styles
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23776168.svg)](https://doi.org/10.5281/zenodo.23776168)
+
 **120 Unicode "fancy text" styles — 𝐛𝐨𝐥𝐝, 𝓼𝓬𝓻𝓲𝓹𝓽, Ⓑⓤⓑⓑⓛⓔ, 𝔤𝔬𝔱𝔥𝔦𝔠, ʇxǝʇ uʍop ǝpᴉsdn, z̮͗å̘l̪̒g͍̕ó̝ — as
 language-neutral JSON, with identical JavaScript and Python libraries, and a reverse table
 that turns them back into plain text.**
